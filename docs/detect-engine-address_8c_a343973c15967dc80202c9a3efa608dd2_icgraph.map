@@ -1,0 +1,4 @@
+<map id="DetectAddressCmp" name="DetectAddressCmp">
+<area shape="rect" id="node1" title="Used to compare 2 address ranges." alt="" coords="244,5,381,32"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#ad4cac8db3041b25f76aa3d6c728240a1" title="Checks if two address group lists are equal." alt="" coords="5,5,196,32"/>
+</map>

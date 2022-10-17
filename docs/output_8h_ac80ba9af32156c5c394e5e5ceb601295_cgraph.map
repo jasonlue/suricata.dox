@@ -1,0 +1,52 @@
+<map id="TmModuleLoggerRegister" name="TmModuleLoggerRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1196,176,1223"/>
+<area shape="rect" id="node2" href="$output_8c.html#a78e884b3e87cdcf1209a58fa547056ba" title="Register all non&#45;root logging modules." alt="" coords="238,1171,394,1197"/>
+<area shape="rect" id="node50" href="$output_8c.html#a18b3d5c3ac4a7317edac272c89217b45" title="Register all root loggers." alt="" coords="224,1221,408,1248"/>
+<area shape="rect" id="node3" href="$alert-debuglog_8c.html#a828fce4c0f1878b46e93a31d3c17a977" title=" " alt="" coords="478,5,635,32"/>
+<area shape="rect" id="node4" href="$alert-fastlog_8c.html#a30a605b3d274475e1b37ac89d774c72b" title=" " alt="" coords="484,56,629,83"/>
+<area shape="rect" id="node5" href="$alert-syslog_8c.html#a458d1e6d76862bdf808307c6a6430362" title="Function to register the AlertSyslog module." alt="" coords="487,107,626,133"/>
+<area shape="rect" id="node6" href="$output-json-alert_8c.html#aed1403d04f06046ac1fe5f8d387bbfe1" title=" " alt="" coords="483,157,630,184"/>
+<area shape="rect" id="node7" href="$output-json-anomaly_8c.html#aa373e0d8e1f3d6fdb1f412712938368d" title=" " alt="" coords="471,208,642,235"/>
+<area shape="rect" id="node8" href="$output-json-dcerpc_8c.html#a71106da6dba897b04d501d2bc0c237a6" title=" " alt="" coords="467,259,646,285"/>
+<area shape="rect" id="node9" href="$output-json-dhcp_8c.html#ada6ff4f24e49c51aaba1864b9e9eb567" title=" " alt="" coords="477,309,636,336"/>
+<area shape="rect" id="node10" href="$output-json-dnp3_8c.html#ad0578ebcda476b2f23079d6fd5a74263" title=" " alt="" coords="479,360,635,387"/>
+<area shape="rect" id="node11" href="$output-json-dns_8c.html#a03439b2eac0413161c09f4e58e03fc65" title=" " alt="" coords="485,411,629,437"/>
+<area shape="rect" id="node12" href="$output-json-drop_8c.html#ae792ad71064476cb42818f51c487f156" title=" " alt="" coords="483,461,631,488"/>
+<area shape="rect" id="node13" href="$output-json-file_8c.html#aa55694483b18d97ccba374b85b0b95cc" title=" " alt="" coords="486,512,627,539"/>
+<area shape="rect" id="node14" href="$output-json-flow_8c.html#a1fe4e7de0fa8dcaa389143849f33e209" title=" " alt="" coords="483,563,631,589"/>
+<area shape="rect" id="node15" href="$output-json-frame_8c.html#a4003c4f03ab0ee09427fa48485470209" title=" " alt="" coords="478,613,635,640"/>
+<area shape="rect" id="node16" href="$output-json-ftp_8c.html#a09e0690b6f3a77702209919be93337bc" title=" " alt="" coords="484,664,629,691"/>
+<area shape="rect" id="node17" href="$output-json-http2_8c.html#a34169d954ec4605f9930240dd6fff064" title=" " alt="" coords="481,715,633,741"/>
+<area shape="rect" id="node18" href="$output-json-http_8c.html#a9bd551ee293541a66205c654614dd937" title=" " alt="" coords="484,765,629,792"/>
+<area shape="rect" id="node19" href="$output-json-ike_8c.html#acfd2e3573750e5d323faa96718d06ae0" title=" " alt="" coords="485,816,628,843"/>
+<area shape="rect" id="node20" href="$output-json-krb5_8c.html#ac9828ffb8ab8954513c08e570f0cddde" title=" " alt="" coords="479,867,634,893"/>
+<area shape="rect" id="node21" href="$output-json-metadata_8c.html#a9dba4ab3813b56cb3f1b245f3ebda841" title=" " alt="" coords="469,917,644,944"/>
+<area shape="rect" id="node22" href="$output-json-modbus_8c.html#a6145b723e8f948f4dfeb282c271eca7f" title=" " alt="" coords="473,968,640,995"/>
+<area shape="rect" id="node23" href="$output-json-mqtt_8c.html#a8bb6f7f773b23c77711af39ec541c00e" title=" " alt="" coords="478,1019,635,1045"/>
+<area shape="rect" id="node24" href="$output-json-netflow_8c.html#a0ff89bc6ebe4e24604af169ba4739bd3" title=" " alt="" coords="472,1069,641,1096"/>
+<area shape="rect" id="node25" href="$output-json-nfs_8c.html#a7182b6ca6a4ea38de662e82ad27c8609" title=" " alt="" coords="483,1120,630,1147"/>
+<area shape="rect" id="node26" href="$output-json-pgsql_8c.html#a37ccbf3e947eda587442ddcc52d5efa7" title=" " alt="" coords="480,1171,633,1197"/>
+<area shape="rect" id="node27" href="$output-json-quic_8c.html#ac3a6f2e9d4ac9d40e9e29523cfaf03f4" title=" " alt="" coords="483,1221,630,1248"/>
+<area shape="rect" id="node28" href="$output-json-rdp_8c.html#a717409bd55a6d7462446ab0b66722ee9" title=" " alt="" coords="485,1272,629,1299"/>
+<area shape="rect" id="node29" href="$output-json-rfb_8c.html#aca57a861f45540a9fccebd9daf8ec66b" title=" " alt="" coords="483,1323,630,1349"/>
+<area shape="rect" id="node30" href="$output-json-sip_8c.html#aaecece0a42ce4237967594af0d14f1c8" title=" " alt="" coords="485,1373,628,1400"/>
+<area shape="rect" id="node31" href="$output-json-smb_8c.html#aaefebff45c36ed348ebbe9e77a95d919" title=" " alt="" coords="482,1424,631,1451"/>
+<area shape="rect" id="node32" href="$output-json-smtp_8c.html#a832558d7b3b54d9029b060b4715d8030" title=" " alt="" coords="481,1475,632,1501"/>
+<area shape="rect" id="node33" href="$output-json-snmp_8c.html#a6f3e95e488066e4585a9b6e82db53d12" title=" " alt="" coords="477,1525,636,1552"/>
+<area shape="rect" id="node34" href="$output-json-ssh_8c.html#aa70c7028853f836f7edca4fdd8d94f6d" title=" " alt="" coords="485,1576,628,1603"/>
+<area shape="rect" id="node35" href="$output-json-stats_8c.html#a2a378b7f1adee0121cae458d7daf4852" title=" " alt="" coords="481,1627,632,1653"/>
+<area shape="rect" id="node36" href="$output-json-template_8c.html#a820bce79151cf51854426ad16a028455" title=" " alt="" coords="470,1677,643,1704"/>
+<area shape="rect" id="node37" href="$output-json-template-rust_8c.html#ae97ccc5e6c396b3388037966d306721b" title=" " alt="" coords="456,1728,657,1755"/>
+<area shape="rect" id="node38" href="$output-json-tftp_8c.html#aa85d4f10d444cd881725c1291695acce" title=" " alt="" coords="480,1779,633,1805"/>
+<area shape="rect" id="node39" href="$output-json-tls_8c.html#ae625206db8fdaba334dc610f8c6321dd" title=" " alt="" coords="487,1829,626,1856"/>
+<area shape="rect" id="node40" href="$log-cf-common_8c.html#a0c67d96da7d9dbd39abda040dbe4568a" title=" " alt="" coords="467,1880,646,1907"/>
+<area shape="rect" id="node41" href="$log-httplog_8c.html#a4a6dd66ee5ec3781a005387dbb036192" title=" " alt="" coords="487,1931,626,1957"/>
+<area shape="rect" id="node42" href="$log-stats_8c.html#ae1150dd97900d6f1d03703d37e028d25" title=" " alt="" coords="485,1981,629,2008"/>
+<area shape="rect" id="node43" href="$log-tcp-data_8c.html#a110b165d5261fbb50a9152c323b32d2c" title=" " alt="" coords="476,2032,637,2059"/>
+<area shape="rect" id="node44" href="$log-tlslog_8c.html#aacfd43c20e7b4f198e9810d3ce8f5e86" title=" " alt="" coords="491,2083,622,2109"/>
+<area shape="rect" id="node45" href="$log-tlsstore_8c.html#a4e7be67bb5b75fa3fb75a938d06f5805" title=" " alt="" coords="486,2133,627,2160"/>
+<area shape="rect" id="node46" href="$output-lua_8c.html#aca879ad70067e431f249f7ea3b361dcd" title=" " alt="" coords="500,2184,613,2211"/>
+<area shape="rect" id="node47" href="$output-filestore_8c.html#a8460037cde74b092e7206a25d90273e2" title=" " alt="" coords="477,2235,637,2261"/>
+<area shape="rect" id="node48" href="$output-json_8c.html#a94bb5e06f4980cab8f91de2ff9fef1f2" title=" " alt="" coords="487,2285,626,2312"/>
+<area shape="rect" id="node49" href="$log-pcap_8c.html#a4e01d60499121acbb066e7e451a1341c" title=" " alt="" coords="495,2336,618,2363"/>
+</map>

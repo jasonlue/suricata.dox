@@ -1,0 +1,4 @@
+<map id="StreamTcpDetectLogFlush" name="StreamTcpDetectLogFlush">
+<area shape="rect" id="node1" title="create packets in both directions to flush out logging and detection before switching protocols...." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$stream-tcp_8c.html#adb134a7f1f2b93a3e4c7ea551e10da69" title="See if stream engine is operating in inline mode." alt="" coords="229,5,376,32"/>
+</map>

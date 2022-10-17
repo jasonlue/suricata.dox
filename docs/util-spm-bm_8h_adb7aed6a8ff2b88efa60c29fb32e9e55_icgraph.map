@@ -1,0 +1,6 @@
+<map id="BoyerMooreCtxInit" name="BoyerMooreCtxInit">
+<area shape="rect" id="node1" title="Setup a Booyer Moore context." alt="" coords="456,31,587,57"/>
+<area shape="rect" id="node2" href="$util-spm-bm_8c.html#a06a22db08f22ff2784c14f468f7018d9" title="Setup a Booyer Moore context for nocase search." alt="" coords="232,5,408,32"/>
+<area shape="rect" id="node4" href="$util-spm_8c.html#ab66098e6a3871d37e8da1f7f43458e5f" title="Search a pattern in the text using Boyer Moore algorithm (build a bad character shifts array and good..." alt="" coords="253,56,387,83"/>
+<area shape="rect" id="node3" href="$util-spm_8c.html#a7134f85eefb8fc1b526e2a4fd04ff6e3" title="Search a pattern in the text using Boyer Moore nocase algorithm (build a bad character shifts array a..." alt="" coords="5,5,184,32"/>
+</map>

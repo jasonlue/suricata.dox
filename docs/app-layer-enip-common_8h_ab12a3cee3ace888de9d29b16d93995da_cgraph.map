@@ -1,0 +1,5 @@
+<map id="DecodeCIPPDU" name="DecodeCIPPDU">
+<area shape="rect" id="node1" title="Decode CIP packet." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$app-layer-enip-common_8c.html#af66192fa06ccd0555f07ab8def695d9a" title="Decode CIP Request." alt="" coords="177,5,345,32"/>
+<area shape="rect" id="node3" href="$app-layer-enip-common_8c.html#a23bf49f497e8c4873f6a8b77ef22d0ea" title="Decode CIP Response." alt="" coords="172,56,351,83"/>
+</map>

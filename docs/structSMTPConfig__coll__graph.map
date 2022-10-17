@@ -1,0 +1,6 @@
+<map id="SMTPConfig" name="SMTPConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="123,184,220,211"/>
+<area shape="rect" id="node2" href="$structMimeDecConfig.html" title="Structure for containing configuration options." alt="" coords="5,95,121,121"/>
+<area shape="rect" id="node3" href="$structConfNode__.html" title=" " alt="" coords="19,5,107,32"/>
+<area shape="rect" id="node4" href="$structStreamingBufferConfig__.html" title=" " alt="" coords="145,95,307,121"/>
+</map>

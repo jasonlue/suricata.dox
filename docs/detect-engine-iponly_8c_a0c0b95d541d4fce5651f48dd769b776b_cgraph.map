@@ -1,0 +1,4 @@
+<map id="IPOnlyDeinit" name="IPOnlyDeinit">
+<area shape="rect" id="node1" title="Deinitialize the IP Only detection engine context." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a0ee09f7331d9312ab5b52d84dae9b44b" title="Frees a Radix tree and all its nodes." alt="" coords="149,5,332,32"/>
+</map>

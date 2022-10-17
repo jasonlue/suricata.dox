@@ -1,0 +1,5 @@
+<map id="DetectPortCmp" name="DetectPortCmp">
+<area shape="rect" id="node1" title="Function that compare port groups." alt="" coords="220,31,333,57"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="29,5,148,32"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a8cbff6d480eaa8da0d0fc51141516d28" title="Checks if two port group lists are equal." alt="" coords="5,56,172,83"/>
+</map>

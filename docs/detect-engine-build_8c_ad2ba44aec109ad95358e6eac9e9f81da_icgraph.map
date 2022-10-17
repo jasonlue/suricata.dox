@@ -1,0 +1,4 @@
+<map id="SignatureIsFileSha256Inspecting" name="SignatureIsFileSha256Inspecting">
+<area shape="rect" id="node1" title="Check if a signature contains the filesha256 keyword." alt="" coords="257,5,471,32"/>
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8c.html#a907dc763544ba79126b0a601c3f3cc6a" title="Set the need hash flag in the sgh." alt="" coords="5,5,209,32"/>
+</map>

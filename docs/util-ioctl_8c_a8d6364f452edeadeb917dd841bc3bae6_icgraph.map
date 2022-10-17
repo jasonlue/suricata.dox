@@ -1,0 +1,4 @@
+<map id="GetIfaceMTU" name="GetIfaceMTU">
+<area shape="rect" id="node1" title="output the link MTU" alt="" coords="217,5,319,32"/>
+<area shape="rect" id="node2" href="$util-ioctl_8c.html#a06ff192ee11f48305e2c109930810ddb" title="output max packet size for a link" alt="" coords="5,5,169,32"/>
+</map>

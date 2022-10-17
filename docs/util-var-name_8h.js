@@ -1,0 +1,11 @@
+var util_var_name_8h =
+[
+    [ "VarNameStoreActivateStaging", "util-var-name_8h.html#a592fdca7a1b1689b70febf8fbd3452e0", null ],
+    [ "VarNameStoreFree", "util-var-name_8h.html#a1ce4d68b4daa7f0ce971db6b3a846709", null ],
+    [ "VarNameStoreFreeOld", "util-var-name_8h.html#adcad267a897ec3d6820982fa1df2ae6b", null ],
+    [ "VarNameStoreLookupById", "util-var-name_8h.html#a99d1bf25f68f4f50b7ba8e5e1dfb9658", null ],
+    [ "VarNameStoreLookupByName", "util-var-name_8h.html#afdad2e17afe0e136adb47fda962f6ef7", null ],
+    [ "VarNameStoreSetupAdd", "util-var-name_8h.html#ad5d60d4622dc5fc65e59998218af3658", null ],
+    [ "VarNameStoreSetupLookup", "util-var-name_8h.html#abb4fcaae71af504fc0555a84caf4a7aa", null ],
+    [ "VarNameStoreSetupStaging", "util-var-name_8h.html#a9bc9c1bb99b9895df4a621d137f6ebda", null ]
+];

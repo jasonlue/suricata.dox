@@ -1,0 +1,5 @@
+<map id="HTPFileCloseHandleRange" name="HTPFileCloseHandleRange">
+<area shape="rect" id="node1" title="close range, add reassembled file if possible" alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$app-layer-htp-range_8c.html#af077a01c67eb12ea99ce1349193c0af2" title=" " alt="" coords="236,5,393,32"/>
+<area shape="rect" id="node3" href="$util-file_8c.html#af030d5405da87224ae8d0481996776b4" title="Store/handle a chunk of file data in the File structure The last file in the FileContainer will be us..." alt="" coords="441,5,556,32"/>
+</map>

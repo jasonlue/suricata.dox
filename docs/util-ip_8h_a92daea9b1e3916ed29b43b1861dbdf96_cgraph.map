@@ -1,0 +1,4 @@
+<map id="ValidateIPV6Address" name="ValidateIPV6Address">
+<area shape="rect" id="node1" title="Validates an IPV6 address and returns the network endian arranged version of the IPV6 addresss." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$util-ip_8c.html#a08eac68e30e1ff9625246c5263019bd7" title="determine if a string is a valid ipv6 address" alt="" coords="199,5,369,32"/>
+</map>

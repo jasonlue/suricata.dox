@@ -1,0 +1,5 @@
+<map id="DetectThresholdDataCopy" name="DetectThresholdDataCopy">
+<area shape="rect" id="node1" title="Make a deep&#45;copy of an extant DetectTHresholdData object." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#afefb6460ca35b0f95dee9e8cbf193af2" title="copy a DetectAddress" alt="" coords="231,5,371,32"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#a3e7759f5bfc45f3e85193ba97f654e3f" title="Creates and returns a new instance of a DetectAddress." alt="" coords="419,5,545,32"/>
+</map>

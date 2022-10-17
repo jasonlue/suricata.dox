@@ -1,0 +1,52 @@
+<map id="/Users/jlu/suricata/src/detect&#45;bsize.c" name="/Users/jlu/suricata/src/detect&#45;bsize.c">
+<area shape="rect" id="node1" title=" " alt="" coords="1690,5,1821,47"/>
+<area shape="rect" id="node2" href="$suricata-common_8h.html" title=" " alt="" coords="677,259,810,285"/>
+<area shape="rect" id="node18" href="$detect_8h.html" title=" " alt="" coords="1278,408,1347,435"/>
+<area shape="rect" id="node39" href="$util-unittest_8h.html" title=" " alt="" coords="1743,177,1840,203"/>
+<area shape="rect" id="node40" href="$util-unittest-helper_8h.html" title=" " alt="" coords="1399,95,1533,121"/>
+<area shape="rect" id="node41" href="$detect-parse_8h.html" title=" " alt="" coords="1557,95,1663,121"/>
+<area shape="rect" id="node42" href="$detect-engine_8h.html" title=" " alt="" coords="1212,95,1323,121"/>
+<area shape="rect" id="node44" href="$detect-content_8h.html" title=" " alt="" coords="1939,408,2055,435"/>
+<area shape="rect" id="node45" href="$detect-engine-uint_8h.html" title=" " alt="" coords="2185,95,2321,121"/>
+<area shape="rect" id="node48" href="$detect-bsize_8h.html" title=" " alt="" coords="1950,95,2054,121"/>
+<area shape="rect" id="node49" href="$util-misc_8h.html" title=" " alt="" coords="2078,95,2161,121"/>
+<area shape="rect" id="node50" href="$tests_2detect-bsize_8c.html" title=" " alt="" coords="1687,95,1824,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1015,333,1080,360"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1104,333,1183,360"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1207,333,1272,360"/>
+<area shape="rect" id="node6" href="$util-optimize_8h.html" title=" " alt="" coords="668,557,771,584"/>
+<area shape="rect" id="node7" title=" " alt="" coords="164,333,237,360"/>
+<area shape="rect" id="node8" href="$threads_8h.html" title=" " alt="" coords="5,707,81,733"/>
+<area shape="rect" id="node11" href="$tm-threads-common_8h.html" title=" " alt="" coords="313,333,462,360"/>
+<area shape="rect" id="node12" href="$util-debug_8h.html" title=" " alt="" coords="105,632,195,659"/>
+<area shape="rect" id="node13" href="$util-error_8h.html" title=" " alt="" coords="256,707,335,733"/>
+<area shape="rect" id="node15" href="$util-mem_8h.html" title=" " alt="" coords="702,333,785,360"/>
+<area shape="rect" id="node16" href="$detect-engine-alert_8h.html" title=" " alt="" coords="537,333,677,360"/>
+<area shape="rect" id="node37" href="$util-path_8h.html" title=" " alt="" coords="860,333,939,360"/>
+<area shape="rect" id="node38" href="$util-conf_8h.html" title=" " alt="" coords="2247,408,2325,435"/>
+<area shape="rect" id="node9" href="$util-cpu_8h.html" title=" " alt="" coords="6,781,81,808"/>
+<area shape="rect" id="node10" title=" " alt="" coords="117,781,193,808"/>
+<area shape="rect" id="node14" href="$util-debug-filters_8h.html" title=" " alt="" coords="106,707,231,733"/>
+<area shape="rect" id="node17" href="$decode_8h.html" title=" " alt="" coords="359,557,434,584"/>
+<area shape="rect" id="node19" href="$flow_8h.html" title=" " alt="" coords="1011,483,1065,509"/>
+<area shape="rect" id="node22" href="$detect-engine-proto_8h.html" title=" " alt="" coords="1241,483,1385,509"/>
+<area shape="rect" id="node23" href="$detect-reference_8h.html" title=" " alt="" coords="1409,483,1536,509"/>
+<area shape="rect" id="node24" href="$detect-metadata_8h.html" title=" " alt="" coords="1560,483,1687,509"/>
+<area shape="rect" id="node25" href="$detect-engine-register_8h.html" title=" " alt="" coords="1711,483,1869,509"/>
+<area shape="rect" id="node26" href="$util-prefilter_8h.html" title=" " alt="" coords="2099,557,2195,584"/>
+<area shape="rect" id="node27" href="$util-mpm_8h.html" title=" " alt="" coords="2146,483,2229,509"/>
+<area shape="rect" id="node28" href="$util-spm_8h.html" title=" " alt="" coords="2253,483,2332,509"/>
+<area shape="rect" id="node29" href="$util-hash_8h.html" title=" " alt="" coords="1989,483,2071,509"/>
+<area shape="rect" id="node30" href="$util-hashlist_8h.html" title=" " alt="" coords="639,483,738,509"/>
+<area shape="rect" id="node31" href="$util-radix-tree_8h.html" title=" " alt="" coords="763,483,871,509"/>
+<area shape="rect" id="node32" href="$util-file_8h.html" title=" " alt="" coords="1893,483,1964,509"/>
+<area shape="rect" id="node34" href="$reputation_8h.html" title=" " alt="" coords="895,483,986,509"/>
+<area shape="rect" id="node35" href="$app-layer-events_8h.html" title=" " alt="" coords="485,483,615,509"/>
+<area shape="rect" id="node36" href="$detect-threshold_8h.html" title=" " alt="" coords="1089,483,1216,509"/>
+<area shape="rect" id="node20" href="$util-exception-policy_8h.html" title=" " alt="" coords="1031,557,1178,584"/>
+<area shape="rect" id="node21" href="$util-var_8h.html" title=" " alt="" coords="936,557,1007,584"/>
+<area shape="rect" id="node33" href="$conf_8h.html" title=" " alt="" coords="2299,557,2358,584"/>
+<area shape="rect" id="node43" href="$suricata_8h.html" title=" " alt="" coords="1091,177,1169,203"/>
+<area shape="rect" id="node46" href="$rust_8h.html" title=" " alt="" coords="2224,259,2279,285"/>
+<area shape="rect" id="node47" href="$detect-engine-prefilter-common_8h.html" title=" " alt="" coords="2234,169,2381,211"/>
+</map>

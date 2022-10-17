@@ -1,0 +1,10 @@
+<map id="SMTPTransaction_" name="SMTPTransaction_">
+<area shape="rect" id="node1" title=" " alt="" coords="5,472,140,499"/>
+<area shape="rect" id="node2" href="$structMimeDecEntity.html" title="This represents the MIME Entity (or also top level message) in a child&#45;sibling tree." alt="" coords="98,96,210,123"/>
+<area shape="rect" id="node5" href="$structMimeDecParseState.html" title="Structure contains the current state of the MIME parser." alt="" coords="120,383,263,409"/>
+<area shape="rect" id="node7" href="$structMimeDecStackNode.html" title="Structure contains boundary and entity for the current node (entity) in the stack." alt="" coords="192,187,335,213"/>
+<area shape="rect" id="node3" href="$structMimeDecField.html" title="This represents a header field name and associated value." alt="" coords="13,5,119,32"/>
+<area shape="rect" id="node4" href="$structMimeDecUrl.html" title="This represents a URL value node in a linked list." alt="" coords="197,5,292,32"/>
+<area shape="rect" id="node6" href="$structMimeDecStack.html" title="Structure holds the top of the stack along with some free reusable nodes." alt="" coords="191,292,303,319"/>
+<area shape="rect" id="node8" href="$structDataValue.html" title="Structure contains a list of value and lengths for robust data processing." alt="" coords="327,292,410,319"/>
+</map>

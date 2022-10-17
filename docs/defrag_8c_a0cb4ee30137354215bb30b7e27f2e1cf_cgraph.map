@@ -1,0 +1,7 @@
+<map id="DefragInit" name="DefragInit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer." alt="" coords="185,5,272,32"/>
+<area shape="rect" id="node5" href="$defrag-config_8c.html#a6bdbe242c7a3276bc4b00cee9d9f59c9" title=" " alt="" coords="132,56,325,83"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="373,5,444,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="492,5,595,32"/>
+</map>

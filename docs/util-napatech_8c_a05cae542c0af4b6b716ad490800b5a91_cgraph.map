@@ -1,0 +1,8 @@
+<map id="NapatechGetStreamConfig" name="NapatechGetStreamConfig">
+<area shape="rect" id="node1" title="Reads and parses the stream configuration defined in the config file." alt="" coords="5,56,184,83"/>
+<area shape="rect" id="node2" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen." alt="" coords="284,31,381,57"/>
+<area shape="rect" id="node6" href="$runmode-napatech_8c.html#ad3bd718d421794c0749621bf2d17d362" title=" " alt="" coords="232,81,433,108"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="499,5,569,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="481,56,587,83"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="635,5,737,32"/>
+</map>

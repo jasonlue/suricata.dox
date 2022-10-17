@@ -1,0 +1,10 @@
+<map id="StorageRegister" name="StorageRegister">
+<area shape="rect" id="node1" title="Register new storage." alt="" coords="853,81,969,108"/>
+<area shape="rect" id="node2" href="$flow-storage_8c.html#acc0bdf7522d276953d65bfab765a61ab" title=" " alt="" coords="651,5,795,32"/>
+<area shape="rect" id="node6" href="$group__hoststorage.html#ga0c11bff64435505fb3275c60465857a9" title="Register a Host storage." alt="" coords="651,56,795,83"/>
+<area shape="rect" id="node7" href="$ippair-storage_8c.html#a2f7a5dab83b277bd9b5d1f2168e96e3b" title=" " alt="" coords="647,107,799,133"/>
+<area shape="rect" id="node8" href="$group__devicestorage.html#ga9d28efc71a21046aa92573a231e63619" title="Register a LiveDevice storage." alt="" coords="641,157,805,184"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#ab81b3fa040ec0ad8293b4fec5fc06805" title=" " alt="" coords="428,5,593,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="227,5,380,32"/>
+<area shape="rect" id="node5" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,5,179,32"/>
+</map>

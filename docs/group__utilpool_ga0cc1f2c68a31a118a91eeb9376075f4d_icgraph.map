@@ -1,0 +1,4 @@
+<map id="PoolThreadFree" name="PoolThreadFree">
+<area shape="rect" id="node1" title="destroy the thread pool" alt="" coords="160,5,275,32"/>
+<area shape="rect" id="node2" href="$group__utilpool.html#gaeeec3f298d6d5a99ee979b93a6f67780" title="per thread Pool, initialization function" alt="" coords="5,5,112,32"/>
+</map>

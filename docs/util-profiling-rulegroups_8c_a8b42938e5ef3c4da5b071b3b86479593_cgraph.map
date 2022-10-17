@@ -1,0 +1,10 @@
+<map id="SCProfilingSghsGlobalInit" name="SCProfilingSghsGlobalInit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,62,179,89"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="713,11,816,38"/>
+<area shape="rect" id="node3" href="$util-conf_8c.html#a90efa38fa8a61a2b14fac2fd907d337c" title=" " alt="" coords="239,37,394,63"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value." alt="" coords="227,138,407,165"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="455,87,640,114"/>
+<area shape="rect" id="node4" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="512,37,583,63"/>
+<area shape="rect" id="node8" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="495,138,600,165"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="688,87,841,114"/>
+</map>

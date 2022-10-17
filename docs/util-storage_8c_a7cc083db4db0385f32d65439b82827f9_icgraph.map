@@ -1,0 +1,32 @@
+<map id="StorageGetSize" name="StorageGetSize">
+<area shape="rect" id="node1" title="get the size of the void array used to store the pointers" alt="" coords="761,461,876,488"/>
+<area shape="rect" id="node2" href="$flow-storage_8c.html#addf24d1bbb0b9771b4f27286db99a5dd" title=" " alt="" coords="582,259,703,285"/>
+<area shape="rect" id="node14" href="$host-storage_8c.html#a5483e281f7966e428421b6f0721fd914" title=" " alt="" coords="582,537,703,564"/>
+<area shape="rect" id="node20" href="$ippair-storage_8c.html#af83d3e0fbb759e3c07a1f75bd6d14b9a" title=" " alt="" coords="578,436,707,463"/>
+<area shape="rect" id="node27" href="$device-storage_8c.html#ac7cbb016b44a82735dd9ab12a985cfb2" title=" " alt="" coords="572,664,713,691"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#a6c7b29f3d513187227f7b49c673cd9bb" title="allocate a flow" alt="" coords="414,56,493,83"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#ae5fdd38c5ca6851df9ce87aee016ba54" title="cleanup &amp; free the memory of a flow" alt="" coords="415,157,491,184"/>
+<area shape="rect" id="node10" href="$flow-storage_8c.html#aa43aab9054b3dd6ca65eb1b37acfcf13" title=" " alt="" coords="393,259,514,285"/>
+<area shape="rect" id="node12" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="400,309,507,336"/>
+<area shape="rect" id="node4" href="$flow-hash_8c.html#a1dc925fee33bb2626efa046efa3e76cf" title="Get or create a Flow using a FlowKey." alt="" coords="172,5,324,32"/>
+<area shape="rect" id="node5" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="161,56,335,83"/>
+<area shape="rect" id="node7" href="$flow_8c.html#adc1589cef09521a8894aed9e365b5f7a" title=" " alt="" coords="17,145,102,172"/>
+<area shape="rect" id="node8" href="$flow_8c.html#a8dae51c56800ed0e22279e49913cd15a" title="shutdown the flow engine" alt="" coords="5,233,113,260"/>
+<area shape="rect" id="node9" href="$util-unittest-helper_8c.html#af06fe2a36e13018d41be2a28357f3032" title=" " alt="" coords="163,157,333,184"/>
+<area shape="rect" id="node11" href="$flow_8c.html#a6e9eb43b74a70300e86da9c025705b1a" title="Function clear the flow memory before queueing it to spare flow queue." alt="" coords="184,259,312,285"/>
+<area shape="rect" id="node13" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="206,309,290,336"/>
+<area shape="rect" id="node15" href="$host_8c.html#a683e5e0fc80dce344fac3abc3d8a0341" title=" " alt="" coords="184,512,312,539"/>
+<area shape="rect" id="node18" href="$host-storage_8c.html#a8c5e26defafcfcbf9ddfe70bdcdf866d" title=" " alt="" coords="393,563,514,589"/>
+<area shape="rect" id="node19" href="$host_8c.html#a918bc392cc309a81ce386d9267b137f3" title="initialize the configuration" alt="" coords="400,613,507,640"/>
+<area shape="rect" id="node16" href="$host_8c.html#a4da38df867e434a4e5c5f09af2c6662a" title="Cleanup the host engine." alt="" coords="10,563,109,589"/>
+<area shape="rect" id="node17" href="$host_8c.html#abe1406a89d6ad93b2428882beb665e98" title=" " alt="" coords="21,512,97,539"/>
+<area shape="rect" id="node21" href="$ippair_8c.html#a868455f95133adc83b5be46d0661d099" title=" " alt="" coords="180,411,316,437"/>
+<area shape="rect" id="node24" href="$ippair-storage_8c.html#a6443a716940550e360ba55ae86933b75" title=" " alt="" coords="389,461,518,488"/>
+<area shape="rect" id="node25" href="$ippair_8c.html#a6a1049b70581c87017c600dd30fe8760" title="initialize the configuration" alt="" coords="396,360,511,387"/>
+<area shape="rect" id="node22" href="$ippair_8c.html#a51331ad656e595f91f1bf3debf53274a" title="Cleanup the ippair engine." alt="" coords="6,461,113,488"/>
+<area shape="rect" id="node23" href="$ippair_8c.html#ac2a22c1221f1482b72abc7577d0b972d" title=" " alt="" coords="17,411,101,437"/>
+<area shape="rect" id="node26" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="188,360,308,387"/>
+<area shape="rect" id="node28" href="$device-storage_8c.html#abe33a349597da71cbe7f82dc178f9239" title=" " alt="" coords="383,664,524,691"/>
+<area shape="rect" id="node29" href="$util-device_8c.html#ab638156e6321737c11ed2963db820e41" title="Add a pcap device for monitoring and create structure." alt="" coords="385,715,521,741"/>
+<area shape="rect" id="node30" href="$util-device_8c.html#a1961135bab20dff5744ef1e3ed23922a" title=" " alt="" coords="182,715,314,741"/>
+</map>

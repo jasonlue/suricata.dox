@@ -1,0 +1,4 @@
+<map id="ActionInitConfig" name="ActionInitConfig">
+<area shape="rect" id="node1" title="Load the action order from config. If none is provided, it will be default to ACTION_PASS,..." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="168,5,271,32"/>
+</map>

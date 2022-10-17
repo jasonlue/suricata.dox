@@ -1,0 +1,7 @@
+<map id="SigCleanSignatures" name="SigCleanSignatures">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#ab5c22f1926674e8ed28b68f457529dd9" title=" " alt="" coords="191,5,381,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a867afc6ba4c46ff6a530a48d28cbddc9" title=" " alt="" coords="253,56,319,83"/>
+<area shape="rect" id="node4" href="$detect-engine-iponly_8c.html#a33c62e349284f6305fd1e83d21aab84a" title="This function free a IPOnlyCIDRItem list." alt="" coords="429,31,572,57"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#af725952936f5f9d7d369d97629de273e" title="free a SigMatch" alt="" coords="449,81,552,108"/>
+</map>

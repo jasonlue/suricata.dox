@@ -1,0 +1,11 @@
+<map id="AppLayerProtoDetectConfProtoDetectionEnabled" name="AppLayerProtoDetectConfProtoDetectionEnabled">
+<area shape="rect" id="node1" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="224,175,431,217"/>
+<area shape="rect" id="node2" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library." alt="" coords="34,5,147,32"/>
+<area shape="rect" id="node3" href="$app-layer-ftp_8c.html#aad9fd179d26143f516519e8f83a8ec95" title=" " alt="" coords="20,56,161,83"/>
+<area shape="rect" id="node4" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine." alt="" coords="19,107,162,133"/>
+<area shape="rect" id="node5" href="$app-layer-nfs-tcp_8c.html#af2bb87ba69b38aa0334a825838795685" title=" " alt="" coords="5,157,176,184"/>
+<area shape="rect" id="node6" href="$app-layer-smtp_8c.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser." alt="" coords="14,208,167,235"/>
+<area shape="rect" id="node7" href="$app-layer-ssh_8c.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions." alt="" coords="19,259,163,285"/>
+<area shape="rect" id="node8" href="$app-layer-ssl_8c.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions." alt="" coords="20,309,161,336"/>
+<area shape="rect" id="node9" href="$app-layer-tftp_8c.html#abd2f8e3569bbde1cab42737ab2d81a71" title=" " alt="" coords="16,360,165,387"/>
+</map>

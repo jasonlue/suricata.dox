@@ -1,0 +1,4 @@
+<map id="CIDRGetIPv6" name="CIDRGetIPv6">
+<area shape="rect" id="node1" title="Creates a cidr ipv6 netblock, based on the cidr netblock value." alt="" coords="237,5,341,32"/>
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a28a42d20d272d0b6ae15930b2961954b" title="Adds a new IPV6/netblock to the Radix tree from a string." alt="" coords="5,5,189,32"/>
+</map>

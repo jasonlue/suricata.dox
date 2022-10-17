@@ -1,0 +1,4 @@
+<map id="DatasetAddSerialized" name="DatasetAddSerialized">
+<area shape="rect" id="node1" title="add serialized data to set" alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$util-base64_8c.html#a74f9b88e9518116b1b015fccc1f977e0" title="Decodes a base64&#45;encoded string buffer into an ascii&#45;encoded byte buffer." alt="" coords="201,5,312,32"/>
+</map>

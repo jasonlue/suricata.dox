@@ -1,0 +1,5 @@
+<map id="DetectFlowvarPostMatchSetup" name="DetectFlowvarPostMatchSetup">
+<area shape="rect" id="node1" title="Setup a post&#45;match for flowvar storage We&#39;re piggyback riding the DetectFlowvarData struct." alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node2" href="$detect-parse_8c.html#a841d1fd1c93382bf0fcbb9378f000e76" title=" " alt="" coords="292,5,399,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a43a5de8e35bad6e940f497a6358c284d" title="Append a SigMatch to the list type." alt="" coords="257,56,433,83"/>
+</map>

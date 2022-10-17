@@ -1,0 +1,9 @@
+<map id="StorageSetById" name="StorageSetById">
+<area shape="rect" id="node1" title="set storage for id" alt="" coords="423,81,537,108"/>
+<area shape="rect" id="node2" href="$flow-storage_8c.html#a454957cc913b912e0d690a07ea332f72" title=" " alt="" coords="222,5,365,32"/>
+<area shape="rect" id="node4" href="$group__hoststorage.html#ga65e211047d5dba2385f05a485fe46b3b" title="Store a pointer in a given Host storage." alt="" coords="222,56,365,83"/>
+<area shape="rect" id="node5" href="$ippair-storage_8c.html#aaab8410a9e14f0c46778ab1a055ea8e2" title=" " alt="" coords="218,107,369,133"/>
+<area shape="rect" id="node6" href="$group__devicestorage.html#ga52f9bdae641111f76d88532cd069389c" title="Store a pointer in a given LiveDevice storage." alt="" coords="212,157,375,184"/>
+<area shape="rect" id="node3" href="$group__decode.html#gafcf1aaa5cea0ff80abc127acdd6a0b51" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node7" href="$util-device_8c.html#aaafafcadb6cd164a258d3eda860f626a" title=" " alt="" coords="15,157,154,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DetectEngineAppendSig" name="DetectEngineAppendSig">
+<area shape="rect" id="node1" title="Parse and append a Signature into the Detection Engine Context signature list." alt="" coords="360,31,524,57"/>
+<area shape="rect" id="node2" href="$util-unittest-helper_8c.html#a782f045af1f8c7bf76472197b11fa8a7" title="UTHAppendSigs: Add sigs to the detection_engine checking for errors." alt="" coords="183,5,303,32"/>
+<area shape="rect" id="node4" href="$util-unittest-helper_8c.html#ad3bd5728dbe7bb02f007b33870b1de18" title="parser a sig and see if the expected result is correct" alt="" coords="173,56,312,83"/>
+<area shape="rect" id="node3" href="$util-unittest-helper_8c.html#ab06c363b5a68bae722b6b7c0a4e7e7f3" title="UTHGenericTest: function that perfom a generic check taking care of as maximum common unittest elemen..." alt="" coords="5,5,125,32"/>
+</map>

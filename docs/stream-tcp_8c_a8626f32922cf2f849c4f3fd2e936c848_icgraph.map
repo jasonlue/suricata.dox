@@ -1,0 +1,5 @@
+<map id="StreamTcpInitConfig" name="StreamTcpInitConfig">
+<area shape="rect" id="node1" title="To initialize the stream global configuration data." alt="" coords="173,31,313,57"/>
+<area shape="rect" id="node2" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="23,5,107,32"/>
+<area shape="rect" id="node3" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="5,56,125,83"/>
+</map>

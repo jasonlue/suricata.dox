@@ -1,0 +1,6 @@
+<map id="UtilCpuGetNumProcessorsOnline" name="UtilCpuGetNumProcessorsOnline">
+<area shape="rect" id="node1" title="Get the number of cpus online in the system." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$util-cpu_8c.html#a221f26561dac4f5906f4905e03dbb8b0" title="Get the number of cpus configured in the system." alt="" coords="272,5,516,32"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#ab3eb38e8028bcd1b80158b2e71416ff6" title=" " alt="" coords="564,5,683,32"/>
+<area shape="rect" id="node4" href="$util-byte_8c.html#adb391c0982a92fbd85eaef2bbe35f140" title=" " alt="" coords="731,5,896,32"/>
+</map>

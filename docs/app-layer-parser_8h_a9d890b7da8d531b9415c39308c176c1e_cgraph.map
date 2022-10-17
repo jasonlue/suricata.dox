@@ -1,0 +1,5 @@
+<map id="AppLayerParserDeSetup" name="AppLayerParserDeSetup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$app-layer-ftp_8c.html#abb94083dc3f6341d8aae181fcc1a0e94" title="Free memory allocated for global FTP parser state." alt="" coords="226,5,359,32"/>
+<area shape="rect" id="node3" href="$app-layer-smtp_8c.html#a47c4075c46489be1edc502a90e42be7b" title="Free memory allocated for global SMTP parser state." alt="" coords="220,56,365,83"/>
+</map>

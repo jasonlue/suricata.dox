@@ -1,0 +1,7 @@
+<map id="FlowHandlePacketUpdate" name="FlowHandlePacketUpdate">
+<area shape="rect" id="node1" title="Update Packet and Flow." alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node2" href="$flow-bypass_8c.html#a2410bb4efcaac403be88f41d54e0509a" title=" " alt="" coords="235,5,385,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a4b40aa623a6feb122601951304064464" title=" " alt="" coords="247,56,373,83"/>
+<area shape="rect" id="node4" href="$flow_8c.html#a6f7e81aaf61a41cdaa7cbb87d8964122" title="determine the direction of the packet compared to the flow" alt="" coords="228,107,392,133"/>
+<area shape="rect" id="node5" href="$flow_8c.html#a09a8bb5ef11dfae0a58d0524514cf585" title=" " alt="" coords="249,157,371,184"/>
+</map>

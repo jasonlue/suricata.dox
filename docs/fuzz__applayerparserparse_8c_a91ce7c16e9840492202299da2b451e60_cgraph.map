@@ -1,0 +1,52 @@
+<map id="LLVMFuzzerTestOneInput" name="LLVMFuzzerTestOneInput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,384,179,410"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a7b0bc1a5a394504f629b6a9ab3ac33eb" title=" " alt="" coords="759,38,909,65"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration." alt="" coords="988,89,1139,116"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#a9eb19746965621cfe300c05045113408" title=" " alt="" coords="229,140,429,166"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a400a9d5e447fc436600350bdb157a64c" title="Gets a new app layer protocol&#39;s parser thread context." alt="" coords="227,190,432,217"/>
+<area shape="rect" id="node8" href="$app-layer-parser_8c.html#a2dd9abee1542803931a6e6edb7a58d64" title="remove obsolete (inspected and logged) transactions" alt="" coords="234,242,425,283"/>
+<area shape="rect" id="node9" href="$util-conf_8c.html#a3eb0e833a260ee6163e2957c0cd060db" title=" " alt="" coords="252,308,407,334"/>
+<area shape="rect" id="node11" href="$conf-yaml-loader_8c.html#a76daf2895dcd6be8304bba80d0240a2f" title="Load configuration from a YAML string." alt="" coords="259,358,400,385"/>
+<area shape="rect" id="node12" href="$flow-util_8c.html#a6c7b29f3d513187227f7b49c673cd9bb" title="allocate a flow" alt="" coords="290,409,369,436"/>
+<area shape="rect" id="node15" href="$flow_8c.html#acc4e426d680d8624300a2e3d8dfeffec" title="Check if change proto flag is set for flow." alt="" coords="266,460,393,486"/>
+<area shape="rect" id="node16" href="$flow-util_8c.html#ae5fdd38c5ca6851df9ce87aee016ba54" title="cleanup &amp; free the memory of a flow" alt="" coords="291,510,367,537"/>
+<area shape="rect" id="node17" href="$suricata_8c.html#abe5c8a77d598a868f0570c0910d5e650" title=" " alt="" coords="258,561,401,588"/>
+<area shape="rect" id="node23" href="$suricata_8c.html#a1948f1faa49310f4d195883b8d75befd" title="Global initialization common to all runmodes." alt="" coords="291,750,368,777"/>
+<area shape="rect" id="node31" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="253,1206,406,1233"/>
+<area shape="rect" id="node50" href="$win32-misc_8h.html#a57fb500ec9c9c6625bfa5031b419cfd6" title=" " alt="" coords="299,1257,360,1284"/>
+<area shape="rect" id="node6" href="$app-layer-parser_8c.html#a9f308874dc34fb891799d99c9beb7a84" title=" " alt="" coords="488,162,672,203"/>
+<area shape="rect" id="node7" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title=" " alt="" coords="480,228,680,254"/>
+<area shape="rect" id="node10" href="$conf_8c.html#abdd0f9da36f2294a1b4156bae860b3cd" title="Set a final configuration value." alt="" coords="531,308,629,334"/>
+<area shape="rect" id="node13" href="$flow-storage_8c.html#addf24d1bbb0b9771b4f27286db99a5dd" title=" " alt="" coords="519,380,641,406"/>
+<area shape="rect" id="node14" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers" alt="" coords="777,380,891,406"/>
+<area shape="rect" id="node18" href="$util-proto-name_8c.html#a2ee5616ad7af692d322f0f40667928a6" title=" " alt="" coords="517,430,643,457"/>
+<area shape="rect" id="node19" href="$util-threshold-config_8c.html#ac8e11f16c61e0921c5db8b0d6c0daa13" title=" " alt="" coords="489,481,671,508"/>
+<area shape="rect" id="node20" href="$detect-fast-pattern_8c.html#a9a6efc59f8d5eb99509f6cbb17e12dc2" title="Registers the keywords(SMs) that should be given fp support." alt="" coords="493,532,667,574"/>
+<area shape="rect" id="node22" href="$util-time_8c.html#a00d3e0677062b00dd232a44ac31917da" title=" " alt="" coords="545,598,615,625"/>
+<area shape="rect" id="node21" href="$detect-fast-pattern_8c.html#a3bc669a9cea5ee63bd4800df5a53cd1f" title="Lets one add a sm list id to be searched for potential fp supported keywords later." alt="" coords="747,532,921,574"/>
+<area shape="rect" id="node24" href="$conf_8c.html#a7231653563046821c8f0152f93663f8d" title="Initialize the configuration system." alt="" coords="546,649,614,676"/>
+<area shape="rect" id="node25" href="$util-misc_8c.html#afb7b6240538cddcfd6299d7cdff8c315" title=" " alt="" coords="530,700,630,726"/>
+<area shape="rect" id="node26" href="$runmodes_8c.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine." alt="" coords="485,750,675,777"/>
+<area shape="rect" id="node27" href="$util-debug_8c.html#ad0ae5299b532e3c22e5462ff03405626" title="Initializes the logging module." alt="" coords="509,801,651,828"/>
+<area shape="rect" id="node29" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title=" " alt="" coords="525,852,635,878"/>
+<area shape="rect" id="node30" href="$util-signal_8c.html#ab0d6b12cf553b5f4a1a10f21851f15eb" title=" " alt="" coords="501,902,659,929"/>
+<area shape="rect" id="node28" href="$util-debug_8c.html#a4120eb93b545ac44a94f9ea18fa0cdfe" title="De&#45;Initializes the logging module." alt="" coords="754,718,914,745"/>
+<area shape="rect" id="node32" href="$app-layer_8c.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer." alt="" coords="525,953,635,980"/>
+<area shape="rect" id="node38" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="799,1054,869,1081"/>
+<area shape="rect" id="node39" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen." alt="" coords="531,1054,629,1081"/>
+<area shape="rect" id="node40" href="$conf_8c.html#a7f7f8171a8351e30dca194e554f66d3c" title="Set a configuration value." alt="" coords="545,1105,615,1132"/>
+<area shape="rect" id="node41" href="$util-device_8c.html#ac48d5e4ef98423023b49cc865476b28d" title=" " alt="" coords="491,1156,669,1182"/>
+<area shape="rect" id="node42" href="$util-device_8c.html#abe39f89c898b6654f81113a0c04138d0" title=" " alt="" coords="504,1206,656,1233"/>
+<area shape="rect" id="node43" href="$util-device_8c.html#ace85850de8d535b89b1fbc4d44189a23" title=" " alt="" coords="511,1257,649,1284"/>
+<area shape="rect" id="node44" href="$util-macset_8c.html#a7d6db620d676cdc9111778de07b84a84" title=" " alt="" coords="485,1308,675,1334"/>
+<area shape="rect" id="node45" href="$util-mpm_8c.html#a5f2c4e8d699ef7a5562674a6de86a66e" title=" " alt="" coords="522,1358,638,1385"/>
+<area shape="rect" id="node46" href="$flow-util_8c.html#ab81b3fa040ec0ad8293b4fec5fc06805" title=" " alt="" coords="497,1409,663,1436"/>
+<area shape="rect" id="node47" href="$util-spm_8c.html#a9d6b37d620d9ae3bfaf7719d1af337d3" title=" " alt="" coords="523,1460,637,1486"/>
+<area shape="rect" id="node48" href="$util-storage_8c.html#af959dd3e62b8fe59a0ea96d8637cf5c9" title=" " alt="" coords="537,1510,623,1537"/>
+<area shape="rect" id="node49" href="$util-byte_8c.html#a22d7160f41371560c44999bf44fa8973" title=" " alt="" coords="516,1561,644,1588"/>
+<area shape="rect" id="node33" href="$app-layer-parser_8c.html#ac5c64e1bddd13fdc99168538935cfab5" title=" " alt="" coords="728,770,940,811"/>
+<area shape="rect" id="node34" href="$app-layer-parser_8c.html#ae67b474883794b3f9440f4efa22b1cdc" title=" " alt="" coords="759,836,909,862"/>
+<area shape="rect" id="node35" href="$app-layer-detect-proto_8c.html#a79dc824b9e8a24c51893f3dd655f2c69" title="Prepares the internal state for protocol detection. This needs to be called once all the patterns and..." alt="" coords="738,887,930,928"/>
+<area shape="rect" id="node36" href="$app-layer-detect-proto_8c.html#a61db7c59a74519fe05cc3a9d86781385" title="The first function to be called. This initializes a global protocol detection context." alt="" coords="743,953,925,980"/>
+<area shape="rect" id="node37" href="$app-layer_8c.html#a964636d246a5ec902fa9d7e0e48ee29f" title=" " alt="" coords="752,1004,916,1030"/>
+</map>

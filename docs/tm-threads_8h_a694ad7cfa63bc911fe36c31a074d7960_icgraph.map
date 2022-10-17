@@ -1,0 +1,36 @@
+<map id="TmThreadsSetFlag" name="TmThreadsSetFlag">
+<area shape="rect" id="node1" title="Set a thread flag." alt="" coords="1305,169,1439,196"/>
+<area shape="rect" id="node2" href="$flow-manager_8c.html#accf6fd4bc60c4c479d771a3633ef76d0" title="Used to disable flow manager thread(s)." alt="" coords="1045,88,1257,115"/>
+<area shape="rect" id="node5" href="$tm-threads_8c.html#a21dbddfb0521108eadc00b1c373fd810" title="Creates and returns the TV instance for a new thread." alt="" coords="1091,195,1211,221"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a171efb32813007e7e4d3469a54b0bf66" title=" " alt="" coords="825,31,931,57"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a28aa85b59c264490dd53beaf400ce5b4" title=" " alt="" coords="521,5,690,32"/>
+<area shape="rect" id="node6" href="$util-napatech_8c.html#ae765eaa62dcd0dde69d2f356b37c0610" title=" " alt="" coords="809,275,947,301"/>
+<area shape="rect" id="node7" href="$tm-threads_8c.html#a5203d28367b25c9409d56646ec36949a" title="Creates and returns the TV instance for a Command thread (CMD). This function supports only custom sl..." alt="" coords="759,325,997,352"/>
+<area shape="rect" id="node8" href="$tm-threads_8c.html#a1f34da478953012efd551143bfdb6546" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="781,107,975,133"/>
+<area shape="rect" id="node9" href="$tm-threads_8c.html#a5432ff418827a0c92a73005863e50807" title="Creates and returns the TV instance for a Management thread(MGMT). This function supports only custom..." alt="" coords="781,158,975,199"/>
+<area shape="rect" id="node11" href="$tm-threads_8c.html#a7d829b790837656fb0bec6686da0b510" title="Creates and returns a TV instance for a Packet Processing Thread. This function doesn&#39;t support custo..." alt="" coords="775,224,981,251"/>
+<area shape="rect" id="node10" href="$flow-bypass_8c.html#a7438833e474966f7a3ba4ba867de30f7" title="spawn the flow bypass manager thread" alt="" coords="506,57,705,98"/>
+<area shape="rect" id="node12" href="$runmode-erf-file_8c.html#a4d406431f0ab63d3143b81d3f600b09a" title=" " alt="" coords="526,445,685,472"/>
+<area shape="rect" id="node14" href="$runmode-erf-file_8c.html#a915f2f8caa7767da0f772a01421d9739" title=" " alt="" coords="529,521,681,548"/>
+<area shape="rect" id="node15" href="$runmode-pcap-file_8c.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers:" alt="" coords="520,173,691,200"/>
+<area shape="rect" id="node17" href="$runmode-pcap-file_8c.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing." alt="" coords="523,123,688,149"/>
+<area shape="rect" id="node18" href="$util-runmodes_8c.html#a810a04d89bdecd2d8843381d619c5179" title=" " alt="" coords="524,224,687,251"/>
+<area shape="rect" id="node25" href="$util-runmodes_8c.html#a6d4d1ffd6e355ab8239ce5f214b86d28" title=" " alt="" coords="525,275,686,301"/>
+<area shape="rect" id="node28" href="$util-runmodes_8c.html#ac9bec6dfc11c447629b049403a6e50b8" title=" " alt="" coords="500,383,711,409"/>
+<area shape="rect" id="node13" href="$runmode-erf-file_8c.html#a2fa5ee6e088800426e896df9aeff1048" title=" " alt="" coords="271,528,437,555"/>
+<area shape="rect" id="node16" href="$runmode-pcap-file_8c.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title=" " alt="" coords="265,72,443,99"/>
+<area shape="rect" id="node19" href="$runmode-ipfw_8c.html#ab98f939c839da52cdfa459f4369c7881" title=" " alt="" coords="269,224,439,251"/>
+<area shape="rect" id="node21" href="$runmode-nfq_8c.html#a74ab8fb81b460f68e5b2989c9575e41a" title=" " alt="" coords="271,173,437,200"/>
+<area shape="rect" id="node23" href="$runmode-windivert_8c.html#a24d9d5db01e50a174601fa950ca8ba04" title=" " alt="" coords="256,123,452,149"/>
+<area shape="rect" id="node20" href="$runmode-ipfw_8c.html#ae06ebfcccd6f11438a720a3b5753e5ac" title=" " alt="" coords="17,300,196,327"/>
+<area shape="rect" id="node22" href="$runmode-nfq_8c.html#a9357135b637234befb24cfcefde1e95e" title=" " alt="" coords="20,199,193,225"/>
+<area shape="rect" id="node24" href="$runmode-windivert_8c.html#a95cfc299fb3b8f2052138f4d7c314ca5" title=" " alt="" coords="5,123,208,149"/>
+<area shape="rect" id="node26" href="$runmode-ipfw_8c.html#a17d8ec657d20d82a53849a56e9db4b82" title=" " alt="" coords="269,325,439,352"/>
+<area shape="rect" id="node27" href="$runmode-nfq_8c.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title=" " alt="" coords="271,275,437,301"/>
+<area shape="rect" id="node29" href="$runmode-af-packet_8c.html#af741b481e72c7d4e52637797fa320ea6" title=" " alt="" coords="273,376,435,403"/>
+<area shape="rect" id="node31" href="$runmode-erf-dag_8c.html#a70b2fc6e66952233a4152397b09c64c4" title=" " alt="" coords="265,477,443,504"/>
+<area shape="rect" id="node33" href="$runmode-pcap_8c.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers:" alt="" coords="270,427,438,453"/>
+<area shape="rect" id="node30" href="$runmode-af-packet_8c.html#abf510dda35701437fc571d5b5f0f1f6e" title=" " alt="" coords="21,376,192,403"/>
+<area shape="rect" id="node32" href="$runmode-erf-dag_8c.html#a48e70c4e7988fa65ee295b869150cfa6" title=" " alt="" coords="23,477,191,504"/>
+<area shape="rect" id="node34" href="$runmode-pcap_8c.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title=" " alt="" coords="19,427,194,453"/>
+</map>

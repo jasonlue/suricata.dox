@@ -1,0 +1,11 @@
+<map id="AppLayerGetCtxThread" name="AppLayerGetCtxThread">
+<area shape="rect" id="node1" title="Creates a new app layer thread context." alt="" coords="5,130,164,157"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread()." alt="" coords="223,71,407,98"/>
+<area shape="rect" id="node7" href="$app-layer-parser_8c.html#a400a9d5e447fc436600350bdb157a64c" title="Gets a new app layer protocol&#39;s parser thread context." alt="" coords="212,130,417,157"/>
+<area shape="rect" id="node9" href="$app-layer-detect-proto_8c.html#a56a48d357c05d7cfe483a1a213444664" title="Inits and returns an app layer protocol detection thread context." alt="" coords="220,181,409,223"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc()." alt="" coords="465,13,668,39"/>
+<area shape="rect" id="node6" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context." alt="" coords="470,64,663,105"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title=" " alt="" coords="716,5,925,47"/>
+<area shape="rect" id="node5" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title=" " alt="" coords="721,101,921,127"/>
+<area shape="rect" id="node8" href="$app-layer-parser_8c.html#a9f308874dc34fb891799d99c9beb7a84" title=" " alt="" coords="475,181,659,223"/>
+</map>

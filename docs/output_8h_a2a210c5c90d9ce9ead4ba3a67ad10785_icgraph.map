@@ -1,0 +1,8 @@
+<map id="OutputRegisterStatsSubModule" name="OutputRegisterStatsSubModule">
+<area shape="rect" id="node1" title="Register a stats data output sub&#45;module." alt="" coords="956,5,1163,32"/>
+<area shape="rect" id="node2" href="$output-json-stats_8c.html#a2a378b7f1adee0121cae458d7daf4852" title=" " alt="" coords="757,5,908,32"/>
+<area shape="rect" id="node3" href="$output_8c.html#a78e884b3e87cdcf1209a58fa547056ba" title="Register all non&#45;root logging modules." alt="" coords="553,5,709,32"/>
+<area shape="rect" id="node4" href="$output_8c.html#ac80ba9af32156c5c394e5e5ceb601295" title=" " alt="" coords="335,5,505,32"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,5,287,32"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,5,104,32"/>
+</map>

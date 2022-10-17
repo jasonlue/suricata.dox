@@ -1,0 +1,8 @@
+<map id="GlobalsInitPreConfig" name="GlobalsInitPreConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,148,112"/>
+<area shape="rect" id="node2" href="$util-proto-name_8c.html#a2ee5616ad7af692d322f0f40667928a6" title=" " alt="" coords="224,5,349,32"/>
+<area shape="rect" id="node3" href="$util-threshold-config_8c.html#ac8e11f16c61e0921c5db8b0d6c0daa13" title=" " alt="" coords="196,56,377,83"/>
+<area shape="rect" id="node4" href="$detect-fast-pattern_8c.html#a9a6efc59f8d5eb99509f6cbb17e12dc2" title="Registers the keywords(SMs) that should be given fp support." alt="" coords="200,107,373,149"/>
+<area shape="rect" id="node6" href="$util-time_8c.html#a00d3e0677062b00dd232a44ac31917da" title=" " alt="" coords="252,173,321,200"/>
+<area shape="rect" id="node5" href="$detect-fast-pattern_8c.html#a3bc669a9cea5ee63bd4800df5a53cd1f" title="Lets one add a sm list id to be searched for potential fp supported keywords later." alt="" coords="425,107,599,149"/>
+</map>

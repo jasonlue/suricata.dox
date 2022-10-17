@@ -1,0 +1,10 @@
+<map id="DetectPortInsert" name="DetectPortInsert">
+<area shape="rect" id="node1" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups." alt="" coords="197,5,311,32"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#ae96972ca228801905894d537db83aab0" title="Free a DetectPort and its members." alt="" coords="199,56,309,83"/>
+<area shape="rect" id="node8" href="$detect-engine-siggroup_8c.html#a51eba76854157da0de4a460887ff391d" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead." alt="" coords="172,107,336,133"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8c.html#acf6ad1678226c38239ab82f1cd538080" title="Free a SigGroupHead and its members." alt="" coords="384,56,517,83"/>
+<area shape="rect" id="node5" href="$detect-engine-prefilter_8c.html#ae6244a085eb4b028acdd90c832823554" title=" " alt="" coords="566,31,743,57"/>
+<area shape="rect" id="node6" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title=" " alt="" coords="565,81,744,108"/>
+<area shape="rect" id="node7" href="$detect-engine-prefilter_8c.html#ad62899ab67b7849e97c7abe7cc8ea2e1" title=" " alt="" coords="792,81,953,108"/>
+</map>

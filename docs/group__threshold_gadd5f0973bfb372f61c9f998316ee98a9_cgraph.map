@@ -1,0 +1,4 @@
+<map id="ThresholdHashAllocate" name="ThresholdHashAllocate">
+<area shape="rect" id="node1" title="Allocate threshold context hash tables." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$group__threshold.html#ga27d192ea40d7fa5cd9ee605fd1870cd9" title="Return next DetectThresholdData for signature." alt="" coords="211,5,377,32"/>
+</map>

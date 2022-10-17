@@ -1,0 +1,5 @@
+<map id="IPPairInitConfig" name="IPPairInitConfig">
+<area shape="rect" id="node1" title="initialize the configuration" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$ippair-storage_8c.html#af83d3e0fbb759e3c07a1f75bd6d14b9a" title=" " alt="" coords="168,5,297,32"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers" alt="" coords="345,5,460,32"/>
+</map>

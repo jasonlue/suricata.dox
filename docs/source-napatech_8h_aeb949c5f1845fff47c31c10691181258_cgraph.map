@@ -1,0 +1,14 @@
+<map id="TmModuleNapatechStreamRegister" name="TmModuleNapatechStreamRegister">
+<area shape="rect" id="node1" title="Register the Napatech receiver (reader) module." alt="" coords="5,111,236,137"/>
+<area shape="rect" id="node2" href="$source-napatech_8c.html#ae6a1f849c4e60f84138747d4cce1a2b4" title="Main Napatechpacket processing loop." alt="" coords="308,31,455,57"/>
+<area shape="rect" id="node7" href="$source-napatech_8c.html#a3bba56c577c9904b11aa5a161b1c3933" title="Deinitializes the NAPATECH card." alt="" coords="284,81,479,108"/>
+<area shape="rect" id="node8" href="$source-napatech_8c.html#a624ce71558b83784394a88a827287f90" title="Print some stats to the log at program exit." alt="" coords="290,133,473,174"/>
+<area shape="rect" id="node11" href="$source-napatech_8c.html#acd0ea47a0e95998cbc09a925280ef9c2" title="Initialize the Napatech receiver thread, generate a single NapatechThreadVar structure for each threa..." alt="" coords="292,199,471,225"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen." alt="" coords="573,31,671,57"/>
+<area shape="rect" id="node4" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="783,5,853,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="765,56,871,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="919,5,1021,32"/>
+<area shape="rect" id="node9" href="$util-napatech_8c.html#a58c4c3c08e0abd1c649d344365a6bdd8" title=" " alt="" coords="535,81,709,108"/>
+<area shape="rect" id="node10" href="$runmode-napatech_8c.html#a34cbe56adca0673d1ceb695b87e08092" title=" " alt="" coords="527,133,717,174"/>
+<area shape="rect" id="node12" href="$util-datalink_8c.html#aedb31a5a27cab5fd0ecdec932889e3cc" title=" " alt="" coords="545,199,699,225"/>
+</map>

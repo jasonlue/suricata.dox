@@ -1,0 +1,5 @@
+<map id="FlowInitFlowProto" name="FlowInitFlowProto">
+<area shape="rect" id="node1" title="Function to set the default timeout, free function and flow state function for all supported flow_pro..." alt="" coords="292,5,419,32"/>
+<area shape="rect" id="node2" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="137,5,244,32"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="5,5,89,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="StreamTcpStreamCleanup" name="StreamTcpStreamCleanup">
+<area shape="rect" id="node1" title=" " alt="" coords="484,81,659,108"/>
+<area shape="rect" id="node2" href="$stream-tcp_8c.html#a26df002d4d76e0bf27433b289b1ca83a" title="Session cleanup function. Does not free the ssn." alt="" coords="257,56,436,83"/>
+<area shape="rect" id="node6" href="$stream-tcp-util_8c.html#a92fbdb23e38878f63a4343951b9edcc7" title=" " alt="" coords="259,107,434,133"/>
+<area shape="rect" id="node3" href="$stream-tcp_8c.html#add92e80f13e88362630ba978ac24c241" title="Function to return the stream back to the pool. It returns the segments in the stream to the segment ..." alt="" coords="26,5,189,32"/>
+<area shape="rect" id="node4" href="$stream-tcp-util_8c.html#a5bef4b33daf7e346128f449273fadda9" title=" " alt="" coords="17,107,197,133"/>
+<area shape="rect" id="node5" href="$util-unittest-helper_8c.html#a31d5cbb8fdc195d4ab561829b3459e77" title=" " alt="" coords="5,56,209,83"/>
+</map>

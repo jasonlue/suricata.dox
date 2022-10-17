@@ -1,0 +1,6 @@
+<map id="AppLayerProtoDetectThreadCtx_" name="AppLayerProtoDetectThreadCtx_">
+<area shape="rect" id="node1" title="The app layer protocol detection thread context." alt="" coords="113,95,328,121"/>
+<area shape="rect" id="node2" href="$structPrefilterRuleStore__.html" title="structure for storing potential rule matches" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node3" href="$structMpmThreadCtx__.html" title=" " alt="" coords="161,5,280,32"/>
+<area shape="rect" id="node4" href="$structSpmThreadCtx__.html" title=" " alt="" coords="305,5,422,32"/>
+</map>

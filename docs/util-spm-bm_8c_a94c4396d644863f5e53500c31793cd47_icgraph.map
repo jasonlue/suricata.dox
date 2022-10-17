@@ -1,0 +1,4 @@
+<map id="BoyerMoore" name="BoyerMoore">
+<area shape="rect" id="node1" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="187,5,279,32"/>
+<area shape="rect" id="node2" href="$util-spm_8c.html#ab66098e6a3871d37e8da1f7f43458e5f" title="Search a pattern in the text using Boyer Moore algorithm (build a bad character shifts array and good..." alt="" coords="5,5,139,32"/>
+</map>

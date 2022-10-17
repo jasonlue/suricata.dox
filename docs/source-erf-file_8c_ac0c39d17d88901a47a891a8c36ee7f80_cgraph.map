@@ -1,0 +1,10 @@
+<map id="ReceiveErfFileLoop" name="ReceiveErfFileLoop">
+<area shape="rect" id="node1" title="ERF file reading loop." alt="" coords="5,56,141,83"/>
+<area shape="rect" id="node2" href="$suricata_8c.html#a881a900ae0a2155e33308d7090986270" title="make sure threads can stop the engine by calling this function. Purpose: pcap file mode needs to be a..." alt="" coords="242,5,331,32"/>
+<area shape="rect" id="node3" href="$group__decode.html#ga16dce3a48e71dd5b13fb4c401f5f4a9c" title="Get a packet. We try to get a packet from the packetpool first, but if that is empty we alloc a packe..." alt="" coords="189,56,384,83"/>
+<area shape="rect" id="node8" href="$tmqh-packetpool_8c.html#a2cb91dedd8892e2dcdf907f83ff54fe9" title=" " alt="" coords="229,107,344,133"/>
+<area shape="rect" id="node4" href="$group__decode.html#ga6b3bb631b851b9984a67cc19a40ea183" title="Get a malloced packet." alt="" coords="445,5,588,32"/>
+<area shape="rect" id="node6" href="$tmqh-packetpool_8c.html#a3933faec8b723a5f7192f30573e85647" title="Get a new packet from the packet pool." alt="" coords="441,56,592,83"/>
+<area shape="rect" id="node7" href="$tmqh-packetpool_8c.html#aecfd7fbbc040386dbe6546236b7d20b7" title="Return packet to Packet pool." alt="" coords="432,107,601,133"/>
+<area shape="rect" id="node5" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet." alt="" coords="649,5,739,32"/>
+</map>

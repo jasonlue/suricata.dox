@@ -1,0 +1,7 @@
+<map id="DetectEngineThreadCtxInit" name="DetectEngineThreadCtxInit">
+<area shape="rect" id="node1" title="initialize thread specific detection engine context" alt="" coords="5,56,185,83"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#adb7485fe5adf413020aa3e2ed5c1de46" title=" " alt="" coords="249,5,414,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#af972587df4fa587592eb62a9b67b6fdd" title=" " alt="" coords="233,56,429,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title=" " alt="" coords="260,107,403,133"/>
+<area shape="rect" id="node4" href="$util-hash_8c.html#a9d52964329648870595ceaf6b2e15ea7" title=" " alt="" coords="477,56,588,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="AppLayerProtoDetectSupportedAppProtocols" name="AppLayerProtoDetectSupportedAppProtocols">
+<area shape="rect" id="node1" title=" " alt="" coords="955,49,1161,90"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#a10b2c29bcae98c736a3381bca3a2d196" title=" " alt="" coords="428,5,640,32"/>
+<area shape="rect" id="node4" href="$app-layer_8c.html#a9d90fd20dc2304047e68d3800318c284" title="Registers per flow counters for all protocols." alt="" coords="688,56,907,83"/>
+<area shape="rect" id="node5" href="$app-layer_8c.html#a964636d246a5ec902fa9d7e0e48ee29f" title=" " alt="" coords="715,107,879,133"/>
+<area shape="rect" id="node3" href="$util-running-modes_8c.html#a03b5cae283d57d4ef7adafd290a33c5d" title=" " alt="" coords="227,5,380,32"/>
+<area shape="rect" id="node6" href="$app-layer_8c.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer." alt="" coords="479,107,589,133"/>
+<area shape="rect" id="node7" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="253,56,354,83"/>
+<area shape="rect" id="node8" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="227,107,380,133"/>
+<area shape="rect" id="node10" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="254,157,353,184"/>
+<area shape="rect" id="node9" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,107,179,133"/>
+</map>

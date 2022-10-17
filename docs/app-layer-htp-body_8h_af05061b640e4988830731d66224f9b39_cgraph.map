@@ -1,0 +1,6 @@
+<map id="HtpBodyPrune" name="HtpBodyPrune">
+<area shape="rect" id="node1" title="Free request body chunks that are already fully parsed." alt="" coords="5,64,112,91"/>
+<area shape="rect" id="node2" href="$app-layer-htp-mem_8c.html#acabec20e8b4154c7770b069deeed9003" title=" " alt="" coords="220,5,295,32"/>
+<area shape="rect" id="node3" href="$util-streaming-buffer_8c.html#af1c6a4a90e5f2c89caae4701403b3968" title=" " alt="" coords="168,57,347,98"/>
+<area shape="rect" id="node4" href="$util-streaming-buffer_8c.html#a1bc5168ce76174d34706a21323ce80f6" title="slide to absolute offset" alt="" coords="160,123,355,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="StatsRegisterGlobalCounter" name="StatsRegisterGlobalCounter">
+<area shape="rect" id="node1" title="Registers a counter, which represents a global value." alt="" coords="401,35,587,61"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#a3377beeacc15bacc2a730feadfb6a1ee" title="HACK to work around our broken unix manager (re)init loop." alt="" coords="137,5,353,32"/>
+<area shape="rect" id="node4" href="$output-filestore_8c.html#ad684ee76c326eaa6be35810030aeab4d" title=" " alt="" coords="147,57,344,98"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="5,35,89,61"/>
+</map>

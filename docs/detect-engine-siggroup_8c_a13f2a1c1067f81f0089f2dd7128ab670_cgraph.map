@@ -1,0 +1,4 @@
+<map id="SigGroupHeadSetFilesizeFlag" name="SigGroupHeadSetFilesizeFlag">
+<area shape="rect" id="node1" title="Set the need size flag in the sgh." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$detect-engine-build_8c.html#ade7b2016df29b85c5254ab9dc0ed4d37" title="Check if a signature contains the filesize keyword." alt="" coords="251,5,444,32"/>
+</map>

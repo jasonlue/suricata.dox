@@ -1,0 +1,4 @@
+<map id="StreamSegmentForSession" name="StreamSegmentForSession">
+<area shape="rect" id="node1" title="Run callback for all segments on both directions of the session." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$stream-tcp_8c.html#a33d1d45a83e8f71cbfb8051690b46e91" title="Run callback function on each TCP segment in both directions of a session." alt="" coords="236,5,439,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DetectEngineIPOnlyCtx_" name="DetectEngineIPOnlyCtx_">
+<area shape="rect" id="node1" title="IP only rules matching ctx." alt="" coords="61,424,230,451"/>
+<area shape="rect" id="node2" href="$structSCRadixTree__.html" title="Structure for the radix tree." alt="" coords="21,291,129,317"/>
+<area shape="rect" id="node3" href="$structSCRadixNode__.html" title="Structure for the node in the radix tree." alt="" coords="18,193,131,219"/>
+<area shape="rect" id="node4" href="$structSCRadixPrefix__.html" title="Structure for the prefix/key in the radix tree." alt="" coords="17,95,133,121"/>
+<area shape="rect" id="node5" href="$structSCRadixUserData__.html" title="Structure that hold the user data and the netmask associated with it." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node6" href="$structIPOnlyCIDRItem__.html" title=" " alt="" coords="153,291,282,317"/>
+</map>

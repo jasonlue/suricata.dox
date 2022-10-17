@@ -1,0 +1,4 @@
+<map id="SCHInfoGetIPv6HostOSFlavour" name="SCHInfoGetIPv6HostOSFlavour">
+<area shape="rect" id="node1" title="Retrieves the host os flavour, given an ipv6 address in the raw address format." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a6cc3963f75cae4474ad3f63869860a98" title="Checks if an IPV6 address is present in the tree under a netblock." alt="" coords="264,5,479,32"/>
+</map>

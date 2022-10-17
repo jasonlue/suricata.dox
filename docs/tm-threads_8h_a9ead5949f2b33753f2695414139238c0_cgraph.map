@@ -1,0 +1,4 @@
+<map id="TmThreadDisableReceiveThreads" name="TmThreadDisableReceiveThreads">
+<area shape="rect" id="node1" title="Disable all threads having the specified TMs." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node2" href="$tm-modules_8c.html#abf894b37bada5ee06aa61ec86f04185a" title="Returns a TM Module by its id." alt="" coords="273,5,404,32"/>
+</map>

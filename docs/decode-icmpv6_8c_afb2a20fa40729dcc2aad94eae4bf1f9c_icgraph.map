@@ -1,0 +1,4 @@
+<map id="ICMPv6GetCounterpart" name="ICMPv6GetCounterpart">
+<area shape="rect" id="node1" title=" " alt="" coords="171,5,329,32"/>
+<area shape="rect" id="node2" href="$decode-icmpv6_8c.html#a0a623ed5a509cf4a5d920d0b3b58fbf8" title="Decode ICMPV6 packets and fill the Packet with the decoded info." alt="" coords="5,5,123,32"/>
+</map>

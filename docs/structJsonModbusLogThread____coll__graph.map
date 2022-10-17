@@ -1,0 +1,13 @@
+<map id="JsonModbusLogThread_" name="JsonModbusLogThread_">
+<area shape="rect" id="node1" title=" " alt="" coords="1264,121,1428,148"/>
+<area shape="rect" id="node2" href="$structLogModbusFileCtx__.html" title=" " alt="" coords="975,147,1113,173"/>
+<area shape="rect" id="node3" href="$structLogFileCtx__.html" title=" " alt="" coords="479,205,571,232"/>
+<area shape="rect" id="node4" href="$structLogThreadedFileCtx__.html" title=" " alt="" coords="720,252,867,279"/>
+<area shape="rect" id="node7" href="$structOutputJsonCtx__.html" title=" " alt="" coords="735,96,852,123"/>
+<area shape="rect" id="node10" href="$structOutputJsonThreadCtx__.html" title=" " alt="" coords="965,96,1123,123"/>
+<area shape="rect" id="node5" href="$structLogFilePluginCtx__.html" title=" " alt="" coords="212,89,340,116"/>
+<area shape="rect" id="node6" href="$structSCEveFileType__.html" title=" " alt="" coords="5,25,125,52"/>
+<area shape="rect" id="node8" href="$structOutputJsonCommonSettings__.html" title=" " alt="" coords="427,51,624,77"/>
+<area shape="rect" id="node9" href="$structHttpXFFCfg__.html" title=" " alt="" coords="475,101,575,128"/>
+<area shape="rect" id="node11" href="$structMemBuffer__.html" title=" " alt="" coords="747,45,840,72"/>
+</map>

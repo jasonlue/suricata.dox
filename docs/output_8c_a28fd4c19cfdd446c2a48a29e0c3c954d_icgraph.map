@@ -1,0 +1,14 @@
+<map id="OutputUnregisterFileRotationFlag" name="OutputUnregisterFileRotationFlag">
+<area shape="rect" id="node1" title="Unregister a file rotation flag." alt="" coords="1324,56,1540,83"/>
+<area shape="rect" id="node2" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="1165,56,1276,83"/>
+<area shape="rect" id="node3" href="$alert-fastlog_8c.html#acce13a71ae70c0f658483c2c5a4d339c" title="Create a new LogFileCtx for &quot;fast&quot; output style." alt="" coords="975,5,1109,32"/>
+<area shape="rect" id="node9" href="$log-httplog_8c.html#aad9f6437cc767e7e08bdf77bbf2f4294" title="Create a new http log LogFileCtx." alt="" coords="978,56,1106,83"/>
+<area shape="rect" id="node11" href="$log-tcp-data_8c.html#a2d7b1c62f87deddb69f6052f426fb8b0" title="Create a new http log LogFileCtx." alt="" coords="967,107,1117,133"/>
+<area shape="rect" id="node4" href="$alert-fastlog_8c.html#a30a605b3d274475e1b37ac89d774c72b" title=" " alt="" coords="765,5,911,32"/>
+<area shape="rect" id="node5" href="$output_8c.html#a78e884b3e87cdcf1209a58fa547056ba" title="Register all non&#45;root logging modules." alt="" coords="553,56,709,83"/>
+<area shape="rect" id="node6" href="$output_8c.html#ac80ba9af32156c5c394e5e5ceb601295" title=" " alt="" coords="335,56,505,83"/>
+<area shape="rect" id="node7" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,56,287,83"/>
+<area shape="rect" id="node8" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,56,104,83"/>
+<area shape="rect" id="node10" href="$log-httplog_8c.html#a4a6dd66ee5ec3781a005387dbb036192" title=" " alt="" coords="769,56,907,83"/>
+<area shape="rect" id="node12" href="$log-tcp-data_8c.html#a110b165d5261fbb50a9152c323b32d2c" title=" " alt="" coords="757,107,919,133"/>
+</map>

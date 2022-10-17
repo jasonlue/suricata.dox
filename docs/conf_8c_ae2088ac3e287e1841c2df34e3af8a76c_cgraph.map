@@ -1,0 +1,5 @@
+<map id="ConfGetDouble" name="ConfGetDouble">
+<area shape="rect" id="node1" title="Retrieve a configuration value as a double." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="165,5,236,32"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="284,5,387,32"/>
+</map>

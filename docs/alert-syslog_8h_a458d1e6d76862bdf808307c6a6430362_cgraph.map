@@ -1,0 +1,4 @@
+<map id="AlertSyslogRegister" name="AlertSyslogRegister">
+<area shape="rect" id="node1" title="Function to register the AlertSyslog module." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$output_8c.html#a4441bf76195154cca729bcd4614c7e46" title="Register a packet output module." alt="" coords="192,5,385,32"/>
+</map>

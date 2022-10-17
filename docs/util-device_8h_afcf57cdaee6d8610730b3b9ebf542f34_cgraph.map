@@ -1,0 +1,6 @@
+<map id="LiveBuildDeviceList" name="LiveBuildDeviceList">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$util-device_8c.html#acb1ed88238655becd59ebaa591086580" title=" " alt="" coords="191,31,373,57"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="455,5,558,32"/>
+<area shape="rect" id="node4" href="$util-device_8c.html#ad1c3245245202f6109a035a024a05576" title="Add a device for monitoring." alt="" coords="421,56,592,83"/>
+</map>

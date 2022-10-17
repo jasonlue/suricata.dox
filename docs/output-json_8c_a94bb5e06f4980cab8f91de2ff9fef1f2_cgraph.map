@@ -1,0 +1,10 @@
+<map id="OutputJsonRegister" name="OutputJsonRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,144,108"/>
+<area shape="rect" id="node2" href="$output-json_8c.html#aa77f5cada45225912620803a96093b8f" title="Create a new LogFileCtx for &quot;fast&quot; output style." alt="" coords="204,56,332,83"/>
+<area shape="rect" id="node8" href="$output_8h.html#a61e0401cc68090d782b6f5beedbc3a73" title=" " alt="" coords="192,107,344,133"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="449,5,520,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="392,56,577,83"/>
+<area shape="rect" id="node7" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="429,107,541,133"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="651,5,753,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="625,56,779,83"/>
+</map>

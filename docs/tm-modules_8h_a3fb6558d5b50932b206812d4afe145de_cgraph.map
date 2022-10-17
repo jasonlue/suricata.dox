@@ -1,0 +1,5 @@
+<map id="TmModuleGetIdByName" name="TmModuleGetIdByName">
+<area shape="rect" id="node1" title="get the id of a module from it&#39;s name" alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$tm-modules_8c.html#ae4139ae4d609778d39e4fd9c81b2c245" title="get a tm module ptr by name" alt="" coords="221,5,375,32"/>
+<area shape="rect" id="node3" href="$tm-modules_8c.html#a7f664acae02a48d8ab795b31342dbe66" title="Given a TM Module, returns its id." alt="" coords="220,56,376,83"/>
+</map>

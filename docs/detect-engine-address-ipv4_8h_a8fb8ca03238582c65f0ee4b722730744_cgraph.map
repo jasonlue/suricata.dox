@@ -1,0 +1,4 @@
+<map id="DetectAddressCutNotIPv4" name="DetectAddressCutNotIPv4">
+<area shape="rect" id="node1" title="Cuts and returns an address range, which is the complement of the address range that is supplied as t..." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#a3e7759f5bfc45f3e85193ba97f654e3f" title="Creates and returns a new instance of a DetectAddress." alt="" coords="232,5,359,32"/>
+</map>

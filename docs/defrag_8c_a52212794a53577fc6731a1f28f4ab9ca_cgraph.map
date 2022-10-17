@@ -1,0 +1,7 @@
+<map id="DefragGetOsPolicy" name="DefragGetOsPolicy">
+<area shape="rect" id="node1" title="Get the defrag policy based on the destination address of the packet." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$util-host-os-info_8c.html#afe502ab3f4ddc5c0cc9a867fe276964f" title="Retrieves the host os flavour, given an ipv4 address in the raw address format." alt="" coords="188,5,399,32"/>
+<area shape="rect" id="node4" href="$util-host-os-info_8c.html#a23aa4d7afaf9a26cbfbbc248e6d31333" title="Retrieves the host os flavour, given an ipv6 address in the raw address format." alt="" coords="188,56,399,83"/>
+<area shape="rect" id="node3" href="$util-radix-tree_8c.html#a3f0f2284278ce9b4b740e9c08d842652" title="Checks if an IPV4 address is present in the tree under a netblock." alt="" coords="447,5,661,32"/>
+<area shape="rect" id="node5" href="$util-radix-tree_8c.html#a6cc3963f75cae4474ad3f63869860a98" title="Checks if an IPV6 address is present in the tree under a netblock." alt="" coords="447,56,661,83"/>
+</map>

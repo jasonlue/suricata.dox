@@ -1,0 +1,4 @@
+<map id="HostAllocStorageById" name="HostAllocStorageById">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$util-storage_8c.html#afd963d124f43fd8679bb8863c5005aa3" title="AllocById func for prealloc&#39;d base storage (storage ptrs are part of another memory block)" alt="" coords="204,5,375,32"/>
+</map>

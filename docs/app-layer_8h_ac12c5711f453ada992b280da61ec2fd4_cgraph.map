@@ -1,0 +1,8 @@
+<map id="AppLayerDeSetup" name="AppLayerDeSetup">
+<area shape="rect" id="node1" title="De initializes the app layer." alt="" coords="5,56,133,83"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#a4db3ccc8cda07c030bdd3fe69f7845d0" title=" " alt="" coords="190,5,371,32"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#a9d890b7da8d531b9415c39308c176c1e" title=" " alt="" coords="197,56,364,83"/>
+<area shape="rect" id="node6" href="$app-layer-detect-proto_8c.html#a51f3cf9d65433228da5298109601e92b" title="Cleans up the app layer protocol detection phase." alt="" coords="181,107,380,133"/>
+<area shape="rect" id="node4" href="$app-layer-ftp_8c.html#abb94083dc3f6341d8aae181fcc1a0e94" title="Free memory allocated for global FTP parser state." alt="" coords="434,31,567,57"/>
+<area shape="rect" id="node5" href="$app-layer-smtp_8c.html#a47c4075c46489be1edc502a90e42be7b" title="Free memory allocated for global SMTP parser state." alt="" coords="428,81,573,108"/>
+</map>

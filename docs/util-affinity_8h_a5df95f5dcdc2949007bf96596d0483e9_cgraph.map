@@ -1,0 +1,7 @@
+<map id="AffinityGetNextCPU" name="AffinityGetNextCPU">
+<area shape="rect" id="node1" title="Return next cpu to use for a given thread family." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$util-cpu_8c.html#aee62df6f39aaf4f1ab8b11d30fa21ceb" title="Get the number of cpus online in the system." alt="" coords="195,5,413,32"/>
+<area shape="rect" id="node3" href="$util-cpu_8c.html#a221f26561dac4f5906f4905e03dbb8b0" title="Get the number of cpus configured in the system." alt="" coords="461,5,705,32"/>
+<area shape="rect" id="node4" href="$util-byte_8c.html#ab3eb38e8028bcd1b80158b2e71416ff6" title=" " alt="" coords="753,5,872,32"/>
+<area shape="rect" id="node5" href="$util-byte_8c.html#adb391c0982a92fbd85eaef2bbe35f140" title=" " alt="" coords="920,5,1085,32"/>
+</map>

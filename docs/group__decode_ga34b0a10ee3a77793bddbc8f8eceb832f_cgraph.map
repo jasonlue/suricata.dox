@@ -1,0 +1,4 @@
+<map id="PacketDecodeFinalize" name="PacketDecodeFinalize">
+<area shape="rect" id="node1" title="Finalize decoding of a packet." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node2" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter." alt="" coords="207,5,281,32"/>
+</map>

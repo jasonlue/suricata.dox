@@ -1,0 +1,6 @@
+<map id="SCLogAllocLogInitData" name="SCLogAllocLogInitData">
+<area shape="rect" id="node1" title="Returns a pointer to a new SCLogInitData. This is a public interface intended to be used after the lo..." alt="" coords="383,31,541,57"/>
+<area shape="rect" id="node2" href="$util-debug_8c.html#a60c60546a1d6d2ecb9b580c2389f4636" title=" " alt="" coords="207,31,335,57"/>
+<area shape="rect" id="node3" href="$util-running-modes_8c.html#a03b5cae283d57d4ef7adafd290a33c5d" title=" " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node4" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="31,56,133,83"/>
+</map>

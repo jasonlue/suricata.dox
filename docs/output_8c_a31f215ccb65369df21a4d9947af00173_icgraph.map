@@ -1,0 +1,12 @@
+<map id="OutputRegisterPacketSubModule" name="OutputRegisterPacketSubModule">
+<area shape="rect" id="node1" title="Register a packet output sub&#45;module." alt="" coords="980,107,1196,133"/>
+<area shape="rect" id="node2" href="$output-json-alert_8c.html#aed1403d04f06046ac1fe5f8d387bbfe1" title=" " alt="" coords="771,5,918,32"/>
+<area shape="rect" id="node7" href="$output-json-anomaly_8c.html#aa373e0d8e1f3d6fdb1f412712938368d" title=" " alt="" coords="759,56,930,83"/>
+<area shape="rect" id="node8" href="$output-json-drop_8c.html#ae792ad71064476cb42818f51c487f156" title=" " alt="" coords="771,107,919,133"/>
+<area shape="rect" id="node9" href="$output-json-frame_8c.html#a4003c4f03ab0ee09427fa48485470209" title=" " alt="" coords="766,157,923,184"/>
+<area shape="rect" id="node10" href="$output-json-metadata_8c.html#a9dba4ab3813b56cb3f1b245f3ebda841" title=" " alt="" coords="757,208,932,235"/>
+<area shape="rect" id="node3" href="$output_8c.html#a78e884b3e87cdcf1209a58fa547056ba" title="Register all non&#45;root logging modules." alt="" coords="553,107,709,133"/>
+<area shape="rect" id="node4" href="$output_8c.html#ac80ba9af32156c5c394e5e5ceb601295" title=" " alt="" coords="335,107,505,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,107,287,133"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,107,104,133"/>
+</map>

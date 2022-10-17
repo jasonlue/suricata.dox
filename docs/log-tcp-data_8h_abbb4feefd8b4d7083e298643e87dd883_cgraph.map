@@ -1,0 +1,13 @@
+<map id="LogTcpDataLogInitCtx" name="LogTcpDataLogInitCtx">
+<area shape="rect" id="node1" title="Create a new http log LogFileCtx." alt="" coords="5,132,156,159"/>
+<area shape="rect" id="node2" href="$util-conf_8c.html#a90efa38fa8a61a2b14fac2fd907d337c" title=" " alt="" coords="219,5,374,32"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="204,56,389,83"/>
+<area shape="rect" id="node7" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="241,107,352,133"/>
+<area shape="rect" id="node9" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="241,157,353,184"/>
+<area shape="rect" id="node10" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket" alt="" coords="213,208,380,235"/>
+<area shape="rect" id="node11" href="$util-strlcpyu_8c.html#aeb79f86261de904967d433c1b5e9a1de" title=" " alt="" coords="266,259,327,285"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="510,5,581,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="701,5,804,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="469,56,622,83"/>
+<area shape="rect" id="node8" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag." alt="" coords="437,107,653,133"/>
+</map>

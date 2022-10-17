@@ -1,0 +1,14 @@
+<map id="AppLayerProtoDetectRegisterProtocol" name="AppLayerProtoDetectRegisterProtocol">
+<area shape="rect" id="node1" title="Registers a protocol for protocol detection phase." alt="" coords="231,251,427,293"/>
+<area shape="rect" id="node2" href="$app-layer-dnp3_8c.html#a4faf76e1cbbc68bfea940763018fb79b" title="Register the DNP3 application protocol parser." alt="" coords="18,5,170,32"/>
+<area shape="rect" id="node3" href="$app-layer-enip_8c.html#abc41a9064d8f35837029bf7cdcc0f3a5" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="7,56,181,83"/>
+<area shape="rect" id="node4" href="$app-layer-enip_8c.html#aa9ec0304ee5ddb25ea3b0b0bcc9af9a9" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="5,107,183,133"/>
+<area shape="rect" id="node5" href="$app-layer-ftp_8c.html#aad9fd179d26143f516519e8f83a8ec95" title=" " alt="" coords="23,157,165,184"/>
+<area shape="rect" id="node6" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine." alt="" coords="23,208,165,235"/>
+<area shape="rect" id="node7" href="$app-layer-http2_8c.html#a6bbe37a6816c9aa2857a2057d6fb6f0d" title=" " alt="" coords="15,259,173,285"/>
+<area shape="rect" id="node8" href="$app-layer-smtp_8c.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser." alt="" coords="17,309,171,336"/>
+<area shape="rect" id="node9" href="$app-layer-ssh_8c.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions." alt="" coords="22,360,166,387"/>
+<area shape="rect" id="node10" href="$app-layer-ssl_8c.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions." alt="" coords="23,411,165,437"/>
+<area shape="rect" id="node11" href="$app-layer-template_8c.html#ac39e3903c23aff255a27a6dfcdf2d652" title=" " alt="" coords="9,461,179,488"/>
+<area shape="rect" id="node12" href="$app-layer-tftp_8c.html#abd2f8e3569bbde1cab42737ab2d81a71" title=" " alt="" coords="19,512,169,539"/>
+</map>

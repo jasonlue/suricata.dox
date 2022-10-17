@@ -1,0 +1,4 @@
+<map id="Bs2Bm" name="Bs2Bm">
+<area shape="rect" id="node1" title="Basic search with a bad characters array. The array badchars contains flags at character&#39;s ascii inde..." alt="" coords="157,5,223,32"/>
+<area shape="rect" id="node2" href="$util-spm_8c.html#a4f68889d4f095000cedd0d9baa73e2d7" title="Search a pattern in the text using the Bs2Bm algorithm (build a bad characters array)" alt="" coords="5,5,109,32"/>
+</map>

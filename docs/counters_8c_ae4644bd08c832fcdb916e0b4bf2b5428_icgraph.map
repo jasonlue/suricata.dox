@@ -1,0 +1,7 @@
+<map id="StatsGetLocalCounterValue" name="StatsGetLocalCounterValue">
+<area shape="rect" id="node1" title="Get the value of the local copy of the counter that hold this id." alt="" coords="857,5,1040,32"/>
+<area shape="rect" id="node2" href="$source-erf-dag_8c.html#af64532adecd9cffc72c52cc62514f16f" title="Print some stats to the log at program exit." alt="" coords="604,5,809,32"/>
+<area shape="rect" id="node3" href="$source-erf-dag_8c.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module." alt="" coords="335,5,556,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,5,287,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,5,104,32"/>
+</map>

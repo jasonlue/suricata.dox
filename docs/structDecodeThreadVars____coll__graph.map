@@ -1,0 +1,9 @@
+<map id="DecodeThreadVars_" name="DecodeThreadVars_">
+<area shape="rect" id="node1" title="Structure to hold thread specific data for all decode modules." alt="" coords="263,273,403,300"/>
+<area shape="rect" id="node2" href="$structAppLayerThreadCtx__.html" title="This is for the app layer in general and it contains per thread context relevant to both the alpd and..." alt="" coords="260,184,405,211"/>
+<area shape="rect" id="node3" href="$structAppLayerProtoDetectThreadCtx__.html" title="The app layer protocol detection thread context." alt="" coords="113,95,328,121"/>
+<area shape="rect" id="node4" href="$structPrefilterRuleStore__.html" title="structure for storing potential rule matches" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node5" href="$structMpmThreadCtx__.html" title=" " alt="" coords="161,5,280,32"/>
+<area shape="rect" id="node6" href="$structSpmThreadCtx__.html" title=" " alt="" coords="305,5,422,32"/>
+<area shape="rect" id="node7" href="$structAppLayerParserThreadCtx__.html" title=" " alt="" coords="352,95,535,121"/>
+</map>

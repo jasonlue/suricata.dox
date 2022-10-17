@@ -1,0 +1,5 @@
+<map id="HostShutdown" name="HostShutdown">
+<area shape="rect" id="node1" title="shutdown the flow engine" alt="" coords="5,31,113,57"/>
+<area shape="rect" id="node2" href="$host-queue_8c.html#a2a53eb3ece767b025a4d19fd73ae6078" title="remove a host from the queue" alt="" coords="164,5,267,32"/>
+<area shape="rect" id="node3" href="$host_8c.html#a8f52c874c6841552d22458d332368828" title="print some host stats" alt="" coords="161,56,269,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="PacketGetFromQueueOrAlloc" name="PacketGetFromQueueOrAlloc">
+<area shape="rect" id="node1" title="Get a packet. We try to get a packet from the packetpool first, but if that is empty we alloc a packe..." alt="" coords="812,107,1007,133"/>
+<area shape="rect" id="node2" href="$group__decode.html#gac9c52a724280a0180fd4b9afb33dce83" title="Setup a pseudo packet (reassembled frags)" alt="" coords="605,5,761,32"/>
+<area shape="rect" id="node3" href="$group__decode.html#gaa23fca189120a210d3f5e887835e9282" title="Setup a pseudo packet (tunnel)" alt="" coords="605,56,761,83"/>
+<area shape="rect" id="node4" href="$source-erf-file_8c.html#ac0c39d17d88901a47a891a8c36ee7f80" title="ERF file reading loop." alt="" coords="615,107,751,133"/>
+<area shape="rect" id="node8" href="$source-pfring_8c.html#a167659c0da5f077f562bca0ef8acc47c" title="Recieves packets from an interface via libpfring." alt="" coords="617,157,749,184"/>
+<area shape="rect" id="node10" href="$stream-tcp_8c.html#a3afba214a95265afcf490b5a85cbffc4" title="Function to fetch a packet from the packet allocation queue for creation of the pseudo packet from th..." alt="" coords="601,208,764,235"/>
+<area shape="rect" id="node5" href="$source-erf-file_8c.html#aa33fce1981c0cd8d648f1a1beeab14cd" title="Register the ERF file receiver (reader) module." alt="" coords="335,107,553,133"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,132,287,159"/>
+<area shape="rect" id="node7" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,132,104,159"/>
+<area shape="rect" id="node9" href="$source-pfring_8c.html#a9de1117ec94d507f460b0ae08ac9036f" title="Registration Function for RecievePfring." alt="" coords="337,157,551,184"/>
+</map>

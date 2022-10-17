@@ -1,0 +1,6 @@
+<map id="ConfSetRootAndDefaultNodes" name="ConfSetRootAndDefaultNodes">
+<area shape="rect" id="node1" title="Finds and sets root and default node of the interface." alt="" coords="5,31,207,57"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a59443b24846b7b0aaf9fe3e244f06ef6" title="Finds an interface from the list of interfaces." alt="" coords="255,31,385,57"/>
+<area shape="rect" id="node3" href="$util-conf_8c.html#a24042c340ce6476ef3f8fc9e23512a5f" title="Find the configuration node for a specific device." alt="" coords="433,5,588,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="459,56,562,83"/>
+</map>

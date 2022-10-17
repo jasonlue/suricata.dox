@@ -1,0 +1,4 @@
+<map id="MimeDecParseFullMsg" name="MimeDecParseFullMsg">
+<area shape="rect" id="node1" title="Parses an entire message when available in its entirety (wraps the line&#45;based parsing functions)" alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$util-decode-mime_8c.html#ab323dad9af93e50774f37699dcbe1076" title="Init the parser by allocating memory for the state and top&#45;level entity." alt="" coords="212,5,347,32"/>
+</map>

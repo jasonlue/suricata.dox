@@ -1,0 +1,5 @@
+<map id="SigParseApplyDsizeToContent" name="SigParseApplyDsizeToContent">
+<area shape="rect" id="node1" title="Apply dsize as depth to content matches in the rule." alt="" coords="5,31,208,57"/>
+<area shape="rect" id="node2" href="$detect-dsize_8c.html#aa0e4426e46c87d484eef119831c1a21a" title="get max dsize &quot;depth&quot;" alt="" coords="256,5,411,32"/>
+<area shape="rect" id="node3" href="$detect-dsize_8c.html#aaf4c845fd244e5212f576579be86d6b5" title="set prefilter dsize pair" alt="" coords="257,56,409,83"/>
+</map>

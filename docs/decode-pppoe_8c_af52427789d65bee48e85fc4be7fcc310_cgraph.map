@@ -1,0 +1,6 @@
+<map id="DecodePPPOESession" name="DecodePPPOESession">
+<area shape="rect" id="node1" title="Main decoding function for PPPOE Session packets." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$decode-ipv4_8c.html#a1fe0323ef09fb4f509c773b0307a5b5d" title=" " alt="" coords="213,5,309,32"/>
+<area shape="rect" id="node3" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter." alt="" coords="357,56,432,83"/>
+<area shape="rect" id="node4" href="$decode-ipv6_8c.html#a561ad62e68ee460375104b65c847e745" title=" " alt="" coords="213,107,309,133"/>
+</map>

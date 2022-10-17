@@ -1,0 +1,7 @@
+<map id="EngineStop" name="EngineStop">
+<area shape="rect" id="node1" title="make sure threads can stop the engine by calling this function. Purpose: pcap file mode needs to be a..." alt="" coords="785,5,875,32"/>
+<area shape="rect" id="node2" href="$source-erf-file_8c.html#ac0c39d17d88901a47a891a8c36ee7f80" title="ERF file reading loop." alt="" coords="601,5,737,32"/>
+<area shape="rect" id="node3" href="$source-erf-file_8c.html#aa33fce1981c0cd8d648f1a1beeab14cd" title="Register the ERF file receiver (reader) module." alt="" coords="335,5,553,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,5,287,32"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,5,104,32"/>
+</map>

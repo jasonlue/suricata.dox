@@ -1,0 +1,4 @@
+<map id="SigGroupHeadHashFree" name="SigGroupHeadHashFree">
+<area shape="rect" id="node1" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_hash_table, allocated by SigGroupHeadHashInit() function." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node2" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title=" " alt="" coords="217,5,348,32"/>
+</map>

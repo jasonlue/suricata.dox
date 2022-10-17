@@ -1,0 +1,5 @@
+<map id="DNP3State_" name="DNP3State_">
+<area shape="rect" id="node1" title="Per flow DNP3 state." alt="" coords="24,109,120,136"/>
+<area shape="rect" id="node2" href="$structDNP3Transaction__.html" title="DNP3 transaction." alt="" coords="5,199,139,225"/>
+<area shape="rect" id="node3" href="$structDNP3Buffer__.html" title="A struct used for buffering incoming data prior to reassembly." alt="" coords="22,5,122,32"/>
+</map>

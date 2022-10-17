@@ -1,0 +1,11 @@
+<map id="DetectPktMpmRegisterByParentId" name="DetectPktMpmRegisterByParentId">
+<area shape="rect" id="node1" title="copy a mpm engine from parent_id, add in transforms" alt="" coords="1231,56,1455,83"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#aaaf4e0bb72cdcbbdea26e5d80a043678" title=" " alt="" coords="997,49,1183,90"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#ab4a72f87f3dd46a940739de55d36405b" title=" " alt="" coords="775,56,949,83"/>
+<area shape="rect" id="node4" href="$detect-content_8c.html#a17dd52d17d47eeaf32b0e59b0666d593" title="Function to setup a content pattern." alt="" coords="585,56,727,83"/>
+<area shape="rect" id="node5" href="$detect-content_8c.html#add7e3676f7860dc1ed0d8262651b5e07" title=" " alt="" coords="381,56,537,83"/>
+<area shape="rect" id="node6" href="$detect-engine-register_8c.html#a21706286b0acefa72fcbdd3b37daa55f" title=" " alt="" coords="227,56,333,83"/>
+<area shape="rect" id="node7" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="41,5,143,32"/>
+<area shape="rect" id="node8" href="$fuzz__siginit_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,56,179,83"/>
+<area shape="rect" id="node9" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="43,107,141,133"/>
+</map>

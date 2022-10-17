@@ -1,0 +1,8 @@
+<map id="FtpDataState_" name="FtpDataState_">
+<area shape="rect" id="node1" title=" " alt="" coords="122,377,229,404"/>
+<area shape="rect" id="node2" href="$structFileContainer__.html" title=" " alt="" coords="122,288,229,315"/>
+<area shape="rect" id="node3" href="$structFile__.html" title=" " alt="" coords="150,184,201,211"/>
+<area shape="rect" id="node4" href="$structStreamingBuffer__.html" title=" " alt="" coords="114,95,237,121"/>
+<area shape="rect" id="node5" href="$structStreamingBufferConfig__.html" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node6" href="$structStreamingBufferBlock.html" title="block of continues data" alt="" coords="191,5,341,32"/>
+</map>

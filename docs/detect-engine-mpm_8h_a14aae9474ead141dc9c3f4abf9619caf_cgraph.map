@@ -1,0 +1,4 @@
+<map id="MpmStoreFree" name="MpmStoreFree">
+<area shape="rect" id="node1" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;mpm_hash_table, allocated by MpmStoreInit() function." alt="" coords="5,5,113,32"/>
+<area shape="rect" id="node2" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title=" " alt="" coords="161,5,292,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="DumpPatterns" name="DumpPatterns">
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,112,185"/>
+<area shape="rect" id="node2" href="$util-conf_8c.html#a90efa38fa8a61a2b14fac2fd907d337c" title=" " alt="" coords="175,5,330,32"/>
+<area shape="rect" id="node5" href="$detect-content_8c.html#aa9c53cfa7a03c2f87fd36b562c6de932" title=" " alt="" coords="161,57,345,98"/>
+<area shape="rect" id="node6" href="$detect-engine_8c.html#a3bdf744806b2e454259b6f3b567a55cb" title=" " alt="" coords="160,122,345,163"/>
+<area shape="rect" id="node9" href="$detect-parse_8c.html#a6a45868801c5a992277071f7672d146e" title=" " alt="" coords="167,188,339,215"/>
+<area shape="rect" id="node10" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title=" " alt="" coords="187,239,318,265"/>
+<area shape="rect" id="node11" href="$util-hashlist_8c.html#a50c22e2f6a96e3aa53d2f0bb7bed55d8" title=" " alt="" coords="163,289,342,316"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="464,5,535,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="675,5,778,32"/>
+<area shape="rect" id="node7" href="$detect-engine_8c.html#a9e25ff1b66abb473d23b69400b5b9d3a" title=" " alt="" coords="393,129,605,156"/>
+<area shape="rect" id="node8" href="$util-hashlist_8c.html#a1a453a7ac14aab5f3725a3a52033a0d6" title=" " alt="" coords="653,129,800,156"/>
+</map>

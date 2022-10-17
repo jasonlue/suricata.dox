@@ -1,0 +1,8 @@
+<map id="ENIPTransaction_" name="ENIPTransaction_">
+<area shape="rect" id="node1" title=" " alt="" coords="247,95,376,121"/>
+<area shape="rect" id="node2" href="$structENIPState__.html" title="Per flow ENIP state container." alt="" coords="265,199,357,225"/>
+<area shape="rect" id="node3" href="$structENIPEncapHdr__.html" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$structENIPEncapDataHdr__.html" title=" " alt="" coords="149,5,295,32"/>
+<area shape="rect" id="node5" href="$structENIPEncapAddresItem__.html" title=" " alt="" coords="319,5,485,32"/>
+<area shape="rect" id="node6" href="$structENIPEncapDataItem__.html" title=" " alt="" coords="509,5,661,32"/>
+</map>

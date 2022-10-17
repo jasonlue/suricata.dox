@@ -1,0 +1,4 @@
+<map id="DetectPortHashFree" name="DetectPortHashFree">
+<area shape="rect" id="node1" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_hash_table, allocated by DetectPortInit() function." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title=" " alt="" coords="196,5,327,32"/>
+</map>

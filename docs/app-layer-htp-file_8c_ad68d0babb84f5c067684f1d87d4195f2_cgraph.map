@@ -1,0 +1,9 @@
+<map id="HTPFileClose" name="HTPFileClose">
+<area shape="rect" id="node1" title="Close the file in the flow." alt="" coords="5,56,109,83"/>
+<area shape="rect" id="node2" href="$util-file_8c.html#af171f01b93e2224c0e982315b735b36f" title="Close a File." alt="" coords="199,5,298,32"/>
+<area shape="rect" id="node4" href="$app-layer-htp-file_8c.html#a116913d020473da4e55ab1c705eac07b" title="close range, add reassembled file if possible" alt="" coords="157,56,340,83"/>
+<area shape="rect" id="node7" href="$app-layer-htp-range_8c.html#a4df16d6f49365668970ad96be3f62604" title=" " alt="" coords="177,107,321,133"/>
+<area shape="rect" id="node3" href="$util-file_8c.html#aaa471dc638a0adf03159a3c98b54be7d" title=" " alt="" coords="409,5,524,32"/>
+<area shape="rect" id="node5" href="$app-layer-htp-range_8c.html#af077a01c67eb12ea99ce1349193c0af2" title=" " alt="" coords="388,56,545,83"/>
+<area shape="rect" id="node6" href="$util-file_8c.html#af030d5405da87224ae8d0481996776b4" title="Store/handle a chunk of file data in the File structure The last file in the FileContainer will be us..." alt="" coords="593,56,708,83"/>
+</map>

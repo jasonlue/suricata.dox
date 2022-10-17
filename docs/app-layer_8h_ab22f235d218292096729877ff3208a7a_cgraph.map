@@ -1,0 +1,4 @@
+<map id="AppLayerIncTxCounter" name="AppLayerIncTxCounter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node2" href="$counters_8c.html#afe875414dd4620c523f895a83d365c4b" title="Adds a value of type uint64_t to the local counter." alt="" coords="209,5,313,32"/>
+</map>

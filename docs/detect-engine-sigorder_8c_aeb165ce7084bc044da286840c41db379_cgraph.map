@@ -1,0 +1,5 @@
+<map id="SigFree" name="SigFree">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,72,57"/>
+<area shape="rect" id="node2" href="$detect-engine-iponly_8c.html#a33c62e349284f6305fd1e83d21aab84a" title="This function free a IPOnlyCIDRItem list." alt="" coords="120,5,263,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#af725952936f5f9d7d369d97629de273e" title="free a SigMatch" alt="" coords="140,56,243,83"/>
+</map>

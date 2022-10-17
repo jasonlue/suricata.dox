@@ -1,0 +1,25 @@
+var structTcpStream__ =
+[
+    [ "app_progress_rel", "structTcpStream__.html#acd1192ab5da501b54fda778f5ff72b4e", null ],
+    [ "base_seq", "structTcpStream__.html#a0299f397fe1a37f0aa3d6551caad9d01", null ],
+    [ "data_required", "structTcpStream__.html#a4f780568b8e6b85ca9ee71fff2a24dc3", null ],
+    [ "flags", "structTcpStream__.html#accfa7e57b0bce42297628b49302311d8", null ],
+    [ "isn", "structTcpStream__.html#ac0af92a102c059f567ac6d247a74172e", null ],
+    [ "last_ack", "structTcpStream__.html#aea424b8b3c02cf4b9a864936950c523c", null ],
+    [ "last_pkt_ts", "structTcpStream__.html#ab3ec3bea95c81265132e7b77cf08e5a0", null ],
+    [ "last_ts", "structTcpStream__.html#a675d68e2052320cd44d24d1aed9413b6", null ],
+    [ "log_progress_rel", "structTcpStream__.html#a04e3aaf1a762a45029427a76b80471ac", null ],
+    [ "min_inspect_depth", "structTcpStream__.html#a1bcdd6d22964c4b6a6c7ca9e18d41d55", null ],
+    [ "next_seq", "structTcpStream__.html#a29617fbda432d661863cdc0cf722a710", null ],
+    [ "next_win", "structTcpStream__.html#aad7457b2018eff3005e560533776e9f4", null ],
+    [ "os_policy", "structTcpStream__.html#a4787cc5b7ae1afe38468b2a813299d99", null ],
+    [ "raw_progress_rel", "structTcpStream__.html#a302c78b09f37cbcc35f413d1bcbfebab", null ],
+    [ "sack_size", "structTcpStream__.html#aac8ec03b62fc2ee3494bdff391ae3c0a", null ],
+    [ "sack_tree", "structTcpStream__.html#a2985b6d4d3517df483b22d0ad7f6c848", null ],
+    [ "sb", "structTcpStream__.html#a28cda3d8098dee26da5332d90726c96a", null ],
+    [ "seg_tree", "structTcpStream__.html#a32528c97fe66d92143fbe75b5575007e", null ],
+    [ "segs_right_edge", "structTcpStream__.html#a3263d8ed3b6203bdae99d5814b7f3f26", null ],
+    [ "tcp_flags", "structTcpStream__.html#a4c1cbd521fe643f2cf39a2f76fdb327a", null ],
+    [ "window", "structTcpStream__.html#a27b6ccf1eb30c0f31b076e0bd12a53d2", null ],
+    [ "wscale", "structTcpStream__.html#a12250d8015b7fd1f40d6bf1d46b9432b", null ]
+];

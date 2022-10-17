@@ -1,0 +1,41 @@
+<map id="RunmodeIsUnittests" name="RunmodeIsUnittests">
+<area shape="rect" id="node1" title=" " alt="" coords="795,399,937,425"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a88e3531566baa49719a9edd0cb1ef6fa" title="check if a parser is enabled in the config Returns enabled always if: were running unittests" alt="" coords="539,46,720,87"/>
+<area shape="rect" id="node5" href="$app-layer-detect-proto_8c.html#a024b6ba6833bd5bfc8208df1d3a8c99c" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="526,206,733,247"/>
+<area shape="rect" id="node13" href="$app-layer-tftp_8c.html#abd2f8e3569bbde1cab42737ab2d81a71" title=" " alt="" coords="33,395,182,421"/>
+<area shape="rect" id="node14" href="$app-layer-dnp3_8c.html#a4faf76e1cbbc68bfea940763018fb79b" title="Register the DNP3 application protocol parser." alt="" coords="285,104,437,131"/>
+<area shape="rect" id="node15" href="$app-layer-enip_8c.html#abc41a9064d8f35837029bf7cdcc0f3a5" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="273,272,448,299"/>
+<area shape="rect" id="node16" href="$app-layer-enip_8c.html#aa9ec0304ee5ddb25ea3b0b0bcc9af9a9" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="272,323,449,349"/>
+<area shape="rect" id="node18" href="$app-layer-template_8c.html#ac39e3903c23aff255a27a6dfcdf2d652" title=" " alt="" coords="276,373,445,400"/>
+<area shape="rect" id="node19" href="$detect-engine_8c.html#aa4a1c8ca0b9b3726882756663b763a55" title="initialize thread specific detection engine context" alt="" coords="539,525,719,552"/>
+<area shape="rect" id="node25" href="$detect-template-buffer_8c.html#a5560c3c83735e9f8dd275d77f66bfd02" title=" " alt="" coords="530,601,729,628"/>
+<area shape="rect" id="node30" href="$stream-tcp_8c.html#a73b0702f9f4d8ac41c5c439c4bc49c64" title=" " alt="" coords="548,703,711,729"/>
+<area shape="rect" id="node35" href="$stream-tcp_8c.html#a8626f32922cf2f849c4f3fd2e936c848" title="To initialize the stream global configuration data." alt="" coords="559,779,699,805"/>
+<area shape="rect" id="node38" href="$stream-tcp-reassemble_8c.html#a1117512e3b998a56f41b4457da37c416" title="Function to Decrease the memory usage counter for the TCP reassembly segments." alt="" coords="512,855,747,881"/>
+<area shape="rect" id="node3" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library." alt="" coords="51,5,164,32"/>
+<area shape="rect" id="node4" href="$app-layer-mqtt_8c.html#a7c37c0713060451c9feb5a9ac01d3bdd" title=" " alt="" coords="284,53,437,80"/>
+<area shape="rect" id="node6" href="$app-layer-detect-proto_8c.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="257,155,464,197"/>
+<area shape="rect" id="node17" href="$app-layer-http2_8c.html#a6bbe37a6816c9aa2857a2057d6fb6f0d" title=" " alt="" coords="281,221,440,248"/>
+<area shape="rect" id="node7" href="$app-layer-ftp_8c.html#aad9fd179d26143f516519e8f83a8ec95" title=" " alt="" coords="37,212,178,239"/>
+<area shape="rect" id="node8" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine." alt="" coords="36,263,179,289"/>
+<area shape="rect" id="node9" href="$app-layer-nfs-tcp_8c.html#af2bb87ba69b38aa0334a825838795685" title=" " alt="" coords="22,313,193,340"/>
+<area shape="rect" id="node10" href="$app-layer-smtp_8c.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser." alt="" coords="31,60,184,87"/>
+<area shape="rect" id="node11" href="$app-layer-ssh_8c.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions." alt="" coords="35,111,179,137"/>
+<area shape="rect" id="node12" href="$app-layer-ssl_8c.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions." alt="" coords="37,161,178,188"/>
+<area shape="rect" id="node20" href="$util-unittest-helper_8c.html#a463aa3cb48abef1227d5bd031f051c6f" title=" " alt="" coords="293,576,428,603"/>
+<area shape="rect" id="node21" href="$util-unittest-helper_8c.html#a790d3ec8bd4307b5f5891fd26c9af364" title=" " alt="" coords="257,627,464,653"/>
+<area shape="rect" id="node23" href="$util-unittest-helper_8c.html#a30ad84488c5292331f23f02a0f121175" title=" " alt="" coords="287,475,434,501"/>
+<area shape="rect" id="node24" href="$util-unittest-helper_8c.html#ae2b42a605040aa0a6528f2fda98881e7" title=" " alt="" coords="273,525,448,552"/>
+<area shape="rect" id="node22" href="$util-unittest-helper_8c.html#ab06c363b5a68bae722b6b7c0a4e7e7f3" title="UTHGenericTest: function that perfom a generic check taking care of as maximum common unittest elemen..." alt="" coords="47,525,167,552"/>
+<area shape="rect" id="node26" href="$detect-engine-register_8c.html#a21706286b0acefa72fcbdd3b37daa55f" title=" " alt="" coords="307,677,414,704"/>
+<area shape="rect" id="node27" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="57,576,158,603"/>
+<area shape="rect" id="node28" href="$fuzz__siginit_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="21,627,194,653"/>
+<area shape="rect" id="node29" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="58,677,157,704"/>
+<area shape="rect" id="node31" href="$stream-tcp_8c.html#a26df002d4d76e0bf27433b289b1ca83a" title="Session cleanup function. Does not free the ssn." alt="" coords="271,728,450,755"/>
+<area shape="rect" id="node32" href="$stream-tcp_8c.html#add92e80f13e88362630ba978ac24c241" title="Function to return the stream back to the pool. It returns the segments in the stream to the segment ..." alt="" coords="26,728,189,755"/>
+<area shape="rect" id="node33" href="$stream-tcp-util_8c.html#a5bef4b33daf7e346128f449273fadda9" title=" " alt="" coords="17,779,197,805"/>
+<area shape="rect" id="node34" href="$util-unittest-helper_8c.html#a31d5cbb8fdc195d4ab561829b3459e77" title=" " alt="" coords="5,829,209,856"/>
+<area shape="rect" id="node36" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="319,779,403,805"/>
+<area shape="rect" id="node37" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="301,829,421,856"/>
+<area shape="rect" id="node39" href="$stream-tcp-reassemble_8c.html#a771b5f3f7ef9d74f05f4ce19b0a75b27" title=" " alt="" coords="260,880,461,907"/>
+</map>

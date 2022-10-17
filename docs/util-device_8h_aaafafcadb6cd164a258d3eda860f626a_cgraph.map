@@ -1,0 +1,5 @@
+<map id="LiveDevUseBypass" name="LiveDevUseBypass">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__devicestorage.html#ga52f9bdae641111f76d88532cd069389c" title="Store a pointer in a given LiveDevice storage." alt="" coords="192,5,355,32"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#ad7892e8e521cd8a0d46229502659f562" title="set storage for id" alt="" coords="403,5,517,32"/>
+</map>

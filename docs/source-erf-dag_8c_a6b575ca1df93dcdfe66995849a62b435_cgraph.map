@@ -1,0 +1,6 @@
+<map id="ReceiveErfDagThreadInit" name="ReceiveErfDagThreadInit">
+<area shape="rect" id="node1" title="Initialize the ERF receiver thread, generate a single ErfDagThreadVar structure for each thread,..." alt="" coords="5,56,175,83"/>
+<area shape="rect" id="node2" href="$util-datalink_8c.html#aedb31a5a27cab5fd0ecdec932889e3cc" title=" " alt="" coords="223,5,377,32"/>
+<area shape="rect" id="node3" href="$util-device_8c.html#a651479212f7233bbc90132829b1113b6" title="Get a pointer to the device at idx." alt="" coords="246,56,354,83"/>
+<area shape="rect" id="node4" href="$counters_8c.html#a95abbd8272502dc1a4f355fb4d672a75" title="Registers a normal, unqualified counter." alt="" coords="226,107,374,133"/>
+</map>

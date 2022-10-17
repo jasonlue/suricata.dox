@@ -1,0 +1,26 @@
+var structAFPIfaceConfig__ =
+[
+    [ "SC_ATOMIC_DECLARE", "structAFPIfaceConfig__.html#a42b9c3deafbfaf6f1d7d9c00f3eaa9fe", null ],
+    [ "block_size", "structAFPIfaceConfig__.html#ab9e68810197a059d76a14e3e590e7394", null ],
+    [ "block_timeout", "structAFPIfaceConfig__.html#ad82da4309380e5ac27ec86cbcaa2ad54", null ],
+    [ "bpf_filter", "structAFPIfaceConfig__.html#ac6f01a85ab6d0f70f382da89136f3165", null ],
+    [ "buffer_size", "structAFPIfaceConfig__.html#a0443c6cdaef617633398b5370d621642", null ],
+    [ "checksum_mode", "structAFPIfaceConfig__.html#a8a4ac35033c77d10e0d6d55495ef68f6", null ],
+    [ "cluster_id", "structAFPIfaceConfig__.html#afd957e99cddc50277edcdbbc2ce6855f", null ],
+    [ "cluster_type", "structAFPIfaceConfig__.html#a155f2931300f893732bb73b60fe8271b", null ],
+    [ "copy_mode", "structAFPIfaceConfig__.html#a3b2cb54489bc76dbdc28949e95e5ba30", null ],
+    [ "DerefFunc", "structAFPIfaceConfig__.html#a5a529c9dcd57018982a90188d458c8a0", null ],
+    [ "ebpf_filter_fd", "structAFPIfaceConfig__.html#a20141e0fda7b807ca224427dd834c569", null ],
+    [ "ebpf_filter_file", "structAFPIfaceConfig__.html#a94db3be7203ba2a54fae9cb555abbc31", null ],
+    [ "ebpf_lb_fd", "structAFPIfaceConfig__.html#a8a35c05ab457e93415a8d17b8b84f066", null ],
+    [ "ebpf_lb_file", "structAFPIfaceConfig__.html#afdcf60fa83a3377144402ee1bb21bf0e", null ],
+    [ "flags", "structAFPIfaceConfig__.html#a897f47a7f5db260f587b15b1c452a5e4", null ],
+    [ "iface", "structAFPIfaceConfig__.html#a7ff2cd992ef656aeb89e5b009b902ee6", null ],
+    [ "out_iface", "structAFPIfaceConfig__.html#a1e4e9c08702342479a0437c50bd7feb9", null ],
+    [ "promisc", "structAFPIfaceConfig__.html#aa222e31ba4500a6d12c745e850fb86d4", null ],
+    [ "ring_size", "structAFPIfaceConfig__.html#af4da366cc4f5066149956d2e7fa5b314", null ],
+    [ "threads", "structAFPIfaceConfig__.html#af032f58d7e1f8245e98e42bd024aa8a1", null ],
+    [ "xdp_filter_fd", "structAFPIfaceConfig__.html#a5f49a69b70f5501da0d8d52113997fd6", null ],
+    [ "xdp_filter_file", "structAFPIfaceConfig__.html#aa8704391da96a1a1c29550037a79dad4", null ],
+    [ "xdp_mode", "structAFPIfaceConfig__.html#a1eab0ea3f30bd3a7578bac2c77629d39", null ]
+];

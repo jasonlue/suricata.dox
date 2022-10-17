@@ -1,0 +1,11 @@
+<map id="HashListTableInit" name="HashListTableInit">
+<area shape="rect" id="node1" title=" " alt="" coords="260,187,383,213"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#aad7b492b722abf40caf026ef7a892e92" title=" " alt="" coords="33,5,185,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a89b48595fd5167e619efd1e72c674b3f" title="Initializes the hash table that is used to cull duplicate sigs." alt="" coords="15,56,202,83"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#aeabf1e48db0682e2b818049f41183ade" title="Initializes the hash table in the detection engine context to hold the DetectPort hash." alt="" coords="41,107,176,133"/>
+<area shape="rect" id="node5" href="$detect-engine_8c.html#a1c7ef5fa74af9dd4ce3982eea0942c42" title="Register Thread keyword context Funcs." alt="" coords="5,157,212,184"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#a20f65a1430776bf34ce76d72e7914697" title="add all patterns on our stats hash Used to fill the hash later used by DumpPatterns()" alt="" coords="20,209,197,250"/>
+<area shape="rect" id="node7" href="$detect-engine-mpm_8c.html#a5a62f6d5685b6ec49b43773bda73ed7d" title="Initializes the MpmStore mpm hash table to be used by the detection engine context." alt="" coords="59,275,159,301"/>
+<area shape="rect" id="node8" href="$detect-engine-prefilter_8c.html#ac836bc478100469fcfd9137f7e5317e9" title=" " alt="" coords="66,325,151,352"/>
+<area shape="rect" id="node9" href="$detect-engine-siggroup_8c.html#a9b28df8d7064c052d1f86d1a71afdf29" title="Initializes the hash table in the detection engine context to hold the SigGroupHeads." alt="" coords="31,376,187,403"/>
+</map>

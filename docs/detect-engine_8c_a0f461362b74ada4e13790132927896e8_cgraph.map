@@ -1,0 +1,8 @@
+<map id="DetectEngineInspectPktBufferGeneric" name="DetectEngineInspectPktBufferGeneric">
+<area shape="rect" id="node1" title="Do the content inspection &amp; validation for a signature." alt="" coords="5,56,204,97"/>
+<area shape="rect" id="node2" href="$detect-engine-content-inspection_8c.html#a65b3779e4fa6bb589cef0ffcca4c3faf" title="Run the actual payload match functions." alt="" coords="252,63,459,90"/>
+<area shape="rect" id="node3" href="$detect-pcre_8c.html#abc7ae416403ded436038773a20dd934b" title="Match a regex on a single payload." alt="" coords="507,13,677,39"/>
+<area shape="rect" id="node5" href="$detect-replace_8c.html#a10d8d30877d3c434cbdb502b74adaef4" title=" " alt="" coords="509,63,675,90"/>
+<area shape="rect" id="node6" href="$util-spm_8c.html#af86833568d49a98bfb724256b44cd194" title=" " alt="" coords="553,114,631,141"/>
+<area shape="rect" id="node4" href="$detect-engine_8c.html#a122e360d66757288862ea7b345e5b26f" title="Retrieve thread local keyword ctx by id." alt="" coords="725,5,920,47"/>
+</map>

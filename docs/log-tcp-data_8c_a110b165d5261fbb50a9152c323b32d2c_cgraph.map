@@ -1,0 +1,20 @@
+<map id="LogTcpDataLogRegister" name="LogTcpDataLogRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,271,167,297"/>
+<area shape="rect" id="node2" href="$log-tcp-data_8c.html#a21cd450ebf51229dca21ac02e1cb360a" title=" " alt="" coords="255,132,385,159"/>
+<area shape="rect" id="node3" href="$log-tcp-data_8c.html#a2d7b1c62f87deddb69f6052f426fb8b0" title="Create a new http log LogFileCtx." alt="" coords="245,183,395,209"/>
+<area shape="rect" id="node14" href="$log-tcp-data_8c.html#aca718522cd7ce5c0278af618dfc2ac84" title=" " alt="" coords="227,271,413,297"/>
+<area shape="rect" id="node16" href="$log-tcp-data_8c.html#ab1005da1600b82052e6742f8e315c3ed" title=" " alt="" coords="235,321,405,348"/>
+<area shape="rect" id="node18" href="$output_8c.html#a6875e1fd2cc4c80ebce37f3f0864760e" title="Register a streaming data output module." alt="" coords="215,372,425,399"/>
+<area shape="rect" id="node4" href="$util-conf_8c.html#a90efa38fa8a61a2b14fac2fd907d337c" title=" " alt="" coords="489,5,643,32"/>
+<area shape="rect" id="node7" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="473,56,659,83"/>
+<area shape="rect" id="node9" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="511,107,621,133"/>
+<area shape="rect" id="node11" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="510,157,622,184"/>
+<area shape="rect" id="node12" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket" alt="" coords="483,208,649,235"/>
+<area shape="rect" id="node13" href="$util-strlcpyu_8c.html#aeb79f86261de904967d433c1b5e9a1de" title=" " alt="" coords="535,259,597,285"/>
+<area shape="rect" id="node5" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="779,5,850,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="971,5,1073,32"/>
+<area shape="rect" id="node8" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="738,56,891,83"/>
+<area shape="rect" id="node10" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag." alt="" coords="707,107,923,133"/>
+<area shape="rect" id="node15" href="$util-buffer_8c.html#ae2344f2fa62c9d11b8625bfd886866c9" title=" " alt="" coords="510,309,622,336"/>
+<area shape="rect" id="node17" href="$util-buffer_8c.html#abd29bae3dc43c40bceec996c4818343e" title=" " alt="" coords="490,360,642,387"/>
+</map>

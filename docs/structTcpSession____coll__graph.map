@@ -1,0 +1,8 @@
+<map id="TcpSession_" name="TcpSession_">
+<area shape="rect" id="node1" title=" " alt="" coords="191,288,287,315"/>
+<area shape="rect" id="node2" href="$structTcpStream__.html" title=" " alt="" coords="130,184,221,211"/>
+<area shape="rect" id="node3" href="$structStreamingBuffer__.html" title=" " alt="" coords="114,95,237,121"/>
+<area shape="rect" id="node4" href="$structStreamingBufferConfig__.html" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node5" href="$structStreamingBufferBlock.html" title="block of continues data" alt="" coords="191,5,341,32"/>
+<area shape="rect" id="node6" href="$structTcpStateQueue__.html" title=" " alt="" coords="245,184,364,211"/>
+</map>

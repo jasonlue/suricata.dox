@@ -1,0 +1,5 @@
+<map id="StreamTcpGetSegment" name="StreamTcpGetSegment">
+<area shape="rect" id="node1" title="get a segment from the pool" alt="" coords="284,35,441,61"/>
+<area shape="rect" id="node2" href="$stream-tcp-util_8c.html#a76e6bc7448ccad45a8955265ec14e40a" title=" " alt="" coords="5,5,236,32"/>
+<area shape="rect" id="node3" href="$stream-tcp-util_8c.html#aa95bbbdf447725bbfb4948657754d61f" title=" " alt="" coords="19,57,222,98"/>
+</map>

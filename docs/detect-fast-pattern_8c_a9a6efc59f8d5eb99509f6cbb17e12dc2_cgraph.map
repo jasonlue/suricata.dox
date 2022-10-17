@@ -1,0 +1,4 @@
+<map id="SupportFastPatternForSigMatchTypes" name="SupportFastPatternForSigMatchTypes">
+<area shape="rect" id="node1" title="Registers the keywords(SMs) that should be given fp support." alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$detect-fast-pattern_8c.html#a3bc669a9cea5ee63bd4800df5a53cd1f" title="Lets one add a sm list id to be searched for potential fp supported keywords later." alt="" coords="227,5,400,47"/>
+</map>

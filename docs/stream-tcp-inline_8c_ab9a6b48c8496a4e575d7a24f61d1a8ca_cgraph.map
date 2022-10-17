@@ -1,0 +1,4 @@
+<map id="StreamTcpInlineSegmentReplacePacket" name="StreamTcpInlineSegmentReplacePacket">
+<area shape="rect" id="node1" title="Replace (part of) the payload portion of a packet by the data in a TCP segment." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$util-streaming-buffer_8c.html#a08824da612ee18d50ea09d1556973583" title=" " alt="" coords="268,13,485,39"/>
+</map>

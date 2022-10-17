@@ -1,0 +1,13 @@
+<map id="JsonAlertLogThread_" name="JsonAlertLogThread_">
+<area shape="rect" id="node1" title=" " alt="" coords="167,455,313,481"/>
+<area shape="rect" id="node2" href="$structMemBuffer__.html" title=" " alt="" coords="5,275,99,301"/>
+<area shape="rect" id="node11" href="$structOutputJsonThreadCtx__.html" title=" " alt="" coords="161,365,319,392"/>
+<area shape="rect" id="node3" href="$structAlertJsonOutputCtx__.html" title=" " alt="" coords="407,365,551,392"/>
+<area shape="rect" id="node4" href="$structLogFileCtx__.html" title=" " alt="" coords="278,184,370,211"/>
+<area shape="rect" id="node5" href="$structLogThreadedFileCtx__.html" title=" " alt="" coords="315,275,461,301"/>
+<area shape="rect" id="node9" href="$structOutputJsonCtx__.html" title=" " alt="" coords="485,275,603,301"/>
+<area shape="rect" id="node6" href="$structLogFilePluginCtx__.html" title=" " alt="" coords="315,95,443,121"/>
+<area shape="rect" id="node7" href="$structSCEveFileType__.html" title=" " alt="" coords="381,5,501,32"/>
+<area shape="rect" id="node8" href="$structHttpXFFCfg__.html" title=" " alt="" coords="751,184,851,211"/>
+<area shape="rect" id="node10" href="$structOutputJsonCommonSettings__.html" title=" " alt="" coords="529,184,727,211"/>
+</map>

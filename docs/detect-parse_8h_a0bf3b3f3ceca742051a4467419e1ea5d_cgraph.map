@@ -1,0 +1,7 @@
+<map id="DetectGetLastSMFromMpmLists" name="DetectGetLastSMFromMpmLists">
+<area shape="rect" id="node1" title="get the last SigMatch from lists that support MPM." alt="" coords="5,42,220,69"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#ab901bc1b0131b58d61d6d64c50e6197d" title=" " alt="" coords="268,5,484,47"/>
+<area shape="rect" id="node5" href="$detect-parse_8c.html#a32b4e46b513ea7dcc87590691b78e418" title="Returns the sm with the largest index (added last) from the list passed to us as a pointer." alt="" coords="285,71,467,98"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#a9e25ff1b66abb473d23b69400b5b9d3a" title=" " alt="" coords="532,13,744,39"/>
+<area shape="rect" id="node4" href="$util-hashlist_8c.html#a1a453a7ac14aab5f3725a3a52033a0d6" title=" " alt="" coords="792,13,939,39"/>
+</map>

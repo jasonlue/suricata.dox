@@ -1,0 +1,5 @@
+<map id="TmqhReleasePacketsToPacketPool" name="TmqhReleasePacketsToPacketPool">
+<area shape="rect" id="node1" title="Release all the packets in the queue back to the packetpool. Mainly used by threads that have failed,..." alt="" coords="5,31,237,57"/>
+<area shape="rect" id="node2" href="$packet-queue_8c.html#ac4b5ec1da525f7fea21bab5378d754e7" title=" " alt="" coords="307,5,422,32"/>
+<area shape="rect" id="node3" href="$tmqh-packetpool_8c.html#a7459d4fb3fb4e341f4644fac509e3463" title=" " alt="" coords="285,56,444,83"/>
+</map>

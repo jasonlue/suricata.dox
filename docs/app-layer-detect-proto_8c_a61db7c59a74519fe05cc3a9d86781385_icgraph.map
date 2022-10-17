@@ -1,0 +1,10 @@
+<map id="AppLayerProtoDetectSetup" name="AppLayerProtoDetectSetup">
+<area shape="rect" id="node1" title="The first function to be called. This initializes a global protocol detection context." alt="" coords="649,107,831,133"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer." alt="" coords="459,81,570,108"/>
+<area shape="rect" id="node8" href="$fuzz__applayerprotodetectgetproto_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="428,132,601,159"/>
+<area shape="rect" id="node3" href="$util-running-modes_8c.html#a03b5cae283d57d4ef7adafd290a33c5d" title=" " alt="" coords="227,5,380,32"/>
+<area shape="rect" id="node4" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="253,56,354,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="227,107,380,133"/>
+<area shape="rect" id="node7" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="254,157,353,184"/>
+<area shape="rect" id="node6" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,107,179,133"/>
+</map>

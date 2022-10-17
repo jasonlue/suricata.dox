@@ -1,0 +1,5 @@
+<map id="UTHAppendSigs" name="UTHAppendSigs">
+<area shape="rect" id="node1" title="UTHAppendSigs: Add sigs to the detection_engine checking for errors." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$detect-parse_8c.html#aeaf4624332e5d249f3aa01348e1bf479" title="Parse and append a Signature into the Detection Engine Context signature list." alt="" coords="173,5,337,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#ab743f91380c368d2ef48ba6400cd470d" title="Parses a signature and adds it to the Detection Engine Context." alt="" coords="385,5,444,32"/>
+</map>

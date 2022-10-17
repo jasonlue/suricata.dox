@@ -1,0 +1,6 @@
+<map id="DetectAddressCutIPv4" name="DetectAddressCutIPv4">
+<area shape="rect" id="node1" title="Cut groups and merge sigs." alt="" coords="5,56,163,83"/>
+<area shape="rect" id="node2" href="$detect-engine-address-ipv4_8c.html#ad9c0fa19660a8bd72cbad5a2f6f2f4e7" title="Compares 2 addresses(address ranges) and returns the relationship between the 2 addresses." alt="" coords="211,5,375,32"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#a93c2ac0d98f92485bd4697ce4d610344" title="Frees a DetectAddress instance." alt="" coords="225,56,360,83"/>
+<area shape="rect" id="node4" href="$detect-engine-address_8c.html#a3e7759f5bfc45f3e85193ba97f654e3f" title="Creates and returns a new instance of a DetectAddress." alt="" coords="229,107,356,133"/>
+</map>

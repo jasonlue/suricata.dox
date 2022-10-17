@@ -1,0 +1,23 @@
+<map id="LogHttpLogRegister" name="LogHttpLogRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,309,144,336"/>
+<area shape="rect" id="node2" href="$log-httplog_8c.html#a715994197d9a53b6d1fe05ce86c74a74" title=" " alt="" coords="222,157,329,184"/>
+<area shape="rect" id="node3" href="$log-httplog_8c.html#aad9f6437cc767e7e08bdf77bbf2f4294" title="Create a new http log LogFileCtx." alt="" coords="211,208,339,235"/>
+<area shape="rect" id="node17" href="$log-httplog_8c.html#a295189212ded079885e745e129f66c39" title=" " alt="" coords="194,309,357,336"/>
+<area shape="rect" id="node19" href="$log-httplog_8c.html#a21c3595698b667a93ccb9771c79bcaa7" title=" " alt="" coords="202,360,349,387"/>
+<area shape="rect" id="node21" href="$output_8c.html#a08cf78ff1a321e7bb4333cdd942b7d60" title="Register a tx output module." alt="" coords="192,411,359,437"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="407,5,592,32"/>
+<area shape="rect" id="node6" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="447,56,552,83"/>
+<area shape="rect" id="node7" href="$log-cf-common_8c.html#a6c07edd4474fd265e5ad6b861ac00fb8" title="Creates a custom format." alt="" coords="420,107,579,133"/>
+<area shape="rect" id="node8" href="$log-cf-common_8c.html#ad48b7bf8e23c09cabb1a9abc188842b1" title="Parses and saves format nodes for custom format." alt="" coords="417,157,581,184"/>
+<area shape="rect" id="node13" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="444,208,555,235"/>
+<area shape="rect" id="node15" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="443,259,555,285"/>
+<area shape="rect" id="node16" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket" alt="" coords="416,309,583,336"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="671,5,825,32"/>
+<area shape="rect" id="node9" href="$log-cf-common_8c.html#aa46d7a6968c4d89b739da2563fb51061" title="Adds a node to custom format." alt="" coords="656,56,840,83"/>
+<area shape="rect" id="node10" href="$log-cf-common_8c.html#adacc89543e97f84af26c3384b5dfeef4" title="Creates a custom format node." alt="" coords="653,107,843,133"/>
+<area shape="rect" id="node11" href="$log-cf-common_8c.html#a4069acd792f821fb25e4757aca3b9bc6" title="Frees memory held by a custom format node." alt="" coords="655,157,841,184"/>
+<area shape="rect" id="node12" href="$util-strlcpyu_8c.html#aeb79f86261de904967d433c1b5e9a1de" title=" " alt="" coords="717,208,779,235"/>
+<area shape="rect" id="node14" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag." alt="" coords="640,259,856,285"/>
+<area shape="rect" id="node18" href="$util-buffer_8c.html#ae2344f2fa62c9d11b8625bfd886866c9" title=" " alt="" coords="443,360,555,387"/>
+<area shape="rect" id="node20" href="$util-buffer_8c.html#abd29bae3dc43c40bceec996c4818343e" title=" " alt="" coords="423,411,575,437"/>
+</map>

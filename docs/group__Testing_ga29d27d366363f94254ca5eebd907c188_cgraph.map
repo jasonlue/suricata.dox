@@ -1,0 +1,5 @@
+<map id="UtRunSelftest" name="UtRunSelftest">
+<area shape="rect" id="node1" title="Run self tests." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$group__Testing.html#ga66c0a4034bd929df34caa93459e84970" title="Initialize unit test list." alt="" coords="172,5,256,32"/>
+<area shape="rect" id="node3" href="$group__Testing.html#ga34617b41f44505d5c3938e4df12c264f" title="Register unit test." alt="" coords="159,56,269,83"/>
+</map>

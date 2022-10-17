@@ -1,0 +1,5 @@
+<map id="TagFlowAdd" name="TagFlowAdd">
+<area shape="rect" id="node1" title="This function is used to add a tag to a session (type session) or update it if it&#39;s already installed..." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$flow-storage_8c.html#abcfd6c429fcc2dec96d1adf5d3ca162b" title=" " alt="" coords="148,5,291,32"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#a087864e35f683908abf849f04708ef1a" title="get storage for id" alt="" coords="339,5,453,32"/>
+</map>

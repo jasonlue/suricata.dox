@@ -1,0 +1,5 @@
+<map id="StringToAppProto" name="StringToAppProto">
+<area shape="rect" id="node1" title="Maps a string to its ALPROTO_* equivalent." alt="" coords="228,42,352,69"/>
+<area shape="rect" id="node2" href="$app-layer-register_8c.html#ad8d21c685b6c8ac9eb85c1ac543d4811" title="App layer protocol detection function." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$fuzz__applayerparserparse_8c.html#aa30889313cc057073351a87b2590b886" title=" " alt="" coords="21,71,164,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DetectHttpUriSetup" name="DetectHttpUriSetup">
+<area shape="rect" id="node1" title="this function setups the http_uri modifier keyword used in the rule" alt="" coords="5,13,143,39"/>
+<area shape="rect" id="node2" href="$detect-parse_8c.html#a9e88fde3541b3b49cd28b0a6300e3cfa" title=" " alt="" coords="191,5,384,47"/>
+</map>

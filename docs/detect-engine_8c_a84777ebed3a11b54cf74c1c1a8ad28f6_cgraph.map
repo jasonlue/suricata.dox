@@ -1,0 +1,9 @@
+<map id="DetectEngineInspectBufferGeneric" name="DetectEngineInspectBufferGeneric">
+<area shape="rect" id="node1" title="Do the content inspection &amp; validation for a signature." alt="" coords="5,35,184,77"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#aac5503d1811500f82687093b7d85d341" title="get the progress value for a tx/protocol" alt="" coords="232,5,451,32"/>
+<area shape="rect" id="node3" href="$detect-engine-content-inspection_8c.html#a65b3779e4fa6bb589cef0ffcca4c3faf" title="Run the actual payload match functions." alt="" coords="238,80,445,107"/>
+<area shape="rect" id="node4" href="$detect-pcre_8c.html#abc7ae416403ded436038773a20dd934b" title="Match a regex on a single payload." alt="" coords="499,29,669,56"/>
+<area shape="rect" id="node6" href="$detect-replace_8c.html#a10d8d30877d3c434cbdb502b74adaef4" title=" " alt="" coords="501,80,667,107"/>
+<area shape="rect" id="node7" href="$util-spm_8c.html#af86833568d49a98bfb724256b44cd194" title=" " alt="" coords="545,131,623,157"/>
+<area shape="rect" id="node5" href="$detect-engine_8c.html#a122e360d66757288862ea7b345e5b26f" title="Retrieve thread local keyword ctx by id." alt="" coords="717,22,912,63"/>
+</map>

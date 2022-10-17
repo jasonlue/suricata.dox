@@ -1,0 +1,18 @@
+<map id="RunModeRegisterNewRunMode" name="RunModeRegisterNewRunMode">
+<area shape="rect" id="node1" title="Registers a new runmode." alt="" coords="256,360,467,387"/>
+<area shape="rect" id="node2" href="$runmode-dpdk_8c.html#ac3afdde791282031d5315e34e9f4dea9" title=" " alt="" coords="27,5,186,32"/>
+<area shape="rect" id="node3" href="$runmode-erf-dag_8c.html#a48e70c4e7988fa65ee295b869150cfa6" title=" " alt="" coords="23,56,191,83"/>
+<area shape="rect" id="node4" href="$runmode-erf-file_8c.html#a2fa5ee6e088800426e896df9aeff1048" title=" " alt="" coords="24,107,189,133"/>
+<area shape="rect" id="node5" href="$runmode-pcap-file_8c.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title=" " alt="" coords="17,157,196,184"/>
+<area shape="rect" id="node6" href="$runmode-af-packet_8c.html#abf510dda35701437fc571d5b5f0f1f6e" title=" " alt="" coords="21,208,192,235"/>
+<area shape="rect" id="node7" href="$runmode-netmap_8c.html#a8b229716bfd3fd0ed1c627350b1fb7da" title=" " alt="" coords="11,259,202,285"/>
+<area shape="rect" id="node8" href="$runmode-nflog_8c.html#aaabe731f1245f1a7f8cfb9a1e9bd417b" title=" " alt="" coords="19,309,195,336"/>
+<area shape="rect" id="node9" href="$runmode-pcap_8c.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title=" " alt="" coords="19,360,194,387"/>
+<area shape="rect" id="node10" href="$runmode-pfring_8c.html#a60ccf23e33d96ce4ad0e111902f1984b" title=" " alt="" coords="17,411,196,437"/>
+<area shape="rect" id="node11" href="$runmode-ipfw_8c.html#ae06ebfcccd6f11438a720a3b5753e5ac" title=" " alt="" coords="17,461,196,488"/>
+<area shape="rect" id="node12" href="$runmode-nfq_8c.html#a9357135b637234befb24cfcefde1e95e" title=" " alt="" coords="20,512,193,539"/>
+<area shape="rect" id="node13" href="$runmode-windivert_8c.html#a95cfc299fb3b8f2052138f4d7c314ca5" title=" " alt="" coords="5,563,208,589"/>
+<area shape="rect" id="node14" href="$runmode-napatech_8c.html#a618ba5aafed2b1a1249cefb96820f1b4" title=" " alt="" coords="15,613,198,640"/>
+<area shape="rect" id="node15" href="$runmode-unix-socket_8c.html#a7b1f01fe0493956ab7b85823a02c1653" title=" " alt="" coords="9,664,204,691"/>
+<area shape="rect" id="node16" href="$group__Testing.html#ga532982366398a53ec42db8059f9739c1" title=" " alt="" coords="36,715,177,741"/>
+</map>

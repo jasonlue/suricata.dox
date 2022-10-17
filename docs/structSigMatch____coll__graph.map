@@ -1,0 +1,4 @@
+<map id="SigMatch_" name="SigMatch_">
+<area shape="rect" id="node1" title="a single match condition for a signature" alt="" coords="16,96,100,123"/>
+<area shape="rect" id="node2" href="$structSigMatchCtx__.html" title="Used to start a pointer to SigMatch context Should never be dereferenced without casting to something..." alt="" coords="5,5,111,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RegisterDNP3Parsers" name="RegisterDNP3Parsers">
+<area shape="rect" id="node1" title="Register the DNP3 application protocol parser." alt="" coords="5,183,157,209"/>
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#a024b6ba6833bd5bfc8208df1d3a8c99c" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="209,91,416,133"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title=" " alt="" coords="468,157,611,184"/>
+<area shape="rect" id="node7" href="$app-layer-detect-proto_8c.html#a811d29503e196fdae96ba2682058b360" title="register parser at a port" alt="" coords="205,208,420,235"/>
+<area shape="rect" id="node9" href="$app-layer-detect-proto_8c.html#a03b2006442f3b142d3ce90ffe1f97f87" title="Registers a protocol for protocol detection phase." alt="" coords="215,259,411,301"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="488,5,591,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false." alt="" coords="484,56,595,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="487,107,592,133"/>
+<area shape="rect" id="node8" href="$detect-engine-port_8c.html#a0ad8e237b6166e60d600bb484c8e76a2" title="Function for parsing port strings." alt="" coords="480,208,599,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HtpBodyFree" name="HtpBodyFree">
+<area shape="rect" id="node1" title="Free the information held in the request body." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$app-layer-htp-mem_8c.html#acabec20e8b4154c7770b069deeed9003" title=" " alt="" coords="186,5,261,32"/>
+<area shape="rect" id="node3" href="$util-streaming-buffer_8c.html#a7773603fb8531bca65045fced3d17180" title=" " alt="" coords="152,56,295,83"/>
+<area shape="rect" id="node4" href="$util-streaming-buffer_8c.html#af4bd99000ecb44d68835f4793e33f3d4" title=" " alt="" coords="343,56,489,83"/>
+</map>

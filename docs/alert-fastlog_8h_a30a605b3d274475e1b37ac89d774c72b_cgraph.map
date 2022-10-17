@@ -1,0 +1,21 @@
+<map id="AlertFastLogRegister" name="AlertFastLogRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,151,361"/>
+<area shape="rect" id="node2" href="$alert-fastlog_8c.html#aed95d45eaab338cc00379486c8dcf560" title=" " alt="" coords="220,107,371,133"/>
+<area shape="rect" id="node3" href="$alert-fastlog_8c.html#ab7d2c17e1691ad5c6f80f04070470d44" title=" " alt="" coords="238,157,353,184"/>
+<area shape="rect" id="node10" href="$alert-fastlog_8c.html#acce13a71ae70c0f658483c2c5a4d339c" title="Create a new LogFileCtx for &quot;fast&quot; output style." alt="" coords="228,284,363,311"/>
+<area shape="rect" id="node15" href="$alert-fastlog_8c.html#a87ac152b6102d30f1e7c4a797ee72c80" title="This function registers unit tests for AlertFastLog API." alt="" coords="207,335,384,361"/>
+<area shape="rect" id="node17" href="$alert-fastlog_8c.html#abf663cb88cc9b5e6e28e3562a6c14d0b" title=" " alt="" coords="210,385,381,412"/>
+<area shape="rect" id="node18" href="$alert-fastlog_8c.html#a75eb0ddc6f98b7e212f7204a2ff25921" title=" " alt="" coords="218,436,373,463"/>
+<area shape="rect" id="node19" href="$output_8c.html#a4441bf76195154cca729bcd4614c7e46" title="Register a packet output module." alt="" coords="199,487,392,513"/>
+<area shape="rect" id="node4" href="$util-time_8c.html#a73a512e6c8e48a595e5f6f7e97a01ce6" title=" " alt="" coords="461,5,585,32"/>
+<area shape="rect" id="node6" href="$suricata_8c.html#a4b40aa623a6feb122601951304064464" title=" " alt="" coords="460,56,587,83"/>
+<area shape="rect" id="node7" href="$util-print_8c.html#a2058879ce95f086f55218321fd9a620e" title="print a buffer as hex on a single line" alt="" coords="444,107,603,133"/>
+<area shape="rect" id="node8" href="$util-print_8c.html#aa54bd2020e5f476e8c346fc6e5836f97" title=" " alt="" coords="488,157,559,184"/>
+<area shape="rect" id="node9" href="$util-proto-name_8c.html#a6d45f1083a662a9f68d9a3e3b191aa82" title="Function to check if the received protocol number is valid and do we have corresponding name entry fo..." alt="" coords="456,208,591,235"/>
+<area shape="rect" id="node5" href="$util-time_8c.html#a05b89d43affd48f1f37aea766dc80f27" title=" " alt="" coords="712,5,813,32"/>
+<area shape="rect" id="node11" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="468,259,579,285"/>
+<area shape="rect" id="node13" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="467,309,579,336"/>
+<area shape="rect" id="node14" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket" alt="" coords="440,360,607,387"/>
+<area shape="rect" id="node12" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag." alt="" coords="655,259,871,285"/>
+<area shape="rect" id="node16" href="$group__Testing.html#ga34617b41f44505d5c3938e4df12c264f" title="Register unit test." alt="" coords="468,411,579,437"/>
+</map>

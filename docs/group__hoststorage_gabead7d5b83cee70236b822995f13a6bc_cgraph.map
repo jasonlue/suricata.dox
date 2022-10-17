@@ -1,0 +1,4 @@
+<map id="HostGetStorageById" name="HostGetStorageById">
+<area shape="rect" id="node1" title="Get a value from a given Host storage." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$util-storage_8c.html#a087864e35f683908abf849f04708ef1a" title="get storage for id" alt="" coords="196,5,311,32"/>
+</map>

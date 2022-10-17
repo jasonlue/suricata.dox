@@ -1,0 +1,5 @@
+<map id="IPv6AddressStringIsValid" name="IPv6AddressStringIsValid">
+<area shape="rect" id="node1" title="determine if a string is a valid ipv6 address" alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node2" href="$util-ip_8c.html#a8100907ae6ad3c6e5190937a1cfd58f6" title="Validates an IPV6 address and returns the network endian arranged version of the IPV6 addresss." alt="" coords="237,5,383,32"/>
+<area shape="rect" id="node3" href="$util-host-os-info_8c.html#a99fabf245351af4d67bf53ffc44f1d04" title="Retrieves the host os flavour, given an ipv4/ipv6 address as a string." alt="" coords="5,5,189,32"/>
+</map>

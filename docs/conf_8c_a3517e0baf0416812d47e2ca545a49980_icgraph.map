@@ -1,0 +1,4 @@
+<map id="ConfNodeRemove" name="ConfNodeRemove">
+<area shape="rect" id="node1" title="Remove (and SCFree) the provided configuration node." alt="" coords="152,5,283,32"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a1d952ba60d0cbc20b96cffa1c20fdd07" title="Remove a configuration parameter from the configuration db." alt="" coords="5,5,104,32"/>
+</map>

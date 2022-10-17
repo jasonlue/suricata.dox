@@ -1,0 +1,6 @@
+<map id="OutputEmailInitConf" name="OutputEmailInitConf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="427,5,580,32"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a5d08d07c040bbc30efc87a932b5ce72d" title="Lookup the value of a child configuration node by name." alt="" coords="193,31,379,57"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="233,81,339,108"/>
+</map>

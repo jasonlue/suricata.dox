@@ -1,0 +1,7 @@
+<map id="LLVMFuzzerInitialize" name="LLVMFuzzerInitialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$app-layer-protos_8c.html#ae3d7fd74b77d7dde80014d862d0de94d" title="Maps the ALPROTO_*, to its string equivalent." alt="" coords="215,5,339,32"/>
+<area shape="rect" id="node3" href="$util-byte_8c.html#afd0c857ed2894c84d667cce3804eab5e" title=" " alt="" coords="196,56,359,83"/>
+<area shape="rect" id="node5" href="$app-layer-protos_8c.html#af5073515a7ed34b034df7db879c22d6d" title="Maps a string to its ALPROTO_* equivalent." alt="" coords="215,107,339,133"/>
+<area shape="rect" id="node4" href="$util-byte_8c.html#a0da980c9303c35632a6f96dea14a6a50" title=" " alt="" coords="407,56,532,83"/>
+</map>

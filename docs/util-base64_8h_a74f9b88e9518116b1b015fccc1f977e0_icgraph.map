@@ -1,0 +1,6 @@
+<map id="DecodeBase64" name="DecodeBase64">
+<area shape="rect" id="node1" title="Decodes a base64&#45;encoded string buffer into an ascii&#45;encoded byte buffer." alt="" coords="256,56,367,83"/>
+<area shape="rect" id="node2" href="$datasets_8c.html#a2fde9768aadefa389f6dd04132ccf166" title="add serialized data to set" alt="" coords="33,5,181,32"/>
+<area shape="rect" id="node3" href="$datasets_8c.html#a43f60c906beab158a62f373153490fdc" title="remove serialized data from set" alt="" coords="19,56,194,83"/>
+<area shape="rect" id="node4" href="$detect-base64-decode_8c.html#aae243184ff7a6811492df938f80a797e" title=" " alt="" coords="5,107,208,133"/>
+</map>

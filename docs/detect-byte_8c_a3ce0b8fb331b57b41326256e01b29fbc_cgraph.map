@@ -1,0 +1,5 @@
+<map id="DetectByteRetrieveSMVar" name="DetectByteRetrieveSMVar">
+<area shape="rect" id="node1" title="Used to retrieve args from BM." alt="" coords="5,42,181,69"/>
+<area shape="rect" id="node2" href="$detect-byte-extract_8c.html#a0474e271d693d41ee23535b238067f21" title="Lookup the SigMatch for a named byte_extract variable." alt="" coords="243,5,421,47"/>
+<area shape="rect" id="node3" href="$detect-bytemath_8c.html#aea133c161e22fb8cb04e275a40ae6727" title="Lookup the SigMatch for a named byte_math variable." alt="" coords="229,71,435,98"/>
+</map>

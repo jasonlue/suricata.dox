@@ -1,0 +1,4 @@
+<map id="BoyerMooreNocase" name="BoyerMooreNocase">
+<area shape="rect" id="node1" title="Boyer Moore search algorithm Is better as the pattern length increases and for big buffers to search ..." alt="" coords="232,5,369,32"/>
+<area shape="rect" id="node2" href="$util-spm_8c.html#a7134f85eefb8fc1b526e2a4fd04ff6e3" title="Search a pattern in the text using Boyer Moore nocase algorithm (build a bad character shifts array a..." alt="" coords="5,5,184,32"/>
+</map>

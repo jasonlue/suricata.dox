@@ -1,0 +1,5 @@
+<map id="FlowGetPacketDirection" name="FlowGetPacketDirection">
+<area shape="rect" id="node1" title="determine the direction of the packet compared to the flow" alt="" coords="228,31,392,57"/>
+<area shape="rect" id="node2" href="$flow_8c.html#ae335b96119f82fcf93ca0bb0e2f1caad" title="Update Packet and Flow." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$stream-tcp_8c.html#ac608d6e0b3308d0b463a71fc3b287f48" title=" " alt="" coords="51,56,135,83"/>
+</map>

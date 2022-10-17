@@ -1,0 +1,15 @@
+<map id="ConfGetInt" name="ConfGetInt">
+<area shape="rect" id="node1" title="Retrieve a configuration value as an integer." alt="" coords="427,227,513,254"/>
+<area shape="rect" id="node2" href="$group__decode.html#gae2756ac81c53501f4bcf3daf55e148e7" title=" " alt="" coords="5,25,148,51"/>
+<area shape="rect" id="node3" href="$defrag_8c.html#a0cb4ee30137354215bb30b7e27f2e1cf" title=" " alt="" coords="248,151,327,178"/>
+<area shape="rect" id="node5" href="$detect-engine-loader_8c.html#ac39e94736f50f70727b8db5d9ae15be6" title=" " alt="" coords="225,101,350,127"/>
+<area shape="rect" id="node6" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="234,354,341,381"/>
+<area shape="rect" id="node7" href="$flow-manager_8c.html#ace5ef51359ec544c6d0b4430da675cf3" title="spawn the flow manager thread" alt="" coords="197,202,377,229"/>
+<area shape="rect" id="node8" href="$flow-manager_8c.html#afaf8242fb882c1837fb3eee509070c40" title="spawn the flow recycler thread" alt="" coords="196,253,379,279"/>
+<area shape="rect" id="node9" href="$source-nfq_8c.html#a639513f1b7ce7f2019996fd3a876c43d" title="To initialize the NFQ global configuration data." alt="" coords="234,303,341,330"/>
+<area shape="rect" id="node10" href="$group__decode.html#gafcf2f3a7ed9a7ae412346561ed55b93a" title=" " alt="" coords="200,50,375,77"/>
+<area shape="rect" id="node11" href="$util-profiling_8c.html#a19131d1e4739763149fedab6e29d2a73" title="Initialize profiling." alt="" coords="234,405,341,431"/>
+<area shape="rect" id="node12" href="$stream-tcp_8c.html#a8626f32922cf2f849c4f3fd2e936c848" title="To initialize the stream global configuration data." alt="" coords="217,455,357,482"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="35,379,119,406"/>
+<area shape="rect" id="node13" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="17,455,137,482"/>
+</map>

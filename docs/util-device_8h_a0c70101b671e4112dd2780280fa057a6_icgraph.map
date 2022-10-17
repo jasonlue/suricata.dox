@@ -1,0 +1,11 @@
+<map id="LiveDeviceHasNoStats" name="LiveDeviceHasNoStats">
+<area shape="rect" id="node1" title=" " alt="" coords="500,107,659,133"/>
+<area shape="rect" id="node2" href="$runmode-ipfw_8c.html#ab98f939c839da52cdfa459f4369c7881" title=" " alt="" coords="269,5,439,32"/>
+<area shape="rect" id="node4" href="$runmode-ipfw_8c.html#a17d8ec657d20d82a53849a56e9db4b82" title=" " alt="" coords="269,56,439,83"/>
+<area shape="rect" id="node5" href="$runmode-nfq_8c.html#a74ab8fb81b460f68e5b2989c9575e41a" title=" " alt="" coords="271,107,437,133"/>
+<area shape="rect" id="node7" href="$runmode-nfq_8c.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title=" " alt="" coords="271,157,437,184"/>
+<area shape="rect" id="node8" href="$runmode-windivert_8c.html#a24d9d5db01e50a174601fa950ca8ba04" title=" " alt="" coords="256,208,452,235"/>
+<area shape="rect" id="node3" href="$runmode-ipfw_8c.html#ae06ebfcccd6f11438a720a3b5753e5ac" title=" " alt="" coords="17,31,196,57"/>
+<area shape="rect" id="node6" href="$runmode-nfq_8c.html#a9357135b637234befb24cfcefde1e95e" title=" " alt="" coords="20,132,193,159"/>
+<area shape="rect" id="node9" href="$runmode-windivert_8c.html#a95cfc299fb3b8f2052138f4d7c314ca5" title=" " alt="" coords="5,208,208,235"/>
+</map>

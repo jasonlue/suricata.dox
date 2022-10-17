@@ -1,0 +1,6 @@
+<map id="LogCustomFormatWriteTimestamp" name="LogCustomFormatWriteTimestamp">
+<area shape="rect" id="node1" title="Writes a timestamp with given format into a MemBuffer." alt="" coords="5,56,231,83"/>
+<area shape="rect" id="node2" href="$util-time_8c.html#a566cc40acd6ae3e0b147145c2f9f1334" title=" " alt="" coords="279,5,461,32"/>
+<area shape="rect" id="node3" href="$util-print_8c.html#ac390e71fc721651f993e0290dc908654" title=" " alt="" coords="313,56,427,83"/>
+<area shape="rect" id="node4" href="$util-time_8c.html#a05b89d43affd48f1f37aea766dc80f27" title=" " alt="" coords="319,107,421,133"/>
+</map>

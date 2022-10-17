@@ -1,0 +1,14 @@
+<map id="SigGroupHeadFree" name="SigGroupHeadFree">
+<area shape="rect" id="node1" title="Free a SigGroupHead and its members." alt="" coords="1184,81,1317,108"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#ae96972ca228801905894d537db83aab0" title="Free a DetectPort and its members." alt="" coords="1025,56,1136,83"/>
+<area shape="rect" id="node4" href="$detect-engine-build_8c.html#af652b57009cbaba3f977aad7ae3eca22" title=" " alt="" coords="596,56,775,83"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a78c538226091fec2c564435fd6a5c4e7" title="Free a DetectPort list and each of its members." alt="" coords="823,5,977,32"/>
+<area shape="rect" id="node12" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="841,56,959,83"/>
+<area shape="rect" id="node5" href="$detect-engine-build_8c.html#a6fcb4dff660aa88d3521baefa1fe3d51" title=" " alt="" coords="424,56,548,83"/>
+<area shape="rect" id="node6" href="$detect-engine_8c.html#a7d42bbc5847dc1ed0cf5b1fc4d118c0c" title="Free a DetectEngineCtx::" alt="" coords="228,56,376,83"/>
+<area shape="rect" id="node8" href="$util-unittest-helper_8c.html#a30ad84488c5292331f23f02a0f121175" title=" " alt="" coords="19,5,166,32"/>
+<area shape="rect" id="node11" href="$util-unittest-helper_8c.html#a463aa3cb48abef1227d5bd031f051c6f" title=" " alt="" coords="235,107,369,133"/>
+<area shape="rect" id="node7" href="$util-unittest-helper_8c.html#ab06c363b5a68bae722b6b7c0a4e7e7f3" title="UTHGenericTest: function that perfom a generic check taking care of as maximum common unittest elemen..." alt="" coords="33,56,153,83"/>
+<area shape="rect" id="node9" href="$util-unittest-helper_8c.html#ae2b42a605040aa0a6528f2fda98881e7" title=" " alt="" coords="5,107,180,133"/>
+<area shape="rect" id="node10" href="$util-unittest-helper_8c.html#ad3bd5728dbe7bb02f007b33870b1de18" title="parser a sig and see if the expected result is correct" alt="" coords="23,157,162,184"/>
+</map>

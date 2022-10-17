@@ -1,0 +1,7 @@
+<map id="DetectTlsSerialRegister" name="DetectTlsSerialRegister">
+<area shape="rect" id="node1" title="Registration function for keyword: tls.cert_serial." alt="" coords="381,56,543,83"/>
+<area shape="rect" id="node2" href="$detect-engine-register_8c.html#a21706286b0acefa72fcbdd3b37daa55f" title=" " alt="" coords="227,56,333,83"/>
+<area shape="rect" id="node3" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="41,5,143,32"/>
+<area shape="rect" id="node4" href="$fuzz__siginit_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,56,179,83"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="43,107,141,133"/>
+</map>

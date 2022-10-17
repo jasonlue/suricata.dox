@@ -1,0 +1,12 @@
+<map id="DetectEngineInspectFrameBufferGeneric" name="DetectEngineInspectFrameBufferGeneric">
+<area shape="rect" id="node1" title="Do the content inspection &amp; validation for a signature." alt="" coords="5,111,187,152"/>
+<area shape="rect" id="node2" href="$detect-engine-content-inspection_8c.html#a65b3779e4fa6bb589cef0ffcca4c3faf" title="Run the actual payload match functions." alt="" coords="235,89,441,115"/>
+<area shape="rect" id="node7" href="$detect-engine-frame_8c.html#a30fad1573011f870a4ad2cede1b2f1e6" title=" " alt="" coords="247,143,429,170"/>
+<area shape="rect" id="node3" href="$detect-pcre_8c.html#abc7ae416403ded436038773a20dd934b" title="Match a regex on a single payload." alt="" coords="489,13,660,39"/>
+<area shape="rect" id="node5" href="$detect-replace_8c.html#a10d8d30877d3c434cbdb502b74adaef4" title=" " alt="" coords="491,63,658,90"/>
+<area shape="rect" id="node6" href="$util-spm_8c.html#af86833568d49a98bfb724256b44cd194" title=" " alt="" coords="535,114,614,141"/>
+<area shape="rect" id="node4" href="$detect-engine_8c.html#a122e360d66757288862ea7b345e5b26f" title="Retrieve thread local keyword ctx by id." alt="" coords="708,5,903,47"/>
+<area shape="rect" id="node8" href="$detect-engine_8c.html#abe89b083bdbb3dc448d7cf313c9f5087" title="for a InspectionBufferMultipleForList get a InspectionBuffer" alt="" coords="493,165,656,207"/>
+<area shape="rect" id="node9" href="$detect-engine_8c.html#a87c079e5edc83eb87f5a758096c77c84" title=" " alt="" coords="728,173,883,199"/>
+<area shape="rect" id="node10" href="$app-layer-events_8c.html#aa19aec45221296320307ef2e2803780c" title="Set an app layer decoder event." alt="" coords="951,165,1137,207"/>
+</map>

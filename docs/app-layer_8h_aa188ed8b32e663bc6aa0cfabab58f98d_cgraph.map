@@ -1,0 +1,4 @@
+<map id="AppLayerGetProtoName" name="AppLayerGetProtoName">
+<area shape="rect" id="node1" title="Given the internal protocol id, returns a string representation of the protocol." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#aadbd31ededdf5d1c280cd41f563775c6" title=" " alt="" coords="217,5,452,32"/>
+</map>

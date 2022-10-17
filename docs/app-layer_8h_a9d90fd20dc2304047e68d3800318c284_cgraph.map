@@ -1,0 +1,6 @@
+<map id="AppLayerRegisterThreadCounters" name="AppLayerRegisterThreadCounters">
+<area shape="rect" id="node1" title="Registers per flow counters for all protocols." alt="" coords="5,71,224,98"/>
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#a02efcb2c59de0092d57d8339c00e770f" title=" " alt="" coords="272,5,479,47"/>
+<area shape="rect" id="node3" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration." alt="" coords="300,71,451,98"/>
+<area shape="rect" id="node4" href="$counters_8c.html#a95abbd8272502dc1a4f355fb4d672a75" title="Registers a normal, unqualified counter." alt="" coords="301,122,449,149"/>
+</map>

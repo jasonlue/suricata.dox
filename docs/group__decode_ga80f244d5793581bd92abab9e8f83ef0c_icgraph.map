@@ -1,0 +1,11 @@
+<map id="DecodeUpdatePacketCounters" name="DecodeUpdatePacketCounters">
+<area shape="rect" id="node1" title=" " alt="" coords="787,56,989,83"/>
+<area shape="rect" id="node2" href="$source-erf-dag_8c.html#a42f678665144669f8801534bf447a4ee" title="This function passes off to link type decoders." alt="" coords="623,5,731,32"/>
+<area shape="rect" id="node6" href="$source-pfring_8c.html#a1760d0c02c83ffe55444d4a8ebc9852a" title="This function passes off to link type decoders." alt="" coords="627,56,728,83"/>
+<area shape="rect" id="node8" href="$source-napatech_8c.html#a4abaa58182d9b734b62aa41ee06c3299" title="This function passes off to link type decoders." alt="" coords="616,107,739,133"/>
+<area shape="rect" id="node3" href="$source-erf-dag_8c.html#aa47bd0f6507811ee5e58ddbabe5a9e66" title="Register the ERF file decoder module." alt="" coords="342,5,561,32"/>
+<area shape="rect" id="node4" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,56,287,83"/>
+<area shape="rect" id="node5" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,56,104,83"/>
+<area shape="rect" id="node7" href="$source-pfring_8c.html#aa66fd20b9ff077eeceaa3b651c66c74d" title="Registration Function for DecodePfring." alt="" coords="346,56,557,83"/>
+<area shape="rect" id="node9" href="$source-napatech_8c.html#a3c6286bd204f451242392057ef46bc52" title="Register the Napatech decoder module." alt="" coords="335,107,568,133"/>
+</map>

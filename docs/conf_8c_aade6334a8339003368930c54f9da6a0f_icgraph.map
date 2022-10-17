@@ -1,0 +1,52 @@
+<map id="ConfValIsTrue" name="ConfValIsTrue">
+<area shape="rect" id="node1" title="Check if a value is true." alt="" coords="803,1169,908,1196"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#a88e3531566baa49719a9edd0cb1ef6fa" title="check if a parser is enabled in the config Returns enabled always if: were running unittests" alt="" coords="561,70,742,111"/>
+<area shape="rect" id="node5" href="$app-layer-detect-proto_8c.html#a024b6ba6833bd5bfc8208df1d3a8c99c" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="548,310,755,351"/>
+<area shape="rect" id="node19" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen." alt="" coords="603,748,700,775"/>
+<area shape="rect" id="node36" href="$conf_8c.html#ad9d1cb8a5580a48745859b31f8e90e20" title=" " alt="" coords="572,1064,731,1091"/>
+<area shape="rect" id="node38" href="$conf_8c.html#a73d6a0209eea403d96408231d112869e" title="Test if a configuration node has a true value." alt="" coords="561,1144,741,1171"/>
+<area shape="rect" id="node45" href="$util-conf_8c.html#afb5b9c6f4a6e1c729e5774a7e59df818" title=" " alt="" coords="567,1195,736,1221"/>
+<area shape="rect" id="node46" href="$util-file_8c.html#a15e0050a2a874ba329abaa15cb6ec799" title="Function to parse forced file hashing configuration." alt="" coords="570,1245,733,1272"/>
+<area shape="rect" id="node47" href="$log-httplog_8c.html#aad9f6437cc767e7e08bdf77bbf2f4294" title="Create a new http log LogFileCtx." alt="" coords="587,1296,715,1323"/>
+<area shape="rect" id="node49" href="$output-json-email-common_8c.html#a208546ded81296504962c4db762e1b96" title=" " alt="" coords="581,1347,721,1373"/>
+<area shape="rect" id="node50" href="$detect-engine-analyzer_8c.html#a324c316ffb71801a0a1711f85b848c60" title="Sets up the rule analyzer according to the config." alt="" coords="584,1397,719,1424"/>
+<area shape="rect" id="node3" href="$group__httplayer.html#gaa9b76d8c59e5673794cbe2656c825d74" title="Clears the HTTP server configuration memory used by HTP library." alt="" coords="64,5,177,32"/>
+<area shape="rect" id="node4" href="$app-layer-mqtt_8c.html#a7c37c0713060451c9feb5a9ac01d3bdd" title=" " alt="" coords="315,77,469,104"/>
+<area shape="rect" id="node6" href="$app-layer-detect-proto_8c.html#ab97551150b79f956615d499899330c79" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="289,150,495,191"/>
+<area shape="rect" id="node14" href="$app-layer-dnp3_8c.html#a4faf76e1cbbc68bfea940763018fb79b" title="Register the DNP3 application protocol parser." alt="" coords="316,216,468,243"/>
+<area shape="rect" id="node15" href="$app-layer-enip_8c.html#abc41a9064d8f35837029bf7cdcc0f3a5" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="305,267,479,293"/>
+<area shape="rect" id="node16" href="$app-layer-enip_8c.html#aa9ec0304ee5ddb25ea3b0b0bcc9af9a9" title="Function to register the ENIP protocol parsers and other functions." alt="" coords="303,317,481,344"/>
+<area shape="rect" id="node17" href="$app-layer-http2_8c.html#a6bbe37a6816c9aa2857a2057d6fb6f0d" title=" " alt="" coords="313,368,471,395"/>
+<area shape="rect" id="node18" href="$app-layer-template_8c.html#ac39e3903c23aff255a27a6dfcdf2d652" title=" " alt="" coords="307,419,477,445"/>
+<area shape="rect" id="node7" href="$app-layer-ftp_8c.html#aad9fd179d26143f516519e8f83a8ec95" title=" " alt="" coords="50,56,191,83"/>
+<area shape="rect" id="node8" href="$group__httplayer.html#ga23aaf4c00574fa636459e4377429ac13" title="Register the HTTP protocol and state handling functions to APP layer of the engine." alt="" coords="49,107,192,133"/>
+<area shape="rect" id="node9" href="$app-layer-nfs-tcp_8c.html#af2bb87ba69b38aa0334a825838795685" title=" " alt="" coords="35,157,206,184"/>
+<area shape="rect" id="node10" href="$app-layer-smtp_8c.html#ab9e232b8d15713907654c886f82e84bc" title="Register the SMTP Protocol parser." alt="" coords="44,208,197,235"/>
+<area shape="rect" id="node11" href="$app-layer-ssh_8c.html#ad2b97c290b4dd7115bc9ea74af74b525" title="Function to register the SSH protocol parsers and other functions." alt="" coords="49,259,193,285"/>
+<area shape="rect" id="node12" href="$app-layer-ssl_8c.html#ac41f8ede008657dd3bd8971a8dc24628" title="Function to register the SSL protocol parser and other functions." alt="" coords="50,309,191,336"/>
+<area shape="rect" id="node13" href="$app-layer-tftp_8c.html#abd2f8e3569bbde1cab42737ab2d81a71" title=" " alt="" coords="46,360,195,387"/>
+<area shape="rect" id="node20" href="$decode-erspan_8c.html#ab6d87ca3faba6a218de55e6c22862599" title="Functions to decode ERSPAN Type I and II packets." alt="" coords="313,469,471,496"/>
+<area shape="rect" id="node22" href="$decode-geneve_8c.html#a2e8f7e442227b91fd951691ebab977f9" title=" " alt="" coords="317,520,467,547"/>
+<area shape="rect" id="node23" href="$decode-teredo_8c.html#a0c32fcd65ec356bb86c958f37cf4c2d8" title=" " alt="" coords="320,571,464,597"/>
+<area shape="rect" id="node24" href="$decode-vxlan_8c.html#a971a7ab4b6671ed5aa2fb2f6818764bb" title=" " alt="" coords="317,621,467,648"/>
+<area shape="rect" id="node25" href="$detect-engine-mpm_8c.html#a27c2246fa6fe45090a7e7bf98106e2ce" title=" " alt="" coords="284,672,500,699"/>
+<area shape="rect" id="node26" href="$util-napatech_8c.html#a05cae542c0af4b6b716ad490800b5a91" title="Reads and parses the stream configuration defined in the config file." alt="" coords="303,723,481,749"/>
+<area shape="rect" id="node27" href="$source-napatech_8c.html#ae6a1f849c4e60f84138747d4cce1a2b4" title="Main Napatechpacket processing loop." alt="" coords="319,773,465,800"/>
+<area shape="rect" id="node29" href="$source-nfq_8c.html#a639513f1b7ce7f2019996fd3a876c43d" title="To initialize the NFQ global configuration data." alt="" coords="339,824,445,851"/>
+<area shape="rect" id="node30" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="315,875,469,901"/>
+<area shape="rect" id="node32" href="$runmodes_8c.html#a07225b8600c17470752ae849ace81e0f" title=" " alt="" coords="329,925,455,952"/>
+<area shape="rect" id="node35" href="$stream-tcp_8c.html#a8626f32922cf2f849c4f3fd2e936c848" title="To initialize the stream global configuration data." alt="" coords="322,976,462,1003"/>
+<area shape="rect" id="node21" href="$group__decode.html#gae2756ac81c53501f4bcf3daf55e148e7" title=" " alt="" coords="49,545,192,572"/>
+<area shape="rect" id="node28" href="$source-napatech_8c.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module." alt="" coords="5,773,236,800"/>
+<area shape="rect" id="node31" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="34,875,207,901"/>
+<area shape="rect" id="node33" href="$runmode-erf-file_8c.html#a4d406431f0ab63d3143b81d3f600b09a" title=" " alt="" coords="41,925,200,952"/>
+<area shape="rect" id="node34" href="$runmode-erf-file_8c.html#a915f2f8caa7767da0f772a01421d9739" title=" " alt="" coords="45,976,197,1003"/>
+<area shape="rect" id="node37" href="$conf_8c.html#a840763787cd0111c51ccbf88230e8369" title=" " alt="" coords="299,1027,485,1069"/>
+<area shape="rect" id="node39" href="$app-layer-htp-xff_8c.html#acd4562af35f33435e8ec7be752120039" title="Function to return XFF configuration from a configuration node." alt="" coords="335,1093,449,1120"/>
+<area shape="rect" id="node40" href="$log-pcap_8c.html#ad26144ca07c71b51cb95a6c59ac2eebb" title=" " alt="" coords="320,1144,464,1171"/>
+<area shape="rect" id="node41" href="$util-profiling-keywords_8c.html#a017cefafebc2276ebf2bfb916fe0adb8" title=" " alt="" coords="291,1195,493,1221"/>
+<area shape="rect" id="node42" href="$util-profiling-prefilter_8c.html#add3ed7a5b9502a3954b5fb75e53f4b12" title=" " alt="" coords="298,1245,486,1272"/>
+<area shape="rect" id="node43" href="$util-profiling-rules_8c.html#a59cfaf09520d50a5ac1b0f61145dd243" title=" " alt="" coords="303,1296,481,1323"/>
+<area shape="rect" id="node44" href="$util-profiling-rulegroups_8c.html#a8b42938e5ef3c4da5b071b3b86479593" title=" " alt="" coords="305,1347,479,1373"/>
+<area shape="rect" id="node48" href="$log-httplog_8c.html#a4a6dd66ee5ec3781a005387dbb036192" title=" " alt="" coords="323,1397,461,1424"/>
+</map>

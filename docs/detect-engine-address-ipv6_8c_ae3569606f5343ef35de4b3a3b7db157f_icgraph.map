@@ -1,0 +1,6 @@
+<map id="DetectAddressCmpIPv6" name="DetectAddressCmpIPv6">
+<area shape="rect" id="node1" title="Compares 2 addresses(address ranges) and returns the relationship between the 2 addresses." alt="" coords="449,31,613,57"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#a343973c15967dc80202c9a3efa608dd2" title="Used to compare 2 address ranges." alt="" coords="254,5,391,32"/>
+<area shape="rect" id="node4" href="$detect-engine-address-ipv6_8c.html#a8123766337559b01ada34dfea61323e4" title=" " alt="" coords="244,56,401,83"/>
+<area shape="rect" id="node3" href="$detect-engine-address_8c.html#ad4cac8db3041b25f76aa3d6c728240a1" title="Checks if two address group lists are equal." alt="" coords="5,5,196,32"/>
+</map>

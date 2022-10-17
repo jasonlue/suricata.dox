@@ -1,0 +1,4 @@
+<map id="DetectFileSha256Register" name="DetectFileSha256Register">
+<area shape="rect" id="node1" title="Registration function for keyword: filesha256." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$detect-file-hash-common_8c.html#aab62d425e8ad4f53a30c02e693154d3a" title="Match the specified file hash." alt="" coords="228,5,377,32"/>
+</map>

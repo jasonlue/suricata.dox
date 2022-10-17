@@ -1,0 +1,5 @@
+<map id="DetectIsdataatRegister" name="DetectIsdataatRegister">
+<area shape="rect" id="node1" title="Registration function for isdataat: keyword." alt="" coords="5,31,163,57"/>
+<area shape="rect" id="node2" href="$detect-isdataat_8c.html#a0d73752ec78f93d30261aafc574e7ae6" title="this function will free memory associated with DetectIsdataatData" alt="" coords="215,5,349,32"/>
+<area shape="rect" id="node3" href="$detect-isdataat_8c.html#ac7aa38bac5e9bb3a27b1cad747174249" title="This function is used to add the parsed isdataatdata into the current signature." alt="" coords="211,56,353,83"/>
+</map>

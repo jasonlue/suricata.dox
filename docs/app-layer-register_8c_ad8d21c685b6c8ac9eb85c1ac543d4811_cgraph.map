@@ -1,0 +1,4 @@
+<map id="AppLayerRegisterProtocolDetection" name="AppLayerRegisterProtocolDetection">
+<area shape="rect" id="node1" title="App layer protocol detection function." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$app-layer-protos_8c.html#af5073515a7ed34b034df7db879c22d6d" title="Maps a string to its ALPROTO_* equivalent." alt="" coords="228,13,352,39"/>
+</map>

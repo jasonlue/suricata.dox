@@ -1,0 +1,4 @@
+<map id="ValidateIPV6Address" name="ValidateIPV6Address">
+<area shape="rect" id="node1" title="Validates an IPV6 address and returns the network endian arranged version of the IPV6 addresss." alt="" coords="237,5,383,32"/>
+<area shape="rect" id="node2" href="$util-host-os-info_8c.html#a99fabf245351af4d67bf53ffc44f1d04" title="Retrieves the host os flavour, given an ipv4/ipv6 address as a string." alt="" coords="5,5,189,32"/>
+</map>

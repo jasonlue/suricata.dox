@@ -1,0 +1,8 @@
+<map id="SCProfilingSghDestroyCtx" name="SCProfilingSghDestroyCtx">
+<area shape="rect" id="node1" title=" " alt="" coords="424,81,603,108"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#a7d42bbc5847dc1ed0cf5b1fc4d118c0c" title="Free a DetectEngineCtx::" alt="" coords="228,81,376,108"/>
+<area shape="rect" id="node3" href="$util-unittest-helper_8c.html#ab06c363b5a68bae722b6b7c0a4e7e7f3" title="UTHGenericTest: function that perfom a generic check taking care of as maximum common unittest elemen..." alt="" coords="33,5,153,32"/>
+<area shape="rect" id="node4" href="$util-unittest-helper_8c.html#a30ad84488c5292331f23f02a0f121175" title=" " alt="" coords="19,56,166,83"/>
+<area shape="rect" id="node5" href="$util-unittest-helper_8c.html#ae2b42a605040aa0a6528f2fda98881e7" title=" " alt="" coords="5,107,180,133"/>
+<area shape="rect" id="node6" href="$util-unittest-helper_8c.html#ad3bd5728dbe7bb02f007b33870b1de18" title="parser a sig and see if the expected result is correct" alt="" coords="23,157,162,184"/>
+</map>

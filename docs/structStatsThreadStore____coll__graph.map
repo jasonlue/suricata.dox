@@ -1,0 +1,5 @@
+<map id="StatsThreadStore_" name="StatsThreadStore_">
+<area shape="rect" id="node1" title="per thread store of counters" alt="" coords="31,199,162,225"/>
+<area shape="rect" id="node2" href="$structStatsPublicThreadContext__.html" title="Stats Context for a ThreadVars instance." alt="" coords="5,95,188,121"/>
+<area shape="rect" id="node3" href="$structStatsCounter__.html" title="Container to hold the counter variable." alt="" coords="43,5,150,32"/>
+</map>

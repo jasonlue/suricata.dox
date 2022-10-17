@@ -1,0 +1,7 @@
+<map id="ExceptionPolicyParse" name="ExceptionPolicyParse">
+<area shape="rect" id="node1" title=" " alt="" coords="361,31,512,57"/>
+<area shape="rect" id="node2" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="190,5,297,32"/>
+<area shape="rect" id="node4" href="$stream-tcp_8c.html#a8626f32922cf2f849c4f3fd2e936c848" title="To initialize the stream global configuration data." alt="" coords="173,56,313,83"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="23,5,107,32"/>
+<area shape="rect" id="node5" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="5,56,125,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DetectPortFree" name="DetectPortFree">
+<area shape="rect" id="node1" title="Free a DetectPort and its members." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8c.html#acf6ad1678226c38239ab82f1cd538080" title="Free a SigGroupHead and its members." alt="" coords="164,31,297,57"/>
+<area shape="rect" id="node3" href="$detect-engine-prefilter_8c.html#ae6244a085eb4b028acdd90c832823554" title=" " alt="" coords="346,5,523,32"/>
+<area shape="rect" id="node4" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title=" " alt="" coords="345,56,524,83"/>
+<area shape="rect" id="node5" href="$detect-engine-prefilter_8c.html#ad62899ab67b7849e97c7abe7cc8ea2e1" title=" " alt="" coords="572,56,733,83"/>
+</map>

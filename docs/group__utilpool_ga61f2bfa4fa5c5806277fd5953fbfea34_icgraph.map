@@ -1,0 +1,5 @@
+<map id="PoolInit" name="PoolInit">
+<area shape="rect" id="node1" title="Init a Pool." alt="" coords="185,31,252,57"/>
+<area shape="rect" id="node2" href="$group__utilpool.html#ga241b9af591cd51539e2bdb595356a77d" title="expand pool by one for a new thread" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node3" href="$group__utilpool.html#gaeeec3f298d6d5a99ee979b93a6f67780" title="per thread Pool, initialization function" alt="" coords="18,56,125,83"/>
+</map>

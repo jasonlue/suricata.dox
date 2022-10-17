@@ -1,0 +1,34 @@
+<map id="DetectEngineCtxFree" name="DetectEngineCtxFree">
+<area shape="rect" id="node1" title="Free a DetectEngineCtx::" alt="" coords="5,401,153,428"/>
+<area shape="rect" id="node2" href="$detect-fast-pattern_8c.html#a52186f5b1d60f66048ab7dbc230d5df7" title=" " alt="" coords="201,5,417,32"/>
+<area shape="rect" id="node3" href="$detect-parse_8c.html#a0adf0256b4ce81465b91f47a8328d142" title="Frees the hash table that is used to cull duplicate sigs." alt="" coords="212,173,407,200"/>
+<area shape="rect" id="node5" href="$util-mpm_8c.html#a3e86fa85c15c599449c28ea6f2827ecd" title=" " alt="" coords="207,107,412,149"/>
+<area shape="rect" id="node6" href="$detect-engine-mpm_8c.html#abd8f5b551b1f97f0accca799c3e6d876" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;mpm_hash_table, allocated by MpmStoreInit() function." alt="" coords="255,224,363,251"/>
+<area shape="rect" id="node7" href="$util-classification-config_8c.html#a6c4d585ed44c6067e0ed1353489a68f2" title="Releases resources used by the Classification Config API." alt="" coords="217,595,401,621"/>
+<area shape="rect" id="node9" href="$util-profiling-keywords_8c.html#a71ab213a819ca73c7f995d07a6addcb7" title=" " alt="" coords="206,275,413,301"/>
+<area shape="rect" id="node10" href="$util-profiling-prefilter_8c.html#afe87e1cc8132890be6233fc61c9ae238" title=" " alt="" coords="209,325,409,352"/>
+<area shape="rect" id="node11" href="$util-profiling-rules_8c.html#a236d207a562135037e1b3f61f116817c" title=" " alt="" coords="218,376,401,403"/>
+<area shape="rect" id="node12" href="$util-profiling-rulegroups_8c.html#ab3c4eeada95c4e3f88c1fae21dcc361f" title=" " alt="" coords="220,427,399,453"/>
+<area shape="rect" id="node13" href="$util-reference-config_8c.html#aeece01b388f0343378cf0af7d74289dd" title="Releases de_ctx resources related to Reference Config API." alt="" coords="229,477,389,504"/>
+<area shape="rect" id="node14" href="$detect-engine-sigorder_8c.html#a78c88a8c66dd8a1a0faeca4c7944db84" title="De&#45;registers all the signature ordering functions registered." alt="" coords="206,529,413,570"/>
+<area shape="rect" id="node15" href="$detect-engine-build_8c.html#a6e72aad499bd0bdcf5fce788bc45716e" title=" " alt="" coords="241,645,378,672"/>
+<area shape="rect" id="node20" href="$detect-engine-build_8c.html#a6fcb4dff660aa88d3521baefa1fe3d51" title=" " alt="" coords="247,696,371,723"/>
+<area shape="rect" id="node30" href="$detect-engine-siggroup_8c.html#ac076a44d9302d4edce02c940ab1a6d96" title="Frees the hash table &#45; DetectEngineCtx&#45;&gt;sgh_hash_table, allocated by SigGroupHeadHashInit() function." alt="" coords="227,56,391,83"/>
+<area shape="rect" id="node31" href="$util-spm_8c.html#a74041b337bc15e8e8fa3efdd66304850" title=" " alt="" coords="213,747,406,773"/>
+<area shape="rect" id="node32" href="$group__threshold.html#ga438c0d2d9103c7ae29bc422b972ea89f" title="Destroy threshold context hash tables." alt="" coords="224,797,395,824"/>
+<area shape="rect" id="node4" href="$util-hashlist_8c.html#ae6d947561664d1e91c1502f1def77d7f" title=" " alt="" coords="495,173,626,200"/>
+<area shape="rect" id="node8" href="$util-hash_8c.html#a9d52964329648870595ceaf6b2e15ea7" title=" " alt="" coords="505,511,616,537"/>
+<area shape="rect" id="node16" href="$detect-engine_8c.html#ab5c22f1926674e8ed28b68f457529dd9" title=" " alt="" coords="465,645,656,672"/>
+<area shape="rect" id="node17" href="$detect-parse_8c.html#a867afc6ba4c46ff6a530a48d28cbddc9" title=" " alt="" coords="527,595,594,621"/>
+<area shape="rect" id="node18" href="$detect-engine-iponly_8c.html#a33c62e349284f6305fd1e83d21aab84a" title="This function free a IPOnlyCIDRItem list." alt="" coords="710,595,853,621"/>
+<area shape="rect" id="node19" href="$detect-parse_8c.html#af725952936f5f9d7d369d97629de273e" title="free a SigMatch" alt="" coords="730,544,833,571"/>
+<area shape="rect" id="node21" href="$detect-engine-build_8c.html#af652b57009cbaba3f977aad7ae3eca22" title=" " alt="" coords="471,696,650,723"/>
+<area shape="rect" id="node22" href="$detect-engine-port_8c.html#a78c538226091fec2c564435fd6a5c4e7" title="Free a DetectPort list and each of its members." alt="" coords="704,645,859,672"/>
+<area shape="rect" id="node24" href="$detect-engine-siggroup_8c.html#acf6ad1678226c38239ab82f1cd538080" title="Free a SigGroupHead and its members." alt="" coords="1137,696,1271,723"/>
+<area shape="rect" id="node28" href="$detect-engine-iponly_8c.html#a0c0b95d541d4fce5651f48dd769b776b" title="Deinitialize the IP Only detection engine context." alt="" coords="733,696,829,723"/>
+<area shape="rect" id="node23" href="$detect-engine-port_8c.html#ae96972ca228801905894d537db83aab0" title="Free a DetectPort and its members." alt="" coords="943,645,1053,672"/>
+<area shape="rect" id="node25" href="$detect-engine-prefilter_8c.html#ae6244a085eb4b028acdd90c832823554" title=" " alt="" coords="1319,671,1497,697"/>
+<area shape="rect" id="node26" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title=" " alt="" coords="1319,721,1497,748"/>
+<area shape="rect" id="node27" href="$detect-engine-prefilter_8c.html#ad62899ab67b7849e97c7abe7cc8ea2e1" title=" " alt="" coords="1545,721,1707,748"/>
+<area shape="rect" id="node29" href="$util-radix-tree_8c.html#a0ee09f7331d9312ab5b52d84dae9b44b" title="Frees a Radix tree and all its nodes." alt="" coords="907,696,1089,723"/>
+</map>

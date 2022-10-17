@@ -1,0 +1,12 @@
+<map id="DatalinkSetGlobalType" name="DatalinkSetGlobalType">
+<area shape="rect" id="node1" title=" " alt="" coords="840,81,995,108"/>
+<area shape="rect" id="node2" href="$source-pcap-file-helper_8c.html#a09090a8c4c6df704aedf228f67c0f9b6" title=" " alt="" coords="657,5,748,32"/>
+<area shape="rect" id="node3" href="$source-napatech_8c.html#acd0ea47a0e95998cbc09a925280ef9c2" title="Initialize the Napatech receiver thread, generate a single NapatechThreadVar structure for each threa..." alt="" coords="613,56,792,83"/>
+<area shape="rect" id="node7" href="$source-erf-dag_8c.html#a6b575ca1df93dcdfe66995849a62b435" title="Initialize the ERF receiver thread, generate a single ErfDagThreadVar structure for each thread,..." alt="" coords="618,107,787,133"/>
+<area shape="rect" id="node9" href="$source-erf-file_8c.html#a672add1a4b841cdb56a6229aa46463ab" title="Initialize the ERF receiver thread." alt="" coords="619,157,786,184"/>
+<area shape="rect" id="node4" href="$source-napatech_8c.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module." alt="" coords="335,56,565,83"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,107,287,133"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,107,104,133"/>
+<area shape="rect" id="node8" href="$source-erf-dag_8c.html#a91e9820c732f0cc1d556b6ae671094b1" title="Register the ERF file receiver (reader) module." alt="" coords="339,107,561,133"/>
+<area shape="rect" id="node10" href="$source-erf-file_8c.html#aa33fce1981c0cd8d648f1a1beeab14cd" title="Register the ERF file receiver (reader) module." alt="" coords="341,157,559,184"/>
+</map>

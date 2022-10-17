@@ -1,0 +1,4 @@
+<map id="SignatureIsFilemagicInspecting" name="SignatureIsFilemagicInspecting">
+<area shape="rect" id="node1" title="Check if a signature contains the filemagic keyword." alt="" coords="261,5,465,32"/>
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8c.html#a7c67c0a245c8668509c343109a3d4a90" title="Set the need magic flag in the sgh." alt="" coords="5,5,213,32"/>
+</map>

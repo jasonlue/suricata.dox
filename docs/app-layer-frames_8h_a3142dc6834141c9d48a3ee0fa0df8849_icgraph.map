@@ -1,0 +1,5 @@
+<map id="AppLayerFramesSetupContainer" name="AppLayerFramesSetupContainer">
+<area shape="rect" id="node1" title=" " alt="" coords="261,42,472,69"/>
+<area shape="rect" id="node2" href="$app-layer-frames_8c.html#a3e26f914ba0ee547573e5a992bd52023" title="create new frame using the absolute offset from the start of the stream" alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node3" href="$app-layer-frames_8c.html#a5cd31bc6f195e4a569e7c317cf0c80e2" title="create new frame using a pointer to start of the frame" alt="" coords="10,71,209,98"/>
+</map>

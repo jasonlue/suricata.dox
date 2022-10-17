@@ -1,0 +1,6 @@
+<map id="FileStore" name="FileStore">
+<area shape="rect" id="node1" title="Tag a file for storing." alt="" coords="204,56,279,83"/>
+<area shape="rect" id="node2" href="$util-file_8c.html#a261a6b7fdd257e3d2febd8f5709e871f" title=" " alt="" coords="22,5,139,32"/>
+<area shape="rect" id="node3" href="$util-file_8c.html#ab0d3b0aaaac16f5f770dffb03e1ecfe5" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node4" href="$util-file_8c.html#aaacb9416f6988b4881cfe388d8cebe83" title="flag a file with id &quot;file_id&quot; to be stored." alt="" coords="19,107,142,133"/>
+</map>

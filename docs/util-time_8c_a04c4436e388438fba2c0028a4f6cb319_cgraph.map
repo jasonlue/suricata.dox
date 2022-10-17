@@ -1,0 +1,4 @@
+<map id="TimeSetToCurrentTime" name="TimeSetToCurrentTime">
+<area shape="rect" id="node1" title="set the time to &quot;gettimeofday&quot; meant for testing" alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$util-time_8c.html#a8cfdc2793cb0a2c7247c97b8e23929bb" title=" " alt="" coords="211,5,281,32"/>
+</map>

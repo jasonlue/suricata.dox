@@ -1,0 +1,4 @@
+<map id="AppLayerProtoDetectPPRegister" name="AppLayerProtoDetectPPRegister">
+<area shape="rect" id="node1" title="register parser at a port" alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a0ad8e237b6166e60d600bb484c8e76a2" title="Function for parsing port strings." alt="" coords="268,5,387,32"/>
+</map>

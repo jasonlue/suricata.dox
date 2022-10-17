@@ -1,0 +1,4 @@
+<map id="SigGroupBuild" name="SigGroupBuild">
+<area shape="rect" id="node1" title="Convert the signature list into the runtime match structure." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$detect-engine-mpm_8c.html#a2d57281780fcf3178d1eb08203ab78aa" title="Figure out the FP and their respective content ids for all the sigs in the engine." alt="" coords="159,5,357,32"/>
+</map>

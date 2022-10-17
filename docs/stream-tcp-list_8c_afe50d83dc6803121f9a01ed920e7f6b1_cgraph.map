@@ -1,0 +1,8 @@
+<map id="StreamTcpPruneSession" name="StreamTcpPruneSession">
+<area shape="rect" id="node1" title="Remove idle TcpSegments from TcpSession." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$util-streaming-buffer_8c.html#af4bd99000ecb44d68835f4793e33f3d4" title=" " alt="" coords="257,5,404,32"/>
+<area shape="rect" id="node3" href="$stream-tcp-reassemble_8c.html#ad9e5351fc6f108c2c429436b49c8ace3" title="return all segments in this stream into the pool(s)" alt="" coords="219,56,443,83"/>
+<area shape="rect" id="node4" href="$stream-tcp-reassemble_8c.html#a11fcdabd0f9f4889f7b15cd098e28c00" title="Function to return the segment back to the pool." alt="" coords="491,56,703,83"/>
+<area shape="rect" id="node5" href="$group__utilpool.html#gabe4882476fd4ad932ba6f76d7a7523a3" title="return data to thread pool" alt="" coords="751,56,877,83"/>
+<area shape="rect" id="node6" href="$group__utilpool.html#ga6552ceb7e157bc1ccc9de8bc33c0528e" title=" " alt="" coords="925,56,1012,83"/>
+</map>

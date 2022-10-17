@@ -1,0 +1,7 @@
+<map id="AFPPeersListInit" name="AFPPeersListInit">
+<area shape="rect" id="node1" title="Init the global list of AFPPeer." alt="" coords="443,56,564,83"/>
+<area shape="rect" id="node2" href="$runmode-af-packet_8c.html#af741b481e72c7d4e52637797fa320ea6" title=" " alt="" coords="228,5,391,32"/>
+<area shape="rect" id="node4" href="$runmode-af-packet_8c.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing." alt="" coords="230,56,389,83"/>
+<area shape="rect" id="node5" href="$runmode-af-packet_8c.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing." alt="" coords="224,107,395,133"/>
+<area shape="rect" id="node3" href="$runmode-af-packet_8c.html#abf510dda35701437fc571d5b5f0f1f6e" title=" " alt="" coords="5,56,176,83"/>
+</map>

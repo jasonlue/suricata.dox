@@ -1,0 +1,10 @@
+<map id="InitGlobal" name="InitGlobal">
+<area shape="rect" id="node1" title="Global initialization common to all runmodes." alt="" coords="5,132,83,159"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a7231653563046821c8f0152f93663f8d" title="Initialize the configuration system." alt="" coords="192,5,260,32"/>
+<area shape="rect" id="node3" href="$util-misc_8c.html#afb7b6240538cddcfd6299d7cdff8c315" title=" " alt="" coords="176,56,276,83"/>
+<area shape="rect" id="node4" href="$runmodes_8c.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine." alt="" coords="131,107,321,133"/>
+<area shape="rect" id="node5" href="$util-debug_8c.html#ad0ae5299b532e3c22e5462ff03405626" title="Initializes the logging module." alt="" coords="155,157,297,184"/>
+<area shape="rect" id="node7" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title=" " alt="" coords="171,208,281,235"/>
+<area shape="rect" id="node8" href="$util-signal_8c.html#ab0d6b12cf553b5f4a1a10f21851f15eb" title=" " alt="" coords="147,259,305,285"/>
+<area shape="rect" id="node6" href="$util-debug_8c.html#a4120eb93b545ac44a94f9ea18fa0cdfe" title="De&#45;Initializes the logging module." alt="" coords="369,157,529,184"/>
+</map>

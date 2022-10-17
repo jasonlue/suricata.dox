@@ -1,0 +1,4 @@
+<map id="DetectFlagsSignatureNeedsSynPackets" name="DetectFlagsSignatureNeedsSynPackets">
+<area shape="rect" id="node1" title=" " alt="" coords="259,5,445,47"/>
+<area shape="rect" id="node2" href="$detect-engine-siggroup_8c.html#abe99e601b53ca297defd516fefabc6a2" title="build an array of rule id&#39;s for sigs with no prefilter Also updated de_ctx::non_pf_store_cnt_max to t..." alt="" coords="5,5,211,47"/>
+</map>

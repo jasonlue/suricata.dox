@@ -1,0 +1,24 @@
+<map id="FlowGetProtoMapping" name="FlowGetProtoMapping">
+<area shape="rect" id="node1" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration." alt="" coords="1177,361,1328,388"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#adbc08882121fa97846c4bdd2e686d008" title=" " alt="" coords="919,5,1120,32"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#a3e057153e7aa3780ec153c4fa78683dc" title=" " alt="" coords="923,56,1115,83"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#aad06930e66a04cd09fb136b90a3509db" title=" " alt="" coords="910,107,1129,133"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a7b0bc1a5a394504f629b6a9ab3ac33eb" title=" " alt="" coords="945,157,1094,184"/>
+<area shape="rect" id="node8" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,208,179,235"/>
+<area shape="rect" id="node9" href="$app-layer-parser_8c.html#aef5e52174f201f5ff842eff34af70a75" title=" " alt="" coords="927,259,1111,301"/>
+<area shape="rect" id="node10" href="$app-layer-parser_8c.html#a038a6d8558f8764eb11cfdf3f6bfbb6f" title=" " alt="" coords="926,325,1113,366"/>
+<area shape="rect" id="node11" href="$app-layer-parser_8c.html#a88fe614183e8f1e0e83362174d959b3a" title=" " alt="" coords="909,391,1129,417"/>
+<area shape="rect" id="node12" href="$app-layer_8c.html#a964636d246a5ec902fa9d7e0e48ee29f" title=" " alt="" coords="693,391,857,417"/>
+<area shape="rect" id="node18" href="$app-layer_8c.html#a9d90fd20dc2304047e68d3800318c284" title="Registers per flow counters for all protocols." alt="" coords="910,492,1129,519"/>
+<area shape="rect" id="node19" href="$flow-hash_8c.html#a1dc925fee33bb2626efa046efa3e76cf" title="Get or create a Flow using a FlowKey." alt="" coords="943,543,1095,569"/>
+<area shape="rect" id="node20" href="$flow_8c.html#adc1589cef09521a8894aed9e365b5f7a" title=" " alt="" coords="977,593,1062,620"/>
+<area shape="rect" id="node21" href="$flow_8c.html#a05174d1570db7ee4b5a25f5ea7234e87" title="Function to set the function to get protocol specific flow state." alt="" coords="941,644,1097,671"/>
+<area shape="rect" id="node22" href="$flow_8c.html#a8dae51c56800ed0e22279e49913cd15a" title="shutdown the flow engine" alt="" coords="965,695,1073,721"/>
+<area shape="rect" id="node6" href="$app-layer_8c.html#a0ff217804179c214167d7c925eb8449c" title="handle TCP data for the app&#45;layer." alt="" coords="688,107,861,133"/>
+<area shape="rect" id="node7" href="$stream-tcp-reassemble_8c.html#a89fdc683cf890121b3aecc81bedc0bd8" title="Update the stream reassembly upon receiving a packet." alt="" coords="428,107,640,133"/>
+<area shape="rect" id="node13" href="$app-layer_8c.html#a13e4dfafdc60d054467da61ea15744f9" title="Setup the app layer." alt="" coords="479,375,589,401"/>
+<area shape="rect" id="node14" href="$util-running-modes_8c.html#a03b5cae283d57d4ef7adafd290a33c5d" title=" " alt="" coords="227,273,380,300"/>
+<area shape="rect" id="node15" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="253,324,354,351"/>
+<area shape="rect" id="node16" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="227,375,380,401"/>
+<area shape="rect" id="node17" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="254,425,353,452"/>
+</map>

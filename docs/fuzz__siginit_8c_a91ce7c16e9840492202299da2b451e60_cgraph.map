@@ -1,0 +1,52 @@
+<map id="LLVMFuzzerTestOneInput" name="LLVMFuzzerTestOneInput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,829,179,856"/>
+<area shape="rect" id="node2" href="$suricata_8c.html#a1948f1faa49310f4d195883b8d75befd" title="Global initialization common to all runmodes." alt="" coords="261,157,339,184"/>
+<area shape="rect" id="node9" href="$util-mpm_8c.html#a5f2c4e8d699ef7a5562674a6de86a66e" title=" " alt="" coords="242,411,358,437"/>
+<area shape="rect" id="node14" href="$util-classification-config_8c.html#a288f4687413c28f363a73be972946d5f" title=" " alt="" coords="239,779,361,805"/>
+<area shape="rect" id="node15" href="$util-reference-config_8c.html#aabc44bac76dc6ae777fff685536cb202" title=" " alt="" coords="227,829,373,856"/>
+<area shape="rect" id="node16" href="$win32-misc_8h.html#a57fb500ec9c9c6625bfa5031b419cfd6" title=" " alt="" coords="269,880,331,907"/>
+<area shape="rect" id="node17" href="$detect-engine-register_8c.html#a21706286b0acefa72fcbdd3b37daa55f" title=" " alt="" coords="247,1247,353,1273"/>
+<area shape="rect" id="node50" href="$util-spm_8c.html#a9d6b37d620d9ae3bfaf7719d1af337d3" title=" " alt="" coords="243,1297,357,1324"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a7231653563046821c8f0152f93663f8d" title="Initialize the configuration system." alt="" coords="505,5,573,32"/>
+<area shape="rect" id="node4" href="$util-misc_8c.html#afb7b6240538cddcfd6299d7cdff8c315" title=" " alt="" coords="489,56,589,83"/>
+<area shape="rect" id="node5" href="$runmodes_8c.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine." alt="" coords="444,107,635,133"/>
+<area shape="rect" id="node6" href="$util-debug_8c.html#ad0ae5299b532e3c22e5462ff03405626" title="Initializes the logging module." alt="" coords="468,157,611,184"/>
+<area shape="rect" id="node7" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title=" " alt="" coords="484,208,595,235"/>
+<area shape="rect" id="node8" href="$util-signal_8c.html#ab0d6b12cf553b5f4a1a10f21851f15eb" title=" " alt="" coords="461,259,618,285"/>
+<area shape="rect" id="node10" href="$util-mpm-ac-bs_8c.html#a22de57c9b7a55397ca9f134e6eaec659" title="Register the aho&#45;corasick mpm." alt="" coords="471,309,608,336"/>
+<area shape="rect" id="node11" href="$util-mpm-ac_8c.html#a5ba1adcb60b0bb61538bb6e8420a9def" title="Register the aho&#45;corasick mpm." alt="" coords="480,360,599,387"/>
+<area shape="rect" id="node12" href="$util-mpm-ac-ks_8c.html#a240c279a6310cc578d930d2f07fabc57" title="Register the aho&#45;corasick mpm &#39;ks&#39; originally developed by Ken Steele for Tilera Tile&#45;Gx processor." alt="" coords="469,411,609,437"/>
+<area shape="rect" id="node13" href="$util-mpm-hs_8h.html#ac762f4c0b2f5799c7cfafc7f3cd58ad7" title=" " alt="" coords="480,461,599,488"/>
+<area shape="rect" id="node18" href="$detect-tcp-ack_8c.html#ae73f39e4c6b7e22a2ee59081cd76c8d9" title="Registration function for ack: keyword." alt="" coords="473,512,606,539"/>
+<area shape="rect" id="node19" href="$detect-app-layer-event_8c.html#a76eed1d97dec5ed8d58b21637310da9a" title="Registers the keyword handlers for the &quot;app&#45;layer&#45;event&quot; keyword." alt="" coords="440,563,639,589"/>
+<area shape="rect" id="node20" href="$detect-app-layer-protocol_8c.html#abf1e1f3391a61d9d8057cccc8e087caf" title=" " alt="" coords="433,613,646,640"/>
+<area shape="rect" id="node21" href="$detect-asn1_8c.html#a05c5f6dbf963899be95efb0fc84f8d4f" title="Registration function for asn1." alt="" coords="469,664,609,691"/>
+<area shape="rect" id="node22" href="$detect-base64-data_8c.html#a58652790cce0e0108296c5a95b27e88a" title=" " alt="" coords="448,715,631,741"/>
+<area shape="rect" id="node23" href="$detect-base64-decode_8c.html#aee0e73fb38444c66a49b8c5c7be881b1" title=" " alt="" coords="440,765,639,792"/>
+<area shape="rect" id="node24" href="$detect-bsize_8c.html#a4274318323af8ddd98fef8ce77fdb730" title="Registration function for bsize: keyword." alt="" coords="468,816,611,843"/>
+<area shape="rect" id="node25" href="$detect-engine_8c.html#a704fbd0eeb29ffd5be8d3294e055df82" title=" " alt="" coords="425,867,653,893"/>
+<area shape="rect" id="node26" href="$detect-bypass_8c.html#a1401bad69f8e0acc6b05889b0607e5bc" title="Registration function for keyword: bypass." alt="" coords="462,917,617,944"/>
+<area shape="rect" id="node27" href="$detect-byte-extract_8c.html#a29f8104c498c842e52c192c91e5f9112" title="Registers the keyword handlers for the &quot;byte_extract&quot; keyword." alt="" coords="450,968,629,995"/>
+<area shape="rect" id="node28" href="$detect-bytejump_8c.html#a8a4f594c3fe297397a74a6906aa95f94" title=" " alt="" coords="457,1019,622,1045"/>
+<area shape="rect" id="node29" href="$detect-bytemath_8c.html#a10b6ce6306ca75553e1ba0139abdadef" title="Registers the keyword handlers for the &quot;byte_math&quot; keyword." alt="" coords="456,1069,623,1096"/>
+<area shape="rect" id="node30" href="$detect-bytetest_8c.html#ab27451951d564e3b9cba56089e94bac4" title=" " alt="" coords="460,1120,619,1147"/>
+<area shape="rect" id="node31" href="$detect-cipservice_8c.html#a11ff16ca3f6f63baceb3a65c5aa6508d" title="Registration function for cip_service: keyword." alt="" coords="452,1171,627,1197"/>
+<area shape="rect" id="node32" href="$detect-classtype_8c.html#a41c33f8b5ac61c63bbb0cedd04714f6b" title="Registers the handler functions for the &quot;Classtype&quot; keyword." alt="" coords="455,1221,624,1248"/>
+<area shape="rect" id="node33" href="$detect-config_8c.html#aea61ba602a5886d39fb422960f5cd77b" title="Registration function for keyword: filestore." alt="" coords="465,1272,613,1299"/>
+<area shape="rect" id="node34" href="$detect-content_8c.html#add7e3676f7860dc1ed0d8262651b5e07" title=" " alt="" coords="461,1323,617,1349"/>
+<area shape="rect" id="node35" href="$detect-csum_8c.html#a3c1a9b3fedb0d21d99c307aceea8b73e" title="Registers handlers for all the checksum keywords. The checksum keywords that are registered are ipv4&#45;..." alt="" coords="467,1373,612,1400"/>
+<area shape="rect" id="node36" href="$detect-datarep_8c.html#ad7bf9c0b654f692e824db319609f3c29" title=" " alt="" coords="461,1424,617,1451"/>
+<area shape="rect" id="node37" href="$detect-dataset_8c.html#a749a8595df2f13eb5590e54a8dc395e7" title=" " alt="" coords="461,1475,617,1501"/>
+<area shape="rect" id="node38" href="$detect-dce-iface_8c.html#a24ed2fd2d8f93e1c309ce06743df0ca1" title="Registers the keyword handlers for the &quot;dce_iface&quot; keyword." alt="" coords="458,1525,621,1552"/>
+<area shape="rect" id="node39" href="$detect-dce-opnum_8c.html#a9aae5bac60b682e55ce191d1082bd0f2" title="Registers the keyword handlers for the &quot;dce_opnum&quot; keyword." alt="" coords="451,1576,627,1603"/>
+<area shape="rect" id="node40" href="$detect-dce-stub-data_8c.html#a7a48bc1e0488d684e587ce45adf435c5" title="Registers the keyword handlers for the &quot;dce_stub_data&quot; keyword." alt="" coords="445,1627,634,1653"/>
+<area shape="rect" id="node41" href="$detect-depth_8c.html#a18c1d46e599b9509c8054c6d67c07a0d" title=" " alt="" coords="467,1677,612,1704"/>
+<area shape="rect" id="node42" href="$detect-detection-filter_8c.html#ab716fd3fc3ccbae7993f4b4b1fc64dc3" title="Registration function for detection_filter: keyword." alt="" coords="442,1728,637,1755"/>
+<area shape="rect" id="node43" href="$detect-dhcp-leasetime_8c.html#a04c8ea5b15f8ae780a82408bc257f138" title="Registration function for dhcp.procedure keyword." alt="" coords="433,1779,646,1805"/>
+<area shape="rect" id="node44" href="$detect-dhcp-rebinding-time_8c.html#a6b322f89e20b0fff30808c3bed5817ae" title="Registration function for dhcp.procedure keyword." alt="" coords="421,1829,657,1856"/>
+<area shape="rect" id="node45" href="$detect-dhcp-renewal-time_8c.html#a36710fcaf84ca2e5a1b8b7287d2edd2a" title="Registration function for dhcp.procedure keyword." alt="" coords="425,1880,654,1907"/>
+<area shape="rect" id="node46" href="$detect-distance_8c.html#a5ec2a129433c1daaf12683c926006045" title=" " alt="" coords="458,1931,621,1957"/>
+<area shape="rect" id="node47" href="$detect-dnp3_8c.html#abcf8612cff23dece55ca55279ba86345" title=" " alt="" coords="466,1981,613,2008"/>
+<area shape="rect" id="node48" href="$detect-dns-opcode_8c.html#a8e58d96c0e6cc8c529c069de11680ace" title=" " alt="" coords="450,2032,629,2059"/>
+<area shape="rect" id="node49" href="$detect-dns-query_8c.html#a5b8dd3f755d0b1a1a2a07bb061ffc6d1" title="Registration function for keyword: dns_query." alt="" coords="455,2083,624,2109"/>
+</map>

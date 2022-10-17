@@ -1,0 +1,9 @@
+<map id="SCMapEnumNameToValue" name="SCMapEnumNameToValue">
+<area shape="rect" id="node1" title="Maps a string name to an enum value from the supplied table. Please specify the last element of any m..." alt="" coords="433,81,615,108"/>
+<area shape="rect" id="node2" href="$app-layer-events_8c.html#a533412df09edc3feaa4120f942091c21" title=" " alt="" coords="209,5,383,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#ad75a93824fd5984c2a3c41d39239d221" title=" " alt="" coords="207,56,385,83"/>
+<area shape="rect" id="node4" href="$util-debug_8c.html#a8e49360370088735fe09b870f0cf27a7" title="Creates a new output interface based on the arguments sent. The kind of output interface to be create..." alt="" coords="221,107,371,133"/>
+<area shape="rect" id="node5" href="$util-debug_8c.html#a60c60546a1d6d2ecb9b580c2389f4636" title=" " alt="" coords="232,157,360,184"/>
+<area shape="rect" id="node6" href="$util-running-modes_8c.html#a03b5cae283d57d4ef7adafd290a33c5d" title=" " alt="" coords="5,132,159,159"/>
+<area shape="rect" id="node7" href="$util-running-modes_8c.html#ae9bfc8f4014e5f4b09938921cc5ba4fb" title=" " alt="" coords="31,183,133,209"/>
+</map>

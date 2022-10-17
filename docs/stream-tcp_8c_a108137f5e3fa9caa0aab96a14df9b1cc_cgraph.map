@@ -1,0 +1,9 @@
+<map id="StreamTcpThreadDeinit" name="StreamTcpThreadDeinit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,164,98"/>
+<area shape="rect" id="node2" href="$stream-tcp-reassemble_8c.html#a967e5a8d394fdac2878d63f01b9c87cc" title=" " alt="" coords="212,71,456,98"/>
+<area shape="rect" id="node3" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread()." alt="" coords="504,71,688,98"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc()." alt="" coords="736,42,939,69"/>
+<area shape="rect" id="node7" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context." alt="" coords="741,93,934,135"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title=" " alt="" coords="987,5,1196,47"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title=" " alt="" coords="991,71,1191,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SCGetSecondsUntil" name="SCGetSecondsUntil">
+<area shape="rect" id="node1" title="Get seconds until a time unit changes." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$util-time_8c.html#a05b89d43affd48f1f37aea766dc80f27" title=" " alt="" coords="193,5,295,32"/>
+</map>

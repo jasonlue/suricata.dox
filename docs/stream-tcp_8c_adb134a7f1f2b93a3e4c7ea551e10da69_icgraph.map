@@ -1,0 +1,10 @@
+<map id="StreamTcpInlineMode" name="StreamTcpInlineMode">
+<area shape="rect" id="node1" title="See if stream engine is operating in inline mode." alt="" coords="504,130,651,157"/>
+<area shape="rect" id="node2" href="$stream-tcp-reassemble_8c.html#a31c38730e71715b22a87ee3c4a69ebbd" title=" " alt="" coords="266,13,430,39"/>
+<area shape="rect" id="node4" href="$stream-tcp-reassemble_8c.html#a244d3a5e334392fa0091554609e55f71" title="does the stream engine have data to inspect?" alt="" coords="240,64,456,105"/>
+<area shape="rect" id="node5" href="$stream-tcp_8c.html#ad5c77b0865b107e413a8f5e0c7fc6234" title="create packets in both directions to flush out logging and detection before switching protocols...." alt="" coords="260,130,436,157"/>
+<area shape="rect" id="node6" href="$stream-tcp-reassemble_8c.html#a63df10c51382b7b37880fc72063e79ad" title=" " alt="" coords="275,181,421,207"/>
+<area shape="rect" id="node8" href="$stream-tcp-reassemble_8c.html#a246e7261bcaaaf2d566533851838a32f" title=" " alt="" coords="249,232,447,273"/>
+<area shape="rect" id="node3" href="$detect-engine-payload_8c.html#a0d743a50ec5612e0a9f97203da39b707" title="Do the content inspection &amp; validation for a signature on the raw stream." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node7" href="$output-json-frame_8c.html#a06235de1193e59f3af805d240ca6a7f8" title="log a single frame" alt="" coords="14,181,183,207"/>
+</map>

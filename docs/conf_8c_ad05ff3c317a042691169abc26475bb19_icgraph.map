@@ -1,0 +1,52 @@
+<map id="ConfGetBool" name="ConfGetBool">
+<area shape="rect" id="node1" title="Retrieve a configuration value as an boolen." alt="" coords="799,259,896,285"/>
+<area shape="rect" id="node2" href="$decode-erspan_8c.html#ab6d87ca3faba6a218de55e6c22862599" title="Functions to decode ERSPAN Type I and II packets." alt="" coords="563,5,722,32"/>
+<area shape="rect" id="node4" href="$decode-geneve_8c.html#a2e8f7e442227b91fd951691ebab977f9" title=" " alt="" coords="567,56,718,83"/>
+<area shape="rect" id="node5" href="$decode-teredo_8c.html#a0c32fcd65ec356bb86c958f37cf4c2d8" title=" " alt="" coords="571,107,715,133"/>
+<area shape="rect" id="node6" href="$decode-vxlan_8c.html#a971a7ab4b6671ed5aa2fb2f6818764bb" title=" " alt="" coords="568,157,717,184"/>
+<area shape="rect" id="node7" href="$detect-engine-mpm_8c.html#a27c2246fa6fe45090a7e7bf98106e2ce" title=" " alt="" coords="535,208,751,235"/>
+<area shape="rect" id="node8" href="$util-napatech_8c.html#a05cae542c0af4b6b716ad490800b5a91" title="Reads and parses the stream configuration defined in the config file." alt="" coords="553,259,732,285"/>
+<area shape="rect" id="node9" href="$source-napatech_8c.html#ae6a1f849c4e60f84138747d4cce1a2b4" title="Main Napatechpacket processing loop." alt="" coords="569,309,716,336"/>
+<area shape="rect" id="node12" href="$source-nfq_8c.html#a639513f1b7ce7f2019996fd3a876c43d" title="To initialize the NFQ global configuration data." alt="" coords="589,360,696,387"/>
+<area shape="rect" id="node13" href="$suricata_8c.html#afe1826671f903886aeb12d9aa9e9faf2" title=" " alt="" coords="566,411,719,437"/>
+<area shape="rect" id="node15" href="$runmodes_8c.html#a07225b8600c17470752ae849ace81e0f" title=" " alt="" coords="579,828,706,855"/>
+<area shape="rect" id="node48" href="$stream-tcp_8c.html#a8626f32922cf2f849c4f3fd2e936c848" title="To initialize the stream global configuration data." alt="" coords="573,1436,713,1463"/>
+<area shape="rect" id="node3" href="$group__decode.html#gae2756ac81c53501f4bcf3daf55e148e7" title=" " alt="" coords="300,81,443,108"/>
+<area shape="rect" id="node10" href="$source-napatech_8c.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module." alt="" coords="256,220,487,247"/>
+<area shape="rect" id="node11" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="39,220,174,247"/>
+<area shape="rect" id="node14" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="285,271,458,297"/>
+<area shape="rect" id="node16" href="$runmode-erf-file_8c.html#a4d406431f0ab63d3143b81d3f600b09a" title=" " alt="" coords="292,321,451,348"/>
+<area shape="rect" id="node18" href="$runmode-erf-file_8c.html#a915f2f8caa7767da0f772a01421d9739" title=" " alt="" coords="295,372,447,399"/>
+<area shape="rect" id="node19" href="$runmode-pcap-file_8c.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers:" alt="" coords="286,423,457,449"/>
+<area shape="rect" id="node21" href="$runmode-pcap-file_8c.html#a0b2361b53d1001da4064cac92706a590" title="Single thread version of the Pcap file processing." alt="" coords="289,473,454,500"/>
+<area shape="rect" id="node22" href="$runmode-af-packet_8c.html#af741b481e72c7d4e52637797fa320ea6" title=" " alt="" coords="290,524,453,551"/>
+<area shape="rect" id="node24" href="$runmode-af-packet_8c.html#a4607fda68e0f4b15bc3207cec646da96" title="Single thread version of the AF_PACKET processing." alt="" coords="292,575,451,601"/>
+<area shape="rect" id="node25" href="$runmode-af-packet_8c.html#a1402fe271c8a1f767de444b2d9535722" title="Workers version of the AF_PACKET processing." alt="" coords="286,625,457,652"/>
+<area shape="rect" id="node26" href="$runmode-dpdk_8c.html#a254cd35c82d0b74a892239c10593d068" title="Workers version of the DPDK processing." alt="" coords="284,676,459,703"/>
+<area shape="rect" id="node28" href="$runmode-erf-dag_8c.html#a70b2fc6e66952233a4152397b09c64c4" title=" " alt="" coords="282,727,461,753"/>
+<area shape="rect" id="node30" href="$runmode-erf-dag_8c.html#a9ba73edd11c89adb1123a2b559598d4e" title=" " alt="" coords="285,777,458,804"/>
+<area shape="rect" id="node31" href="$runmode-erf-dag_8c.html#ab793c26bd7104604eb8c3f27ebb4f1b9" title=" " alt="" coords="279,828,464,855"/>
+<area shape="rect" id="node32" href="$runmode-pcap_8c.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers:" alt="" coords="287,879,455,905"/>
+<area shape="rect" id="node34" href="$runmode-pcap_8c.html#a56e3924206404f4dad482c7429a680f1" title="Single thread version of the Pcap live processing." alt="" coords="290,929,453,956"/>
+<area shape="rect" id="node35" href="$runmode-pcap_8c.html#a41a15b254d1b8fbd44f2666e5f6b94a7" title="Workers version of the PCAP LIVE processing." alt="" coords="284,980,459,1007"/>
+<area shape="rect" id="node36" href="$runmode-pfring_8c.html#a03d46b27b5c687483ac9f89476f490b6" title=" " alt="" coords="285,1031,457,1057"/>
+<area shape="rect" id="node38" href="$runmode-pfring_8c.html#a2273f9ef551786698a7c6f90ba2daef1" title=" " alt="" coords="288,1081,455,1108"/>
+<area shape="rect" id="node39" href="$runmode-pfring_8c.html#ad1ce11c37b11e5647edd6f52dae43b5d" title=" " alt="" coords="282,1132,461,1159"/>
+<area shape="rect" id="node40" href="$runmode-ipfw_8c.html#ab98f939c839da52cdfa459f4369c7881" title=" " alt="" coords="286,1183,457,1209"/>
+<area shape="rect" id="node42" href="$runmode-ipfw_8c.html#a17d8ec657d20d82a53849a56e9db4b82" title=" " alt="" coords="286,1233,457,1260"/>
+<area shape="rect" id="node43" href="$runmode-nfq_8c.html#a74ab8fb81b460f68e5b2989c9575e41a" title=" " alt="" coords="288,1284,455,1311"/>
+<area shape="rect" id="node45" href="$runmode-nfq_8c.html#aa10ad0e1cc7e8cb8738e88d97a4722d5" title=" " alt="" coords="289,1335,454,1361"/>
+<area shape="rect" id="node46" href="$runmode-windivert_8c.html#a24d9d5db01e50a174601fa950ca8ba04" title=" " alt="" coords="273,1385,469,1412"/>
+<area shape="rect" id="node17" href="$runmode-erf-file_8c.html#a2fa5ee6e088800426e896df9aeff1048" title=" " alt="" coords="24,347,189,373"/>
+<area shape="rect" id="node20" href="$runmode-pcap-file_8c.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title=" " alt="" coords="17,448,196,475"/>
+<area shape="rect" id="node23" href="$runmode-af-packet_8c.html#abf510dda35701437fc571d5b5f0f1f6e" title=" " alt="" coords="21,575,192,601"/>
+<area shape="rect" id="node27" href="$runmode-dpdk_8c.html#ac3afdde791282031d5315e34e9f4dea9" title=" " alt="" coords="27,676,186,703"/>
+<area shape="rect" id="node29" href="$runmode-erf-dag_8c.html#a48e70c4e7988fa65ee295b869150cfa6" title=" " alt="" coords="23,777,191,804"/>
+<area shape="rect" id="node33" href="$runmode-pcap_8c.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title=" " alt="" coords="19,929,194,956"/>
+<area shape="rect" id="node37" href="$runmode-pfring_8c.html#a60ccf23e33d96ce4ad0e111902f1984b" title=" " alt="" coords="17,1081,196,1108"/>
+<area shape="rect" id="node41" href="$runmode-ipfw_8c.html#ae06ebfcccd6f11438a720a3b5753e5ac" title=" " alt="" coords="17,1208,196,1235"/>
+<area shape="rect" id="node44" href="$runmode-nfq_8c.html#a9357135b637234befb24cfcefde1e95e" title=" " alt="" coords="20,1309,193,1336"/>
+<area shape="rect" id="node47" href="$runmode-windivert_8c.html#a95cfc299fb3b8f2052138f4d7c314ca5" title=" " alt="" coords="5,1385,208,1412"/>
+<area shape="rect" id="node49" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="329,1436,413,1463"/>
+<area shape="rect" id="node50" href="$stream-tcp-util_8c.html#ac334d8068855916fb7ceaf9fa01247a4" title=" " alt="" coords="311,1487,431,1513"/>
+</map>

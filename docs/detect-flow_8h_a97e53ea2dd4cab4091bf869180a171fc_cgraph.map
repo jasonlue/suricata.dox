@@ -1,0 +1,4 @@
+<map id="DetectFlowRegister" name="DetectFlowRegister">
+<area shape="rect" id="node1" title="Registration function for flow: keyword." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$detect-flow_8c.html#aafc94fc62ba89edc791ba8d58a757922" title="This function is used to match flow flags set on a packet with those passed via flow:" alt="" coords="192,5,317,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HtpBody_" name="HtpBody_">
+<area shape="rect" id="node1" title=" " alt="" coords="123,199,203,225"/>
+<area shape="rect" id="node2" href="$structHtpBodyChunk__.html" title=" " alt="" coords="5,95,124,121"/>
+<area shape="rect" id="node3" href="$structStreamingBuffer__.html" title=" " alt="" coords="202,95,325,121"/>
+<area shape="rect" id="node4" href="$structStreamingBufferConfig__.html" title=" " alt="" coords="93,5,255,32"/>
+<area shape="rect" id="node5" href="$structStreamingBufferBlock.html" title="block of continues data" alt="" coords="279,5,429,32"/>
+</map>

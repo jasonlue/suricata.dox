@@ -1,0 +1,6 @@
+<map id="FtpState_" name="FtpState_">
+<area shape="rect" id="node1" title=" " alt="" coords="95,184,174,211"/>
+<area shape="rect" id="node2" href="$structFTPTransaction__.html" title=" " alt="" coords="5,95,128,121"/>
+<area shape="rect" id="node3" href="$structFtpCommand__.html" title=" " alt="" coords="13,5,121,32"/>
+<area shape="rect" id="node4" href="$structFtpLineState__.html" title=" " alt="" coords="153,95,255,121"/>
+</map>

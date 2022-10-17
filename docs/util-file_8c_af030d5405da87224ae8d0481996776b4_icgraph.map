@@ -1,0 +1,8 @@
+<map id="FileAppendData" name="FileAppendData">
+<area shape="rect" id="node1" title="Store/handle a chunk of file data in the File structure The last file in the FileContainer will be us..." alt="" coords="593,56,708,83"/>
+<area shape="rect" id="node2" href="$app-layer-htp-file_8c.html#a20c7b7d51acb1c2be404e0a372883f34" title="Store a chunk of data in the flow." alt="" coords="179,5,318,32"/>
+<area shape="rect" id="node3" href="$app-layer-htp-range_8c.html#af077a01c67eb12ea99ce1349193c0af2" title=" " alt="" coords="388,56,545,83"/>
+<area shape="rect" id="node6" href="$app-layer-htp-range_8c.html#adeb12f7a7825dfac65b248f8befa957c" title=" " alt="" coords="407,107,526,133"/>
+<area shape="rect" id="node4" href="$app-layer-htp-file_8c.html#a116913d020473da4e55ab1c705eac07b" title="close range, add reassembled file if possible" alt="" coords="157,56,340,83"/>
+<area shape="rect" id="node5" href="$app-layer-htp-file_8c.html#ad68d0babb84f5c067684f1d87d4195f2" title="Close the file in the flow." alt="" coords="5,56,109,83"/>
+</map>

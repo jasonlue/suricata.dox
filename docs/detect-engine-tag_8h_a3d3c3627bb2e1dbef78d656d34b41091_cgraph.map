@@ -1,0 +1,5 @@
+<map id="TagRestartCtx" name="TagRestartCtx">
+<area shape="rect" id="node1" title="Reset the tagging engine context." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$detect-engine-tag_8c.html#a64fd4afb830fe88f778ee8a8f8d76b8b" title="Destroy tag context hash tables." alt="" coords="160,5,271,32"/>
+<area shape="rect" id="node3" href="$detect-engine-tag_8c.html#acbb580c62a8584eabf59f290a9bdab5c" title=" " alt="" coords="174,56,257,83"/>
+</map>

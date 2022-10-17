@@ -1,0 +1,5 @@
+<map id="Bs2BmBadchars" name="Bs2BmBadchars">
+<area shape="rect" id="node1" title="Array setup function for Bs2Bm of bad characters index (not found at the needle)" alt="" coords="203,31,323,57"/>
+<area shape="rect" id="node2" href="$util-spm_8c.html#ae74b2f886a40cdfdef8a522ba3ecec37" title="Search a pattern in the text using the Bs2Bm nocase algorithm (build a bad characters array)" alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node3" href="$util-spm_8c.html#a4f68889d4f095000cedd0d9baa73e2d7" title="Search a pattern in the text using the Bs2Bm algorithm (build a bad characters array)" alt="" coords="28,56,132,83"/>
+</map>

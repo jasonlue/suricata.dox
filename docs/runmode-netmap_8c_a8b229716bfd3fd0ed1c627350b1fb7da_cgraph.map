@@ -1,0 +1,7 @@
+<map id="RunModeIdsNetmapRegister" name="RunModeIdsNetmapRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,196,108"/>
+<area shape="rect" id="node2" href="$runmode-netmap_8c.html#a8dfba4755e54c47d166ebfc0fa9297b4" title=" " alt="" coords="257,5,441,32"/>
+<area shape="rect" id="node3" href="$runmode-netmap_8c.html#afde9fca64528867bcc8c521d9077bf0f" title="Single thread version of the netmap processing." alt="" coords="260,56,439,83"/>
+<area shape="rect" id="node4" href="$runmode-netmap_8c.html#a0e2182ba798b9ae6f33f7161faa313b3" title="Workers version of the netmap processing." alt="" coords="254,107,445,133"/>
+<area shape="rect" id="node5" href="$runmodes_8c.html#a90375222b88cb5950c887519d028e498" title="Registers a new runmode." alt="" coords="244,157,455,184"/>
+</map>

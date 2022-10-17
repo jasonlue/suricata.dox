@@ -1,0 +1,7 @@
+<map id="StorageAllocByIdPrealloc" name="StorageAllocByIdPrealloc">
+<area shape="rect" id="node1" title="AllocById func for prealloc&#39;d base storage (storage ptrs are part of another memory block)" alt="" coords="224,81,395,108"/>
+<area shape="rect" id="node2" href="$flow-storage_8c.html#a53780e7aec86a3aa79559da1070ae06e" title=" " alt="" coords="15,5,166,32"/>
+<area shape="rect" id="node3" href="$host-storage_8c.html#a1a2072975c1b3709726dac5d512232c0" title=" " alt="" coords="15,56,166,83"/>
+<area shape="rect" id="node4" href="$ippair-storage_8c.html#af6eda895656ae5781434294689f1851e" title=" " alt="" coords="11,107,170,133"/>
+<area shape="rect" id="node5" href="$device-storage_8c.html#a7e3194d2d8e46734969172ed4de1a610" title=" " alt="" coords="5,157,176,184"/>
+</map>

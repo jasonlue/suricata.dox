@@ -1,0 +1,6 @@
+<map id="PacketCopyData" name="PacketCopyData">
+<area shape="rect" id="node1" title="Copy data to Packet payload and set packet length." alt="" coords="216,56,339,83"/>
+<area shape="rect" id="node2" href="$group__decode.html#gac9c52a724280a0180fd4b9afb33dce83" title="Setup a pseudo packet (reassembled frags)" alt="" coords="9,5,165,32"/>
+<area shape="rect" id="node3" href="$group__decode.html#gaa23fca189120a210d3f5e887835e9282" title="Setup a pseudo packet (tunnel)" alt="" coords="9,56,165,83"/>
+<area shape="rect" id="node4" href="$stream-tcp_8c.html#a3afba214a95265afcf490b5a85cbffc4" title="Function to fetch a packet from the packet allocation queue for creation of the pseudo packet from th..." alt="" coords="5,107,168,133"/>
+</map>

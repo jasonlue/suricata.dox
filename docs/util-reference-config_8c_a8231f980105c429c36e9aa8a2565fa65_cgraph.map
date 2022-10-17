@@ -1,0 +1,4 @@
+<map id="SCRConfReferenceHashFree" name="SCRConfReferenceHashFree">
+<area shape="rect" id="node1" title="Used to free the Reference Config Hash Data that was stored in DetectEngineCtx&#45;&gt;reference_conf_ht Has..." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$util-reference-config_8c.html#ae82ff9cb49f8c3a785f5151c4ae62772" title="Frees a SCRConfReference instance." alt="" coords="249,5,492,32"/>
+</map>

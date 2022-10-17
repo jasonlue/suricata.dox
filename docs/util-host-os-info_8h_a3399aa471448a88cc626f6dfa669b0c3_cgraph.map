@@ -1,0 +1,4 @@
+<map id="SCHInfoGetIPv4HostOSFlavour" name="SCHInfoGetIPv4HostOSFlavour">
+<area shape="rect" id="node1" title="Retrieves the host os flavour, given an ipv4 address in the raw address format." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a3f0f2284278ce9b4b740e9c08d842652" title="Checks if an IPV4 address is present in the tree under a netblock." alt="" coords="264,5,479,32"/>
+</map>

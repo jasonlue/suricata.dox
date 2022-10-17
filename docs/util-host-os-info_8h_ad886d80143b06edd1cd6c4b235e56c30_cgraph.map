@@ -1,0 +1,6 @@
+<map id="SCHInfoGetHostOSFlavour" name="SCHInfoGetHostOSFlavour">
+<area shape="rect" id="node1" title="Retrieves the host os flavour, given an ipv4/ipv6 address as a string." alt="" coords="5,31,189,57"/>
+<area shape="rect" id="node2" href="$util-radix-tree_8c.html#a6cc3963f75cae4474ad3f63869860a98" title="Checks if an IPV6 address is present in the tree under a netblock." alt="" coords="237,5,452,32"/>
+<area shape="rect" id="node3" href="$util-ip_8c.html#a8100907ae6ad3c6e5190937a1cfd58f6" title="Validates an IPV6 address and returns the network endian arranged version of the IPV6 addresss." alt="" coords="272,56,417,83"/>
+<area shape="rect" id="node4" href="$util-ip_8c.html#a08eac68e30e1ff9625246c5263019bd7" title="determine if a string is a valid ipv6 address" alt="" coords="500,56,671,83"/>
+</map>

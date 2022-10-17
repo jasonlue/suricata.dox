@@ -1,0 +1,47 @@
+<map id="StatsIncr" name="StatsIncr">
+<area shape="rect" id="node1" title="Increments the local counter." alt="" coords="1145,857,1220,884"/>
+<area shape="rect" id="node2" href="$app-layer_8c.html#a9e6de279d6b32662d1d9d84ce4298aaf" title=" " alt="" coords="882,5,1081,32"/>
+<area shape="rect" id="node3" href="$app-layer_8c.html#aa3e86a9eb119f6bcee52bb3e65c0f618" title=" " alt="" coords="885,56,1078,83"/>
+<area shape="rect" id="node4" href="$app-layer_8c.html#a114467b3d3d0dab67268c3abaa1d7c94" title=" " alt="" coords="898,107,1065,149"/>
+<area shape="rect" id="node5" href="$app-layer_8c.html#aada9fb36e7cbe51809448f019e9c9259" title=" " alt="" coords="878,173,1085,200"/>
+<area shape="rect" id="node6" href="$decode-chdlc_8c.html#a314dba2f0913259b46820ea2bb134abd" title=" " alt="" coords="659,325,774,352"/>
+<area shape="rect" id="node8" href="$decode-erspan_8c.html#a54aeed46f69f5c22b00cfbbaea39896b" title="ERSPAN Type II." alt="" coords="921,883,1042,909"/>
+<area shape="rect" id="node9" href="$decode-erspan_8c.html#ae8ddf5d350fb211cc0a4554187b9c44c" title="ERSPAN Type I." alt="" coords="640,528,793,555"/>
+<area shape="rect" id="node10" href="$decode-esp_8c.html#a2f3330141cc96850a293809d6f0f18df" title="Function to decode IPSEC&#45;ESP packets." alt="" coords="934,933,1029,960"/>
+<area shape="rect" id="node11" href="$decode-ethernet_8c.html#a162885a620b041a17a6b6e7f446efd78" title=" " alt="" coords="923,680,1039,707"/>
+<area shape="rect" id="node16" href="$source-pfring_8c.html#a1760d0c02c83ffe55444d4a8ebc9852a" title="This function passes off to link type decoders." alt="" coords="666,832,767,859"/>
+<area shape="rect" id="node22" href="$decode-gre_8c.html#aca6bf3017b80f18568c8e7e0413eecef" title="Function to decode GRE packets." alt="" coords="933,984,1029,1011"/>
+<area shape="rect" id="node23" href="$decode-icmpv4_8c.html#a1b022692218f51b03d2993f0d5deeaea" title="Main ICMPv4 decoding function." alt="" coords="923,1035,1040,1061"/>
+<area shape="rect" id="node24" href="$decode-icmpv6_8c.html#a0a623ed5a509cf4a5d920d0b3b58fbf8" title="Decode ICMPV6 packets and fill the Packet with the decoded info." alt="" coords="923,1085,1040,1112"/>
+<area shape="rect" id="node25" href="$decode-ipv4_8c.html#a1fe0323ef09fb4f509c773b0307a5b5d" title=" " alt="" coords="933,528,1029,555"/>
+<area shape="rect" id="node26" href="$decode-null_8c.html#a3dcf62f7e07a8c62004739561b9358f2" title=" " alt="" coords="671,427,762,453"/>
+<area shape="rect" id="node27" href="$decode-pppoe_8c.html#af52427789d65bee48e85fc4be7fcc310" title="Main decoding function for PPPOE Session packets." alt="" coords="637,376,797,403"/>
+<area shape="rect" id="node28" href="$decode-raw_8c.html#a954e0eb482ae9df2f7d3e03ca36e419c" title=" " alt="" coords="669,477,764,504"/>
+<area shape="rect" id="node29" href="$decode-ipv6_8c.html#a561ad62e68ee460375104b65c847e745" title=" " alt="" coords="933,427,1029,453"/>
+<area shape="rect" id="node30" href="$decode-mpls_8c.html#aeb259a0380e196817a38ce2f9c765c59" title=" " alt="" coords="930,1136,1033,1163"/>
+<area shape="rect" id="node31" href="$decode-nsh_8c.html#a6cd80c1a91662ea30ba84dffec3c2770" title="Function to decode NSH packets." alt="" coords="933,1187,1029,1213"/>
+<area shape="rect" id="node32" href="$decode-ppp_8c.html#a154cf7f897703554e8f9e6c0c2ef507a" title=" " alt="" coords="669,224,764,251"/>
+<area shape="rect" id="node33" href="$decode-pppoe_8c.html#a01ce125883d4352230d24ee8be94e01f" title="Main decoding function for PPPOE Discovery packets." alt="" coords="895,1237,1067,1264"/>
+<area shape="rect" id="node34" href="$decode-sctp_8c.html#a8c9a20551ad971ce1a9136ac5004e40f" title=" " alt="" coords="930,1288,1033,1315"/>
+<area shape="rect" id="node35" href="$decode-sll_8c.html#a4f170cb679e80b35791550d1938ed2af" title=" " alt="" coords="675,275,758,301"/>
+<area shape="rect" id="node36" href="$decode-tcp_8c.html#a185dfd6c19944da4ba37fe8aed1f0321" title=" " alt="" coords="934,1339,1029,1365"/>
+<area shape="rect" id="node37" href="$decode-udp_8c.html#a8280d58cc929a65a230a764635773242" title=" " alt="" coords="933,1389,1029,1416"/>
+<area shape="rect" id="node38" href="$group__decode.html#ga80f244d5793581bd92abab9e8f83ef0c" title=" " alt="" coords="880,781,1083,808"/>
+<area shape="rect" id="node39" href="$decode-vlan_8c.html#a8316fcf75c5318bc3c39b80581eb7948" title=" " alt="" coords="930,1440,1033,1467"/>
+<area shape="rect" id="node40" href="$decode-vntag_8c.html#af192ead2906ca77e1b92d7faafcc387d" title=" " alt="" coords="928,1491,1035,1517"/>
+<area shape="rect" id="node41" href="$defrag_8c.html#ac83f2b6278e62bf63127d4d70838a882" title="Entry point for IPv4 and IPv6 fragments." alt="" coords="951,1541,1012,1568"/>
+<area shape="rect" id="node42" href="$group__decode.html#ga34b0a10ee3a77793bddbc8f8eceb832f" title="Finalize decoding of a packet." alt="" coords="905,731,1058,757"/>
+<area shape="rect" id="node43" href="$group__decode.html#ga0413db3aeedd67f469b685451a2ed4f7" title=" " alt="" coords="865,1592,1097,1619"/>
+<area shape="rect" id="node44" href="$stream-tcp_8c.html#ac608d6e0b3308d0b463a71fc3b287f48" title=" " alt="" coords="939,1643,1023,1669"/>
+<area shape="rect" id="node45" href="$stream-tcp_8c.html#ac7828cd575847c16d7d5f20ed621565f" title=" " alt="" coords="919,1693,1044,1720"/>
+<area shape="rect" id="node7" href="$source-pcap-file-helper_8c.html#a1328c68618c985c2d1b2dd2d567a9e9c" title=" " alt="" coords="391,376,511,403"/>
+<area shape="rect" id="node12" href="$source-erf-dag_8c.html#a42f678665144669f8801534bf447a4ee" title="This function passes off to link type decoders." alt="" coords="663,781,771,808"/>
+<area shape="rect" id="node18" href="$source-napatech_8c.html#a4abaa58182d9b734b62aa41ee06c3299" title="This function passes off to link type decoders." alt="" coords="655,731,778,757"/>
+<area shape="rect" id="node20" href="$util-unittest-helper_8c.html#a37d942cc9d23160773644d9f478d8f48" title="UTHBuildPacketArrayFromEth is a wrapper that build a packets from an array of packets in ethernet raw..." alt="" coords="616,629,817,656"/>
+<area shape="rect" id="node21" href="$util-unittest-helper_8c.html#ab70f98de0152a68f1df97e9b346aa4da" title="UTHBuildPacketFromEth is a wrapper that build a packet for the rawbytes." alt="" coords="631,680,802,707"/>
+<area shape="rect" id="node13" href="$source-erf-dag_8c.html#aa47bd0f6507811ee5e58ddbabe5a9e66" title="Register the ERF file decoder module." alt="" coords="342,781,561,808"/>
+<area shape="rect" id="node14" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,781,287,808"/>
+<area shape="rect" id="node15" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,781,104,808"/>
+<area shape="rect" id="node17" href="$source-pfring_8c.html#aa66fd20b9ff077eeceaa3b651c66c74d" title="Registration Function for DecodePfring." alt="" coords="346,832,557,859"/>
+<area shape="rect" id="node19" href="$source-napatech_8c.html#a3c6286bd204f451242392057ef46bc52" title="Register the Napatech decoder module." alt="" coords="335,731,568,757"/>
+</map>

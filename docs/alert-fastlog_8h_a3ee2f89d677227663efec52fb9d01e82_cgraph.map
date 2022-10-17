@@ -1,0 +1,7 @@
+<map id="AlertFastLogInitCtx" name="AlertFastLogInitCtx">
+<area shape="rect" id="node1" title="Create a new LogFileCtx for &quot;fast&quot; output style." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$util-logopenfile_8c.html#a48dccb24aadffd47f27f2bfe9d5aac0c" title="LogFileFreeCtx() Destroy a LogFileCtx (Close the file and free memory)" alt="" coords="216,5,327,32"/>
+<area shape="rect" id="node4" href="$util-logopenfile_8c.html#aa619db65776ddd6f2c06780f86689afc" title="LogFileNewCtx() Get a new LogFileCtx." alt="" coords="215,56,327,83"/>
+<area shape="rect" id="node5" href="$util-logopenfile_8c.html#aa420f59dbec22b32897acb61ccda3b80" title="open a generic output &quot;log file&quot;, which may be a regular file or a socket" alt="" coords="188,107,355,133"/>
+<area shape="rect" id="node3" href="$output_8c.html#a28fd4c19cfdd446c2a48a29e0c3c954d" title="Unregister a file rotation flag." alt="" coords="403,5,619,32"/>
+</map>

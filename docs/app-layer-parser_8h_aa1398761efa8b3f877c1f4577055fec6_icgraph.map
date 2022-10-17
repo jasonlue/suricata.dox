@@ -1,0 +1,9 @@
+<map id="AppLayerParserGetTxCnt" name="AppLayerParserGetTxCnt">
+<area shape="rect" id="node1" title=" " alt="" coords="596,97,768,123"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#abed825674e3a73f6635df2089d392314" title=" " alt="" coords="317,5,519,47"/>
+<area shape="rect" id="node4" href="$flow-timeout_8c.html#a75b170f1af2fed84c039969318b5edb9" title="Check if a flow needs forced reassembly, or any other processing." alt="" coords="288,71,548,98"/>
+<area shape="rect" id="node5" href="$app-layer-htp-xff_8c.html#a5d3e5ca11f5fa0968c8301dc3c5393f8" title="Function to return XFF IP if any. The caller needs to lock the flow." alt="" coords="69,122,176,149"/>
+<area shape="rect" id="node6" href="$app-layer-htp-xff_8c.html#a168668dcb6d5509a5b9435b1974e1064" title="Function to return XFF IP if any in the selected transaction. The caller needs to lock the flow." alt="" coords="343,173,493,199"/>
+<area shape="rect" id="node3" href="$group__sigstate.html#ga655588322b89bfb0f77c9654ae054e7c" title="update flow&#39;s inspection id&#39;s" alt="" coords="5,13,240,39"/>
+<area shape="rect" id="node7" href="$output-json-file_8c.html#a37812367499afb3f54a48b34f0593a45" title=" " alt="" coords="41,173,205,199"/>
+</map>

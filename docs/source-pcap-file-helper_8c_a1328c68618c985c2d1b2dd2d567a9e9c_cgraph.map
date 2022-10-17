@@ -1,0 +1,12 @@
+<map id="ValidateLinkType" name="ValidateLinkType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,125,209"/>
+<area shape="rect" id="node2" href="$decode-chdlc_8c.html#a314dba2f0913259b46820ea2bb134abd" title=" " alt="" coords="317,5,431,32"/>
+<area shape="rect" id="node4" href="$decode-ethernet_8c.html#a162885a620b041a17a6b6e7f446efd78" title=" " alt="" coords="316,56,432,83"/>
+<area shape="rect" id="node5" href="$decode-null_8c.html#a3dcf62f7e07a8c62004739561b9358f2" title=" " alt="" coords="175,157,266,184"/>
+<area shape="rect" id="node8" href="$decode-ppp_8c.html#a154cf7f897703554e8f9e6c0c2ef507a" title=" " alt="" coords="173,284,268,311"/>
+<area shape="rect" id="node9" href="$decode-raw_8c.html#a954e0eb482ae9df2f7d3e03ca36e419c" title=" " alt="" coords="173,208,268,235"/>
+<area shape="rect" id="node10" href="$decode-sll_8c.html#a4f170cb679e80b35791550d1938ed2af" title=" " alt="" coords="179,347,262,373"/>
+<area shape="rect" id="node3" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter." alt="" coords="480,183,555,209"/>
+<area shape="rect" id="node6" href="$decode-ipv4_8c.html#a1fe0323ef09fb4f509c773b0307a5b5d" title=" " alt="" coords="326,157,422,184"/>
+<area shape="rect" id="node7" href="$decode-ipv6_8c.html#a561ad62e68ee460375104b65c847e745" title=" " alt="" coords="326,208,422,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PathIsAbsolute" name="PathIsAbsolute">
+<area shape="rect" id="node1" title="Check if a path is absolute." alt="" coords="412,31,523,57"/>
+<area shape="rect" id="node2" href="$util-path_8c.html#a7d2d398a752aedd5cc2118061c68383b" title="Check if a path is relative." alt="" coords="256,31,364,57"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ac10c9601d33eb2e791f699807eabd456" title="Create the path for an include entry." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node4" href="$detect-engine-loader_8c.html#a8939bec0ec6e7ecb85f6d0d1e2a02215" title="Create the path if default&#45;rule&#45;path was specified." alt="" coords="11,56,202,83"/>
+</map>

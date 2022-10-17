@@ -1,0 +1,4 @@
+<map id="SigGroupHeadSetFilestoreCount" name="SigGroupHeadSetFilestoreCount">
+<area shape="rect" id="node1" title="Set the filestore_cnt in the sgh." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$detect-engine-build_8c.html#ac9fb35f4a79220c1fbc0121e72d0f1ea" title="Check if a signature contains the filestore keyword." alt="" coords="231,13,379,39"/>
+</map>

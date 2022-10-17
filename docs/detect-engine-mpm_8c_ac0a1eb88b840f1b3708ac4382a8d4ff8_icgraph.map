@@ -1,0 +1,5 @@
+<map id="MpmStorePrepareBuffer" name="MpmStorePrepareBuffer">
+<area shape="rect" id="node1" title="Get MpmStore for a built&#45;in buffer type." alt="" coords="444,5,607,32"/>
+<area shape="rect" id="node2" href="$detect-engine-mpm_8c.html#a5b296eaaaeb2ccc2d2452a210fa626ae" title="Prepare the pattern matcher ctx in a sig group head." alt="" coords="216,5,396,32"/>
+<area shape="rect" id="node3" href="$detect-engine-prefilter_8c.html#aed7eacff963d69dbe6e226c3d324b6d8" title=" " alt="" coords="5,5,168,32"/>
+</map>

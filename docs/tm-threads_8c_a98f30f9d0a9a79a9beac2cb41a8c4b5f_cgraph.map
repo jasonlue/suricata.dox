@@ -1,0 +1,4 @@
+<map id="TmThreadWaitForFlag" name="TmThreadWaitForFlag">
+<area shape="rect" id="node1" title="Waits till the specified flag(s) is(are) set. We don&#39;t bother if the kill flag has been set or not on..." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$tm-threads_8c.html#a19cda3747ef965db45d79aae89dd1055" title="Check if a thread flag is set." alt="" coords="204,5,355,32"/>
+</map>

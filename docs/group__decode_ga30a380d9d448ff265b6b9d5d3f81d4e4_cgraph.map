@@ -1,0 +1,6 @@
+<map id="DecodeRegisterPerfCounters" name="DecodeRegisterPerfCounters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$counters_8c.html#afb3a045cd04fe1caf7b44003d3cd2c73" title="Registers a counter, whose value holds the average of all the values assigned to it." alt="" coords="248,5,419,32"/>
+<area shape="rect" id="node3" href="$counters_8c.html#a95abbd8272502dc1a4f355fb4d672a75" title="Registers a normal, unqualified counter." alt="" coords="259,56,407,83"/>
+<area shape="rect" id="node4" href="$counters_8c.html#a7b27df2158146dd499e560db9cdfae21" title="Registers a counter, whose value holds the maximum of all the values assigned to it." alt="" coords="247,107,420,133"/>
+</map>

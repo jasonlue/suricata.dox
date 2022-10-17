@@ -1,0 +1,4 @@
+<map id="DetectPortListsAreEqual" name="DetectPortListsAreEqual">
+<area shape="rect" id="node1" title="Checks if two port group lists are equal." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a99a3e1b81a12b2048ee19c49d3467369" title="Function that compare port groups." alt="" coords="220,5,333,32"/>
+</map>

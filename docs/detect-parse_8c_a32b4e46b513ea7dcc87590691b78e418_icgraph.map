@@ -1,0 +1,4 @@
+<map id="DetectGetLastSMByListPtr" name="DetectGetLastSMByListPtr">
+<area shape="rect" id="node1" title="Returns the sm with the largest index (added last) from the list passed to us as a pointer." alt="" coords="268,5,449,32"/>
+<area shape="rect" id="node2" href="$detect-parse_8c.html#a0bf3b3f3ceca742051a4467419e1ea5d" title="get the last SigMatch from lists that support MPM." alt="" coords="5,5,220,32"/>
+</map>

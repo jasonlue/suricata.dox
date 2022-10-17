@@ -1,0 +1,6 @@
+<map id="AppLayerRequestProtocolTLSUpgrade" name="AppLayerRequestProtocolTLSUpgrade">
+<area shape="rect" id="node1" title="request applayer to wrap up this protocol and rerun protocol detection with expectation of TLS...." alt="" coords="5,31,252,57"/>
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#a67bbf15efd64f1df267f175488524b74" title="request applayer to wrap up this protocol and rerun protocol detection." alt="" coords="300,31,519,57"/>
+<area shape="rect" id="node3" href="$flow_8c.html#acc4e426d680d8624300a2e3d8dfeffec" title="Check if change proto flag is set for flow." alt="" coords="589,5,715,32"/>
+<area shape="rect" id="node4" href="$flow_8c.html#ad5c9972bae4a5474a7f5fc785890ad40" title="Set flag to indicate to change proto for the flow." alt="" coords="567,56,737,83"/>
+</map>

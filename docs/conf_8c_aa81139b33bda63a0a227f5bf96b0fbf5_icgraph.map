@@ -1,0 +1,5 @@
+<map id="ConfNodeFree" name="ConfNodeFree">
+<area shape="rect" id="node1" title="Free a ConfNode and all of its children." alt="" coords="331,29,437,56"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a3517e0baf0416812d47e2ca545a49980" title="Remove (and SCFree) the provided configuration node." alt="" coords="152,29,283,56"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a1d952ba60d0cbc20b96cffa1c20fdd07" title="Remove a configuration parameter from the configuration db." alt="" coords="5,29,104,56"/>
+</map>

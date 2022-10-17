@@ -1,0 +1,7 @@
+<map id="AppLayerProtoDetectPPParseConfPorts" name="AppLayerProtoDetectPPParseConfPorts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,204,90"/>
+<area shape="rect" id="node2" href="$app-layer-detect-proto_8c.html#a811d29503e196fdae96ba2682058b360" title="register parser at a port" alt="" coords="252,5,467,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="308,56,411,83"/>
+<area shape="rect" id="node5" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="283,107,436,133"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a0ad8e237b6166e60d600bb484c8e76a2" title="Function for parsing port strings." alt="" coords="515,5,633,32"/>
+</map>

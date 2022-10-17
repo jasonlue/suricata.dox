@@ -1,0 +1,10 @@
+<map id="DecodeErfDagThreadDeinit" name="DecodeErfDagThreadDeinit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,188,123"/>
+<area shape="rect" id="node2" href="$group__decode.html#ga6339c663affee81d94921a3ab2860e15" title=" " alt="" coords="236,97,395,123"/>
+<area shape="rect" id="node3" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread()." alt="" coords="443,71,627,98"/>
+<area shape="rect" id="node8" href="$output-flow_8c.html#a4435c7a5c922d293aaecf43a6d7f2b0c" title=" " alt="" coords="443,122,627,149"/>
+<area shape="rect" id="node4" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc()." alt="" coords="675,42,877,69"/>
+<area shape="rect" id="node7" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context." alt="" coords="679,93,873,135"/>
+<area shape="rect" id="node5" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title=" " alt="" coords="925,5,1135,47"/>
+<area shape="rect" id="node6" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title=" " alt="" coords="930,71,1130,98"/>
+</map>

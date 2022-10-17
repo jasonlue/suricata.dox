@@ -1,0 +1,6 @@
+<map id="FlowQueueInit" name="FlowQueueInit">
+<area shape="rect" id="node1" title=" " alt="" coords="300,31,407,57"/>
+<area shape="rect" id="node2" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="141,5,248,32"/>
+<area shape="rect" id="node4" href="$flow-queue_8c.html#a2ae6bc6a4889fbd95e6a92a0a15b7f1f" title=" " alt="" coords="137,56,252,83"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="5,5,89,32"/>
+</map>

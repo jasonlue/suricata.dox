@@ -1,0 +1,5 @@
+<map id="SCCreateDirectoryTree" name="SCCreateDirectoryTree">
+<area shape="rect" id="node1" title="Recursively create a directory." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$util-path_8c.html#ab71174ee7d610788fac2fa67a8b7f21e" title="Wrapper around SCMkDir with default mode arguments." alt="" coords="212,5,331,32"/>
+<area shape="rect" id="node3" href="$util-strlcpyu_8c.html#aeb79f86261de904967d433c1b5e9a1de" title=" " alt="" coords="241,56,302,83"/>
+</map>

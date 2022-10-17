@@ -1,0 +1,5 @@
+<map id="ConfInit" name="ConfInit">
+<area shape="rect" id="node1" title="Initialize the configuration system." alt="" coords="352,5,420,32"/>
+<area shape="rect" id="node2" href="$suricata_8c.html#a1948f1faa49310f4d195883b8d75befd" title="Global initialization common to all runmodes." alt="" coords="227,5,304,32"/>
+<area shape="rect" id="node3" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="5,5,179,32"/>
+</map>

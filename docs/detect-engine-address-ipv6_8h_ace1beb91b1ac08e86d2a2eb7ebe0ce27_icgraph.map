@@ -1,0 +1,8 @@
+<map id="AddressIPv6Gt" name="AddressIPv6Gt">
+<area shape="rect" id="node1" title="Compares 2 ipv6 addresses and returns if the first address(a) is greater than the second address(b) o..." alt="" coords="824,31,935,57"/>
+<area shape="rect" id="node2" href="$detect-engine-address-ipv6_8c.html#a79be8c394b318b5fd794c752c3b1b6e9" title="Compares 2 ipv6 addresses and returns if the first address(a) is greater than or equal to the second ..." alt="" coords="661,5,776,32"/>
+<area shape="rect" id="node3" href="$detect-engine-address-ipv6_8c.html#ae3569606f5343ef35de4b3a3b7db157f" title="Compares 2 addresses(address ranges) and returns the relationship between the 2 addresses." alt="" coords="449,31,613,57"/>
+<area shape="rect" id="node4" href="$detect-engine-address_8c.html#a343973c15967dc80202c9a3efa608dd2" title="Used to compare 2 address ranges." alt="" coords="254,5,391,32"/>
+<area shape="rect" id="node6" href="$detect-engine-address-ipv6_8c.html#a8123766337559b01ada34dfea61323e4" title=" " alt="" coords="244,56,401,83"/>
+<area shape="rect" id="node5" href="$detect-engine-address_8c.html#ad4cac8db3041b25f76aa3d6c728240a1" title="Checks if two address group lists are equal." alt="" coords="5,5,196,32"/>
+</map>

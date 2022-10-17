@@ -1,0 +1,10 @@
+<map id="PacketPoolWait" name="PacketPoolWait">
+<area shape="rect" id="node1" title=" " alt="" coords="849,71,964,98"/>
+<area shape="rect" id="node2" href="$flow-timeout_8c.html#a3c1e9e5229e4ffacc9827db5a6de93a2" title=" " alt="" coords="601,5,801,47"/>
+<area shape="rect" id="node3" href="$source-erf-file_8c.html#ac0c39d17d88901a47a891a8c36ee7f80" title="ERF file reading loop." alt="" coords="633,71,769,98"/>
+<area shape="rect" id="node7" href="$source-pfring_8c.html#a167659c0da5f077f562bca0ef8acc47c" title="Recieves packets from an interface via libpfring." alt="" coords="635,122,767,149"/>
+<area shape="rect" id="node4" href="$source-erf-file_8c.html#aa33fce1981c0cd8d648f1a1beeab14cd" title="Register the ERF file receiver (reader) module." alt="" coords="335,71,553,98"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,97,287,123"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,97,104,123"/>
+<area shape="rect" id="node8" href="$source-pfring_8c.html#a9de1117ec94d507f460b0ae08ac9036f" title="Registration Function for RecievePfring." alt="" coords="337,122,551,149"/>
+</map>

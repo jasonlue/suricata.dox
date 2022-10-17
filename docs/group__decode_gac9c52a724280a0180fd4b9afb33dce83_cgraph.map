@@ -1,0 +1,10 @@
+<map id="PacketDefragPktSetup" name="PacketDefragPktSetup">
+<area shape="rect" id="node1" title="Setup a pseudo packet (reassembled frags)" alt="" coords="5,56,161,83"/>
+<area shape="rect" id="node2" href="$group__decode.html#ga770e739385ab300a93b3b8b6ad397c6c" title="Copy data to Packet payload and set packet length." alt="" coords="245,19,368,45"/>
+<area shape="rect" id="node4" href="$group__decode.html#ga16dce3a48e71dd5b13fb4c401f5f4a9c" title="Get a packet. We try to get a packet from the packetpool first, but if that is empty we alloc a packe..." alt="" coords="209,81,404,108"/>
+<area shape="rect" id="node3" href="$group__decode.html#ga6a92ae57f13829a510065b4d9778e9ab" title="Copy data to Packet payload at given offset." alt="" coords="457,5,616,32"/>
+<area shape="rect" id="node5" href="$group__decode.html#ga6b3bb631b851b9984a67cc19a40ea183" title="Get a malloced packet." alt="" coords="465,56,608,83"/>
+<area shape="rect" id="node7" href="$tmqh-packetpool_8c.html#a3933faec8b723a5f7192f30573e85647" title="Get a new packet from the packet pool." alt="" coords="461,107,612,133"/>
+<area shape="rect" id="node8" href="$tmqh-packetpool_8c.html#aecfd7fbbc040386dbe6546236b7d20b7" title="Return packet to Packet pool." alt="" coords="452,157,621,184"/>
+<area shape="rect" id="node6" href="$group__decode.html#gadbb7a223135dab327a0f78a96f931889" title="Return a malloced packet." alt="" coords="669,56,759,83"/>
+</map>

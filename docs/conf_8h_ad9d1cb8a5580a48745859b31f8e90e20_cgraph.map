@@ -1,0 +1,6 @@
+<map id="ConfGetChildValueBool" name="ConfGetChildValueBool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a5815fbfe5cf14367e184e78c46bcff55" title=" " alt="" coords="212,5,345,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="226,56,331,83"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a8b6a513ab4ef3a716bddf0ff03ad5c17" title="Lookup a child configuration node by name." alt="" coords="393,5,547,32"/>
+</map>

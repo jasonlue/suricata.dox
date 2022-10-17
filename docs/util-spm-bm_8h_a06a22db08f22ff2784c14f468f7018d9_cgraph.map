@@ -1,0 +1,5 @@
+<map id="BoyerMooreNocaseCtxInit" name="BoyerMooreNocaseCtxInit">
+<area shape="rect" id="node1" title="Setup a Booyer Moore context for nocase search." alt="" coords="5,31,181,57"/>
+<area shape="rect" id="node2" href="$util-spm-bm_8c.html#adb7aed6a8ff2b88efa60c29fb32e9e55" title="Setup a Booyer Moore context." alt="" coords="250,5,381,32"/>
+<area shape="rect" id="node3" href="$util-spm-bm_8c.html#a3547420c83def4a1ebe21cf45261231d" title="Given a BmCtx structure, recreate the pre/suffixes for nocase." alt="" coords="229,56,401,83"/>
+</map>

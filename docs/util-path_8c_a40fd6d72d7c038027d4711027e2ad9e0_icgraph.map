@@ -1,0 +1,4 @@
+<map id="SCRealPath" name="SCRealPath">
+<area shape="rect" id="node1" title="OS independent wrapper for realpath." alt="" coords="127,5,221,32"/>
+<area shape="rect" id="node2" href="$util-path_8c.html#ac5aed197249084ace1fedbfaed22a694" title="Wrapper to join a directory and filename and resolve using realpath _fullpath is used for WIN32." alt="" coords="5,5,79,32"/>
+</map>

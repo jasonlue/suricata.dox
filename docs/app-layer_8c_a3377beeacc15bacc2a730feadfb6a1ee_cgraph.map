@@ -1,0 +1,9 @@
+<map id="AppLayerRegisterGlobalCounters" name="AppLayerRegisterGlobalCounters">
+<area shape="rect" id="node1" title="HACK to work around our broken unix manager (re)init loop." alt="" coords="5,132,221,159"/>
+<area shape="rect" id="node2" href="$group__applayerexpectation.html#ga58b62836a5fee74b44bbc864ce144e28" title=" " alt="" coords="283,5,441,32"/>
+<area shape="rect" id="node3" href="$app-layer-ftp_8c.html#a0366b50ea8ac3b50539fbdb4e0fff9b0" title=" " alt="" coords="272,56,452,83"/>
+<area shape="rect" id="node4" href="$app-layer-ftp_8c.html#a966b74dce822c41fadacabe8b7b51291" title=" " alt="" coords="272,107,452,133"/>
+<area shape="rect" id="node5" href="$app-layer-htp-mem_8c.html#add72a83512e8729be4411e45e74d4bb7" title=" " alt="" coords="271,157,453,184"/>
+<area shape="rect" id="node6" href="$app-layer-htp-mem_8c.html#a25a1fa3240cf9c23b603a3b8c45b888c" title=" " alt="" coords="271,208,453,235"/>
+<area shape="rect" id="node7" href="$counters_8c.html#a0b4b823840740fcac708efae053ebd48" title="Registers a counter, which represents a global value." alt="" coords="269,259,455,285"/>
+</map>

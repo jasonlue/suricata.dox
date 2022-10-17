@@ -1,0 +1,11 @@
+<map id="HttpRangeContainerBlock" name="HttpRangeContainerBlock">
+<area shape="rect" id="node1" title=" " alt="" coords="199,469,374,496"/>
+<area shape="rect" id="node2" href="$structHttpRangeContainerBuffer.html" title=" " alt="" coords="5,380,181,407"/>
+<area shape="rect" id="node3" href="$structHttpRangeContainerFile.html" title=" " alt="" coords="205,380,368,407"/>
+<area shape="rect" id="node4" href="$structTHashData__.html" title=" " alt="" coords="189,289,285,316"/>
+<area shape="rect" id="node5" href="$structFileContainer__.html" title=" " alt="" coords="363,289,469,316"/>
+<area shape="rect" id="node6" href="$structFile__.html" title=" " alt="" coords="391,184,441,211"/>
+<area shape="rect" id="node7" href="$structStreamingBuffer__.html" title=" " alt="" coords="355,95,477,121"/>
+<area shape="rect" id="node8" href="$structStreamingBufferConfig__.html" title=" " alt="" coords="246,5,407,32"/>
+<area shape="rect" id="node9" href="$structStreamingBufferBlock.html" title="block of continues data" alt="" coords="432,5,581,32"/>
+</map>

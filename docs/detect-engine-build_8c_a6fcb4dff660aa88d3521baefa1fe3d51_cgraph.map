@@ -1,0 +1,12 @@
+<map id="SigGroupCleanup" name="SigGroupCleanup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,129,83"/>
+<area shape="rect" id="node2" href="$detect-engine-build_8c.html#af652b57009cbaba3f977aad7ae3eca22" title=" " alt="" coords="177,56,356,83"/>
+<area shape="rect" id="node3" href="$detect-engine-port_8c.html#a78c538226091fec2c564435fd6a5c4e7" title="Free a DetectPort list and each of its members." alt="" coords="404,5,559,32"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#acf6ad1678226c38239ab82f1cd538080" title="Free a SigGroupHead and its members." alt="" coords="837,31,971,57"/>
+<area shape="rect" id="node9" href="$detect-engine-iponly_8c.html#a0c0b95d541d4fce5651f48dd769b776b" title="Deinitialize the IP Only detection engine context." alt="" coords="433,107,529,133"/>
+<area shape="rect" id="node4" href="$detect-engine-port_8c.html#ae96972ca228801905894d537db83aab0" title="Free a DetectPort and its members." alt="" coords="643,5,753,32"/>
+<area shape="rect" id="node6" href="$detect-engine-prefilter_8c.html#ae6244a085eb4b028acdd90c832823554" title=" " alt="" coords="1019,5,1197,32"/>
+<area shape="rect" id="node7" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title=" " alt="" coords="1019,56,1197,83"/>
+<area shape="rect" id="node8" href="$detect-engine-prefilter_8c.html#ad62899ab67b7849e97c7abe7cc8ea2e1" title=" " alt="" coords="1245,56,1407,83"/>
+<area shape="rect" id="node10" href="$util-radix-tree_8c.html#a0ee09f7331d9312ab5b52d84dae9b44b" title="Frees a Radix tree and all its nodes." alt="" coords="607,107,789,133"/>
+</map>

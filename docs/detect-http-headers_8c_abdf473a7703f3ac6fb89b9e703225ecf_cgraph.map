@@ -1,0 +1,12 @@
+<map id="DetectHttpHeadersRegister" name="DetectHttpHeadersRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,189,235"/>
+<area shape="rect" id="node2" href="$detect-http-accept_8c.html#a1879777bb8356426d2d316f9e5e1976f" title=" " alt="" coords="253,5,440,32"/>
+<area shape="rect" id="node3" href="$detect-http-accept-enc_8c.html#ab6543dc41a4faf8b07241d941d6ee332" title=" " alt="" coords="242,56,451,83"/>
+<area shape="rect" id="node4" href="$detect-http-accept-lang_8c.html#a7d5dcf21f84d1538b3320904c8fdb058" title=" " alt="" coords="239,107,454,133"/>
+<area shape="rect" id="node5" href="$detect-http-connection_8c.html#a20c7247f3039bb09e87c822e29a302ff" title=" " alt="" coords="241,157,452,184"/>
+<area shape="rect" id="node6" href="$detect-http-content-len_8c.html#a4ed0324110ffb0f09a605627fab638f5" title=" " alt="" coords="241,208,453,235"/>
+<area shape="rect" id="node7" href="$detect-http-content-type_8c.html#ab3d4f1807069ae3107c1c3240d756f8a" title=" " alt="" coords="237,259,456,285"/>
+<area shape="rect" id="node8" href="$detect-http-location_8c.html#a4876da7981324275d7bcd0103a19b6a9" title=" " alt="" coords="249,309,444,336"/>
+<area shape="rect" id="node9" href="$detect-http-referer_8c.html#a92fdcbab5ab83923067967887c5ae338" title=" " alt="" coords="253,360,441,387"/>
+<area shape="rect" id="node10" href="$detect-http-server_8c.html#a02dcf6ae9693792870a6a4c088b0f918" title=" " alt="" coords="255,411,438,437"/>
+</map>

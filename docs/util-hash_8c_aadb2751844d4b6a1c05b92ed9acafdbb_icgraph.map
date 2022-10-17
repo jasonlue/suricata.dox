@@ -1,0 +1,6 @@
+<map id="HashTableLookup" name="HashTableLookup">
+<area shape="rect" id="node1" title=" " alt="" coords="236,56,363,83"/>
+<area shape="rect" id="node2" href="$util-classification-config_8c.html#ac0efccd463f4e6a1b1073b7ef2ce3e44" title="Gets the classtype from the corresponding hash table stored in the Detection Engine Context&#39;s class c..." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node3" href="$util-proto-name_8c.html#a5810e465f409cd3d505a5c7d98935646" title="Function to return the protocol number for a named protocol. Note that protocol name aliases are hono..." alt="" coords="25,56,169,83"/>
+<area shape="rect" id="node4" href="$util-reference-config_8c.html#acc9762a13f2ae74f420a865e203fbf88" title="Gets the reference config from the corresponding hash table stored in the Detection Engine Context&#39;s ..." alt="" coords="17,107,177,133"/>
+</map>

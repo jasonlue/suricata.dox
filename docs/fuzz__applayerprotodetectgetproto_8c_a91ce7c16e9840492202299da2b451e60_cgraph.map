@@ -1,0 +1,52 @@
+<map id="LLVMFuzzerTestOneInput" name="LLVMFuzzerTestOneInput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,366,179,393"/>
+<area shape="rect" id="node2" href="$app-layer-parser_8c.html#ac5c64e1bddd13fdc99168538935cfab5" title=" " alt="" coords="227,5,439,47"/>
+<area shape="rect" id="node3" href="$app-layer-parser_8c.html#ae67b474883794b3f9440f4efa22b1cdc" title=" " alt="" coords="258,71,407,98"/>
+<area shape="rect" id="node4" href="$app-layer-detect-proto_8c.html#a56a48d357c05d7cfe483a1a213444664" title="Inits and returns an app layer protocol detection thread context." alt="" coords="238,123,427,164"/>
+<area shape="rect" id="node5" href="$app-layer-detect-proto_8c.html#a4989411e8dbb5910c5db7591fda2558f" title="Returns the app layer protocol given a buffer." alt="" coords="233,189,432,215"/>
+<area shape="rect" id="node6" href="$app-layer-detect-proto_8c.html#a5bbd48216b90ecdce41577a8c43f86ad" title="Reset proto detect for flow." alt="" coords="241,239,424,266"/>
+<area shape="rect" id="node7" href="$app-layer-detect-proto_8c.html#a61db7c59a74519fe05cc3a9d86781385" title="The first function to be called. This initializes a global protocol detection context." alt="" coords="242,290,423,317"/>
+<area shape="rect" id="node8" href="$app-layer-protos_8c.html#ae3d7fd74b77d7dde80014d862d0de94d" title="Maps the ALPROTO_*, to its string equivalent." alt="" coords="271,341,395,367"/>
+<area shape="rect" id="node9" href="$conf-yaml-loader_8c.html#a76daf2895dcd6be8304bba80d0240a2f" title="Load configuration from a YAML string." alt="" coords="262,391,403,418"/>
+<area shape="rect" id="node10" href="$flow-util_8c.html#ae5fdd38c5ca6851df9ce87aee016ba54" title="cleanup &amp; free the memory of a flow" alt="" coords="295,442,371,469"/>
+<area shape="rect" id="node13" href="$flow-util_8c.html#a897ee3b52fa7876e9780704dbc2d1b11" title="Function to map the protocol to the defined FLOW_PROTO_* enumeration." alt="" coords="257,493,408,519"/>
+<area shape="rect" id="node14" href="$suricata_8c.html#a1948f1faa49310f4d195883b8d75befd" title="Global initialization common to all runmodes." alt="" coords="294,543,371,570"/>
+<area shape="rect" id="node22" href="$util-mpm_8c.html#a5f2c4e8d699ef7a5562674a6de86a66e" title=" " alt="" coords="275,1025,391,1051"/>
+<area shape="rect" id="node47" href="$util-spm_8c.html#a9d6b37d620d9ae3bfaf7719d1af337d3" title=" " alt="" coords="275,1126,390,1153"/>
+<area shape="rect" id="node50" href="$util-unittest-helper_8c.html#aa11da7563fc8b2d6703f4b9f986eee6d" title=" " alt="" coords="261,1177,404,1203"/>
+<area shape="rect" id="node11" href="$flow-storage_8c.html#addf24d1bbb0b9771b4f27286db99a5dd" title=" " alt="" coords="521,290,643,317"/>
+<area shape="rect" id="node12" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers" alt="" coords="761,265,875,291"/>
+<area shape="rect" id="node15" href="$conf_8c.html#a7231653563046821c8f0152f93663f8d" title="Initialize the configuration system." alt="" coords="548,366,616,393"/>
+<area shape="rect" id="node16" href="$util-misc_8c.html#afb7b6240538cddcfd6299d7cdff8c315" title=" " alt="" coords="532,417,632,443"/>
+<area shape="rect" id="node17" href="$runmodes_8c.html#aa5565123b11fa026e96b91b23db91ba9" title="Register all runmodes in the engine." alt="" coords="487,467,677,494"/>
+<area shape="rect" id="node18" href="$util-debug_8c.html#ad0ae5299b532e3c22e5462ff03405626" title="Initializes the logging module." alt="" coords="511,518,653,545"/>
+<area shape="rect" id="node20" href="$util-signal_8c.html#ace72889703113c3d3185d67fc715461e" title=" " alt="" coords="527,569,637,595"/>
+<area shape="rect" id="node21" href="$util-signal_8c.html#ab0d6b12cf553b5f4a1a10f21851f15eb" title=" " alt="" coords="503,619,661,646"/>
+<area shape="rect" id="node19" href="$util-debug_8c.html#a4120eb93b545ac44a94f9ea18fa0cdfe" title="De&#45;Initializes the logging module." alt="" coords="738,315,898,342"/>
+<area shape="rect" id="node23" href="$util-mpm-ac-bs_8c.html#a22de57c9b7a55397ca9f134e6eaec659" title="Register the aho&#45;corasick mpm." alt="" coords="513,670,651,697"/>
+<area shape="rect" id="node35" href="$util-mpm-ac_8c.html#a5ba1adcb60b0bb61538bb6e8420a9def" title="Register the aho&#45;corasick mpm." alt="" coords="523,1025,641,1051"/>
+<area shape="rect" id="node45" href="$util-mpm-ac-ks_8c.html#a240c279a6310cc578d930d2f07fabc57" title="Register the aho&#45;corasick mpm &#39;ks&#39; originally developed by Ken Steele for Tilera Tile&#45;Gx processor." alt="" coords="512,1075,652,1102"/>
+<area shape="rect" id="node46" href="$util-mpm-hs_8h.html#ac762f4c0b2f5799c7cfafc7f3cd58ad7" title=" " alt="" coords="523,1126,641,1153"/>
+<area shape="rect" id="node24" href="$util-mpm-ac-bs_8c.html#ae78e7fcd3c52d7f1bc96e637ca81db17" title="Add a case insensitive pattern. Although we have different calls for adding case sensitive and insens..." alt="" coords="739,366,897,393"/>
+<area shape="rect" id="node25" href="$util-mpm-ac-bs_8c.html#ad75c199beeb3bbbf2b6d72c5d8c67ce6" title="Add a case sensitive pattern. Although we have different calls for adding case sensitive and insensit..." alt="" coords="737,417,899,443"/>
+<area shape="rect" id="node26" href="$util-mpm-ac-bs_8c.html#ae93792af4638e356fa1c1ff0fecacadb" title="Destroy the mpm context." alt="" coords="745,467,891,494"/>
+<area shape="rect" id="node27" href="$util-mpm-ac-bs_8c.html#af4eb9cf99d1861df6bd28a626a4648dc" title="Destroy the mpm thread context." alt="" coords="725,518,911,545"/>
+<area shape="rect" id="node28" href="$util-mpm-ac-bs_8c.html#ae40b6035bb62a6f060d01d8ecc5591ba" title=" " alt="" coords="959,543,1136,570"/>
+<area shape="rect" id="node29" href="$util-mpm-ac-bs_8c.html#a7d6585806169754a94a2215d0ed25ac7" title="Initialize the AC context." alt="" coords="759,619,877,646"/>
+<area shape="rect" id="node30" href="$util-mpm-ac-bs_8c.html#a89a107a2139ac42268ca8cb4014b0472" title="Init the mpm thread context." alt="" coords="739,670,897,697"/>
+<area shape="rect" id="node31" href="$util-mpm-ac-bs_8c.html#ac54be992eaec493c0ad68d0e6254822b" title="Process the patterns added to the mpm, and create the internal tables." alt="" coords="732,721,904,747"/>
+<area shape="rect" id="node32" href="$util-mpm-ac-bs_8c.html#a9423ae70b9c6c3c429d0b9025cbb8fe6" title=" " alt="" coords="755,771,881,798"/>
+<area shape="rect" id="node33" href="$util-mpm-ac-bs_8c.html#ae2f483a4c9ff3865f26c0fb817e5b05a" title=" " alt="" coords="739,822,897,849"/>
+<area shape="rect" id="node34" href="$util-mpm-ac-bs_8c.html#ad8a38bddf0df959f3690a4dbd5e99e2e" title="The aho corasick search function." alt="" coords="759,873,877,899"/>
+<area shape="rect" id="node36" href="$util-mpm-ac_8c.html#a718d6e498016a625ba2e32a8f9fdad49" title="Add a case insensitive pattern. Although we have different calls for adding case sensitive and insens..." alt="" coords="749,923,887,950"/>
+<area shape="rect" id="node37" href="$util-mpm-ac_8c.html#aafa7a898c9323f195c065038619371e4" title="Add a case sensitive pattern. Although we have different calls for adding case sensitive and insensit..." alt="" coords="746,974,890,1001"/>
+<area shape="rect" id="node38" href="$util-mpm-ac_8c.html#a3fb2738efaacd0beaa79d7977168ca40" title="Destroy the mpm context." alt="" coords="755,1025,881,1051"/>
+<area shape="rect" id="node39" href="$util-mpm-ac_8c.html#a9685cf4dfb44dc529e2eec05d685375f" title="Destroy the mpm thread context." alt="" coords="735,1075,901,1102"/>
+<area shape="rect" id="node40" href="$util-mpm-ac_8c.html#ac77c304a21a3f4072464bccd1a6a6bfb" title=" " alt="" coords="968,1101,1127,1127"/>
+<area shape="rect" id="node41" href="$util-mpm-ac_8c.html#ae04a4fce1633a2e9b1d7559bb8530a44" title="Initialize the AC context." alt="" coords="769,1177,867,1203"/>
+<area shape="rect" id="node42" href="$util-mpm-ac_8c.html#aef9632504a2c0c2e1054dcbca84d67c0" title="Init the mpm thread context." alt="" coords="749,1227,887,1254"/>
+<area shape="rect" id="node43" href="$util-mpm-ac_8c.html#aa20e06b0c34cfad5e613b97b926e8a0d" title="Process the patterns added to the mpm, and create the internal tables." alt="" coords="741,1278,895,1305"/>
+<area shape="rect" id="node44" href="$util-mpm-ac_8c.html#a2b26b18ade3acfc92a98cca6ac159d7e" title=" " alt="" coords="763,1329,873,1355"/>
+<area shape="rect" id="node48" href="$util-spm-bm_8c.html#ae71d16567ff66ee154967d0551799b7a" title=" " alt="" coords="523,1177,641,1203"/>
+<area shape="rect" id="node49" href="$util-spm-hs_8h.html#afb9102649584241d2302970423977f9e" title=" " alt="" coords="523,1227,641,1254"/>
+</map>

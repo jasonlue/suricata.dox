@@ -1,0 +1,5 @@
+<map id="BoyerMooreCtxDeInit" name="BoyerMooreCtxDeInit">
+<area shape="rect" id="node1" title="Free the memory allocated to Booyer Moore context." alt="" coords="232,31,380,57"/>
+<area shape="rect" id="node2" href="$util-spm_8c.html#a7134f85eefb8fc1b526e2a4fd04ff6e3" title="Search a pattern in the text using Boyer Moore nocase algorithm (build a bad character shifts array a..." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$util-spm_8c.html#ab66098e6a3871d37e8da1f7f43458e5f" title="Search a pattern in the text using Boyer Moore algorithm (build a bad character shifts array and good..." alt="" coords="28,56,161,83"/>
+</map>

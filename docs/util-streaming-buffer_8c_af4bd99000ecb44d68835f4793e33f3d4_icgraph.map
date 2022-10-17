@@ -1,0 +1,12 @@
+<map id="StreamingBufferClear" name="StreamingBufferClear">
+<area shape="rect" id="node1" title=" " alt="" coords="707,56,853,83"/>
+<area shape="rect" id="node2" href="$util-streaming-buffer_8c.html#a7773603fb8531bca65045fced3d17180" title=" " alt="" coords="500,5,643,32"/>
+<area shape="rect" id="node4" href="$stream-tcp-list_8c.html#afe50d83dc6803121f9a01ed920e7f6b1" title="Remove idle TcpSegments from TcpSession." alt="" coords="489,56,654,83"/>
+<area shape="rect" id="node5" href="$stream-tcp_8c.html#a68329a480b2477950361537db68d8b45" title=" " alt="" coords="484,107,659,133"/>
+<area shape="rect" id="node3" href="$group__httplayer.html#ga4e4c23379c2cae52909e781908f9be45" title="Free the information held in the request body." alt="" coords="297,5,396,32"/>
+<area shape="rect" id="node6" href="$stream-tcp_8c.html#a26df002d4d76e0bf27433b289b1ca83a" title="Session cleanup function. Does not free the ssn." alt="" coords="257,81,436,108"/>
+<area shape="rect" id="node10" href="$stream-tcp-util_8c.html#a92fbdb23e38878f63a4343951b9edcc7" title=" " alt="" coords="259,132,434,159"/>
+<area shape="rect" id="node7" href="$stream-tcp_8c.html#add92e80f13e88362630ba978ac24c241" title="Function to return the stream back to the pool. It returns the segments in the stream to the segment ..." alt="" coords="26,31,189,57"/>
+<area shape="rect" id="node8" href="$stream-tcp-util_8c.html#a5bef4b33daf7e346128f449273fadda9" title=" " alt="" coords="17,132,197,159"/>
+<area shape="rect" id="node9" href="$util-unittest-helper_8c.html#a31d5cbb8fdc195d4ab561829b3459e77" title=" " alt="" coords="5,81,209,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LiveRegisterDevice" name="LiveRegisterDevice">
+<area shape="rect" id="node1" title="Add a pcap device for monitoring and create structure." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$device-storage_8c.html#ac7cbb016b44a82735dd9ab12a985cfb2" title=" " alt="" coords="189,5,331,32"/>
+<area shape="rect" id="node3" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers" alt="" coords="379,5,493,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AppLayerProtoDetectConfProtoDetectionEnabledDefault" name="AppLayerProtoDetectConfProtoDetectionEnabledDefault">
+<area shape="rect" id="node1" title="Given a protocol name, checks if proto detection is enabled in the conf file." alt="" coords="5,74,212,115"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="280,5,383,32"/>
+<area shape="rect" id="node3" href="$conf_8c.html#abc921a7338a381476e9e40a10e2d543c" title="Check if a value is false." alt="" coords="276,56,387,83"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="279,107,384,133"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aea038f0105b5e6a67a1bf32d2ccf463c" title=" " alt="" coords="260,157,403,184"/>
+</map>

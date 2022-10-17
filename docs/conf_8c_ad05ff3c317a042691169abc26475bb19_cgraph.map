@@ -1,0 +1,6 @@
+<map id="ConfGetBool" name="ConfGetBool">
+<area shape="rect" id="node1" title="Retrieve a configuration value as an boolen." alt="" coords="5,31,103,57"/>
+<area shape="rect" id="node2" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="168,5,239,32"/>
+<area shape="rect" id="node4" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="151,56,256,83"/>
+<area shape="rect" id="node3" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="304,5,407,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="StreamTcpGetSegment" name="StreamTcpGetSegment">
+<area shape="rect" id="node1" title="get a segment from the pool" alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$group__utilpool.html#gabe3fd07a4b08ea4aa17e13b24ece9dbf" title="get data from thread pool by thread id" alt="" coords="211,5,347,32"/>
+<area shape="rect" id="node3" href="$group__utilpool.html#gad4b84b453b8cedd3653231a405f2d0b9" title=" " alt="" coords="395,5,464,32"/>
+</map>

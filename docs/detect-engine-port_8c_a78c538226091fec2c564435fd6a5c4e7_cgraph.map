@@ -1,0 +1,8 @@
+<map id="DetectPortCleanupList" name="DetectPortCleanupList">
+<area shape="rect" id="node1" title="Free a DetectPort list and each of its members." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#ae96972ca228801905894d537db83aab0" title="Free a DetectPort and its members." alt="" coords="208,31,319,57"/>
+<area shape="rect" id="node3" href="$detect-engine-siggroup_8c.html#acf6ad1678226c38239ab82f1cd538080" title="Free a SigGroupHead and its members." alt="" coords="367,31,500,57"/>
+<area shape="rect" id="node4" href="$detect-engine-prefilter_8c.html#ae6244a085eb4b028acdd90c832823554" title=" " alt="" coords="549,5,726,32"/>
+<area shape="rect" id="node5" href="$detect-engine-siggroup_8c.html#a6f6c71bc5fff7f350d164523257ebed1" title=" " alt="" coords="548,56,727,83"/>
+<area shape="rect" id="node6" href="$detect-engine-prefilter_8c.html#ad62899ab67b7849e97c7abe7cc8ea2e1" title=" " alt="" coords="775,56,936,83"/>
+</map>

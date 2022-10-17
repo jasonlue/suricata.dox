@@ -1,0 +1,29 @@
+<map id="TmModuleDecodePfringRegister" name="TmModuleDecodePfringRegister">
+<area shape="rect" id="node1" title="Registration Function for DecodePfring." alt="" coords="5,182,216,209"/>
+<area shape="rect" id="node2" href="$source-pfring_8c.html#a1760d0c02c83ffe55444d4a8ebc9852a" title="This function passes off to link type decoders." alt="" coords="301,81,402,108"/>
+<area shape="rect" id="node9" href="$source-pfring_8c.html#a87b1c0c7fe35d1fce94ad778f80fd5b3" title=" " alt="" coords="264,182,439,209"/>
+<area shape="rect" id="node17" href="$source-pfring_8c.html#a6f958e30479e0f2e68bef198a272dd0c" title="This an Init function for DecodePfring." alt="" coords="272,233,431,260"/>
+<area shape="rect" id="node3" href="$decode-ethernet_8c.html#a162885a620b041a17a6b6e7f446efd78" title=" " alt="" coords="530,81,646,108"/>
+<area shape="rect" id="node4" href="$counters_8c.html#aec6ddff16e99087dbf6c4b13f7aa5ab6" title="Increments the local counter." alt="" coords="787,30,861,57"/>
+<area shape="rect" id="node5" href="$group__decode.html#ga80f244d5793581bd92abab9e8f83ef0c" title=" " alt="" coords="487,132,689,158"/>
+<area shape="rect" id="node8" href="$group__decode.html#ga34b0a10ee3a77793bddbc8f8eceb832f" title="Finalize decoding of a packet." alt="" coords="511,30,665,57"/>
+<area shape="rect" id="node6" href="$counters_8c.html#afe875414dd4620c523f895a83d365c4b" title="Adds a value of type uint64_t to the local counter." alt="" coords="772,132,876,158"/>
+<area shape="rect" id="node7" href="$counters_8c.html#aba1b0562d8156303e65898f0cff186f0" title="Sets a value of type double to the local counter." alt="" coords="773,81,875,108"/>
+<area shape="rect" id="node10" href="$group__decode.html#ga6339c663affee81d94921a3ab2860e15" title=" " alt="" coords="745,182,903,209"/>
+<area shape="rect" id="node11" href="$app-layer_8c.html#ac11ba71f5c16ec06b4e64b61ee86a5d6" title="Destroys the context created by AppLayeGetCtxThread()." alt="" coords="969,225,1153,252"/>
+<area shape="rect" id="node16" href="$output-flow_8c.html#a4435c7a5c922d293aaecf43a6d7f2b0c" title=" " alt="" coords="969,174,1153,201"/>
+<area shape="rect" id="node12" href="$app-layer-parser_8c.html#a5ea726897ab9fae1e13724d7a342de1b" title="Destroys the app layer parser thread context obtained using AppLayerParserThreadCtxAlloc()." alt="" coords="1212,166,1415,193"/>
+<area shape="rect" id="node15" href="$app-layer-detect-proto_8c.html#af925107e0ba823688508c7c03cacc920" title="Destroys the app layer protocol detection thread context." alt="" coords="1217,218,1410,259"/>
+<area shape="rect" id="node13" href="$app-layer-parser_8c.html#a55c82f8c0b2de8f7a7af6ff13b3ccc61" title=" " alt="" coords="1463,159,1672,200"/>
+<area shape="rect" id="node14" href="$flow-util_8c.html#a2258030b58194ee63d15a17a9b4a5384" title=" " alt="" coords="1467,254,1667,281"/>
+<area shape="rect" id="node18" href="$group__decode.html#ga30a380d9d448ff265b6b9d5d3f81d4e4" title=" " alt="" coords="491,360,685,386"/>
+<area shape="rect" id="node22" href="$group__decode.html#ga4e66326ead5bda487b45dbfab8c8058e" title="Alloc and setup DecodeThreadVars." alt="" coords="507,233,669,260"/>
+<area shape="rect" id="node19" href="$counters_8c.html#afb3a045cd04fe1caf7b44003d3cd2c73" title="Registers a counter, whose value holds the average of all the values assigned to it." alt="" coords="739,385,909,412"/>
+<area shape="rect" id="node20" href="$counters_8c.html#a95abbd8272502dc1a4f355fb4d672a75" title="Registers a normal, unqualified counter." alt="" coords="750,436,898,462"/>
+<area shape="rect" id="node21" href="$counters_8c.html#a7b27df2158146dd499e560db9cdfae21" title="Registers a counter, whose value holds the maximum of all the values assigned to it." alt="" coords="737,334,911,361"/>
+<area shape="rect" id="node23" href="$app-layer_8c.html#a0a0e638b06f49c80ad35efdf473f6556" title="Creates a new app layer thread context." alt="" coords="745,284,903,310"/>
+<area shape="rect" id="node27" href="$output-flow_8c.html#a25446d9a0b1e4fcc38d013d55288c1fa" title="thread init for the flow logger This will run the thread init functions for the individual registered..." alt="" coords="740,233,908,260"/>
+<area shape="rect" id="node24" href="$app-layer-parser_8c.html#a400a9d5e447fc436600350bdb157a64c" title="Gets a new app layer protocol&#39;s parser thread context." alt="" coords="959,284,1164,310"/>
+<area shape="rect" id="node26" href="$app-layer-detect-proto_8c.html#a56a48d357c05d7cfe483a1a213444664" title="Inits and returns an app layer protocol detection thread context." alt="" coords="967,335,1156,376"/>
+<area shape="rect" id="node25" href="$app-layer-parser_8c.html#a9f308874dc34fb891799d99c9beb7a84" title=" " alt="" coords="1221,335,1405,376"/>
+</map>

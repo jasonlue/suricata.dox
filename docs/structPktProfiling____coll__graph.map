@@ -1,0 +1,8 @@
+<map id="PktProfiling_" name="PktProfiling_">
+<area shape="rect" id="node1" title="Per pkt stats storage." alt="" coords="284,107,380,133"/>
+<area shape="rect" id="node2" href="$structPktProfilingTmmData__.html" title="Per TMM stats storage." alt="" coords="9,5,164,32"/>
+<area shape="rect" id="node3" href="$structPktProfilingData__.html" title=" " alt="" coords="25,56,149,83"/>
+<area shape="rect" id="node4" href="$structPktProfilingAppData__.html" title=" " alt="" coords="13,107,160,133"/>
+<area shape="rect" id="node5" href="$structPktProfilingDetectData__.html" title=" " alt="" coords="5,157,168,184"/>
+<area shape="rect" id="node6" href="$structPktProfilingLoggerData__.html" title=" " alt="" coords="5,208,168,235"/>
+</map>

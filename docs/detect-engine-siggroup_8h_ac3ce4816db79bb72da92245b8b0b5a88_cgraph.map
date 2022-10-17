@@ -1,0 +1,6 @@
+<map id="SigGroupHeadSetFileHashFlag" name="SigGroupHeadSetFileHashFlag">
+<area shape="rect" id="node1" title="Set the need hash flag in the sgh." alt="" coords="5,56,209,83"/>
+<area shape="rect" id="node2" href="$detect-engine-build_8c.html#ad53db065fa77e294dcaec1782a12a142" title="Check if a signature contains the filemd5 keyword." alt="" coords="267,5,461,32"/>
+<area shape="rect" id="node3" href="$detect-engine-build_8c.html#aea8346d96a530011074fcdfbc3bbc2fc" title="Check if a signature contains the filesha1 keyword." alt="" coords="265,56,463,83"/>
+<area shape="rect" id="node4" href="$detect-engine-build_8c.html#ad2ba44aec109ad95358e6eac9e9f81da" title="Check if a signature contains the filesha256 keyword." alt="" coords="257,107,471,133"/>
+</map>

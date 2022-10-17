@@ -1,0 +1,5 @@
+<map id="InspectionBufferCheckAndExpand" name="InspectionBufferCheckAndExpand">
+<area shape="rect" id="node1" title="make sure that the buffer has at least &#39;min_size&#39; bytes Expand the buffer if necessary" alt="" coords="211,23,389,65"/>
+<area shape="rect" id="node2" href="$util-file-decompression_8c.html#a1ba28bf8bff630cc6af29a59edf672e6" title="This function decompresses a buffer with zlib/lzma algorithm." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#a0af81c1c4fac69e08ac6ea7fa4218ac2" title=" " alt="" coords="10,56,158,83"/>
+</map>

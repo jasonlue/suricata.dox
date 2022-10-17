@@ -1,0 +1,4 @@
+<map id="SCRadixFindKeyIPV4ExactMatch" name="SCRadixFindKeyIPV4ExactMatch">
+<area shape="rect" id="node1" title="Checks if an IPV4 address is present in the tree." alt="" coords="160,5,383,32"/>
+<area shape="rect" id="node2" href="$detect-engine-iponly_8c.html#a88f55e5a31ac387253943acac946e511" title="Build the radix trees from the lists of parsed addresses in CIDR format the result should be 4 radix ..." alt="" coords="5,5,112,32"/>
+</map>

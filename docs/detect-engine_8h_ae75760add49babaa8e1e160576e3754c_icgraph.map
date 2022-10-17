@@ -1,0 +1,7 @@
+<map id="DetectBufferTypeGetByName" name="DetectBufferTypeGetByName">
+<area shape="rect" id="node1" title=" " alt="" coords="267,107,463,134"/>
+<area shape="rect" id="node2" href="$detect-engine_8c.html#ad6d0b608ffe682a1b6f4e2a8cb0ec8b0" title=" " alt="" coords="20,5,204,47"/>
+<area shape="rect" id="node3" href="$detect-engine_8c.html#a7b29a5c670e6ef4803ecf6f57115d936" title="register inspect engine at start up time" alt="" coords="21,71,203,112"/>
+<area shape="rect" id="node4" href="$detect-engine-mpm_8c.html#ad52ea2dd83f1bc5fa2a63095a77e777d" title="register a MPM engine" alt="" coords="24,137,200,163"/>
+<area shape="rect" id="node5" href="$detect-engine_8c.html#a35513d80f1b9ad36f2ccc0d4befbbeb6" title="register inspect engine at start up time" alt="" coords="5,187,219,214"/>
+</map>

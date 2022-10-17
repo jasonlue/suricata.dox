@@ -1,0 +1,4 @@
+<map id="UTHCheckPacketMatchResults" name="UTHCheckPacketMatchResults">
+<area shape="rect" id="node1" title="UTHCheckPacketMatches: function to check if a packet match some sids." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$detect-engine-alert_8c.html#aa7be8c483cd300583ccce00b1b8502e6" title="Check if a certain sid alerted, this is used in the test functions." alt="" coords="264,5,392,32"/>
+</map>

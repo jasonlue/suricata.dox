@@ -1,0 +1,27 @@
+<map id="UtilCpuGetNumProcessorsConfigured" name="UtilCpuGetNumProcessorsConfigured">
+<area shape="rect" id="node1" title="Get the number of cpus configured in the system." alt="" coords="1288,233,1532,260"/>
+<area shape="rect" id="node2" href="$util-cpu_8c.html#aee62df6f39aaf4f1ab8b11d30fa21ceb" title="Get the number of cpus online in the system." alt="" coords="1021,183,1240,209"/>
+<area shape="rect" id="node25" href="$util-cpu_8c.html#a59e09c5d756d2f85c0f0072b0d1b92da" title="Print a summary of CPUs detected (configured and online)" alt="" coords="791,309,941,336"/>
+<area shape="rect" id="node3" href="$util-affinity_8c.html#a5df95f5dcdc2949007bf96596d0483e9" title="Return next cpu to use for a given thread family." alt="" coords="795,5,937,32"/>
+<area shape="rect" id="node4" href="$util-affinity_8c.html#a19cf04524e2aadd18d2c860788054e94" title=" " alt="" coords="781,56,951,83"/>
+<area shape="rect" id="node5" href="$source-nfq_8c.html#aa0fbb9e6c757e879c32f9bafdbb82d47" title="Add a single Netfilter queue." alt="" coords="797,107,935,133"/>
+<area shape="rect" id="node6" href="$runmode-erf-file_8c.html#a4d406431f0ab63d3143b81d3f600b09a" title=" " alt="" coords="787,157,945,184"/>
+<area shape="rect" id="node8" href="$runmode-pcap-file_8c.html#a8b3fac464c73a6e2f8bfd8175a9dbc96" title="RunModeFilePcapAutoFp set up the following thread packet handlers:" alt="" coords="781,208,951,235"/>
+<area shape="rect" id="node10" href="$tm-threads_8c.html#a99872f4a31107408d8c31184cb6ad746" title=" " alt="" coords="759,259,973,285"/>
+<area shape="rect" id="node7" href="$runmode-erf-file_8c.html#a2fa5ee6e088800426e896df9aeff1048" title=" " alt="" coords="523,157,688,184"/>
+<area shape="rect" id="node9" href="$runmode-pcap-file_8c.html#ac0d7c8cc1a9e09f97cb2fa18dfb6c554" title=" " alt="" coords="516,208,695,235"/>
+<area shape="rect" id="node11" href="$util-runmodes_8c.html#a810a04d89bdecd2d8843381d619c5179" title=" " alt="" coords="524,259,687,285"/>
+<area shape="rect" id="node18" href="$util-runmodes_8c.html#ac9bec6dfc11c447629b049403a6e50b8" title=" " alt="" coords="500,360,711,387"/>
+<area shape="rect" id="node12" href="$runmode-ipfw_8c.html#ab98f939c839da52cdfa459f4369c7881" title=" " alt="" coords="269,183,439,209"/>
+<area shape="rect" id="node14" href="$runmode-nfq_8c.html#a74ab8fb81b460f68e5b2989c9575e41a" title=" " alt="" coords="271,233,437,260"/>
+<area shape="rect" id="node16" href="$runmode-windivert_8c.html#a24d9d5db01e50a174601fa950ca8ba04" title=" " alt="" coords="256,284,452,311"/>
+<area shape="rect" id="node13" href="$runmode-ipfw_8c.html#ae06ebfcccd6f11438a720a3b5753e5ac" title=" " alt="" coords="17,183,196,209"/>
+<area shape="rect" id="node15" href="$runmode-nfq_8c.html#a9357135b637234befb24cfcefde1e95e" title=" " alt="" coords="20,233,193,260"/>
+<area shape="rect" id="node17" href="$runmode-windivert_8c.html#a95cfc299fb3b8f2052138f4d7c314ca5" title=" " alt="" coords="5,284,208,311"/>
+<area shape="rect" id="node19" href="$runmode-af-packet_8c.html#af741b481e72c7d4e52637797fa320ea6" title=" " alt="" coords="273,335,435,361"/>
+<area shape="rect" id="node21" href="$runmode-erf-dag_8c.html#a70b2fc6e66952233a4152397b09c64c4" title=" " alt="" coords="265,385,443,412"/>
+<area shape="rect" id="node23" href="$runmode-pcap_8c.html#a5a917ab959eb97ad190049c17ace53be" title="RunModIdsPcapAutoFp set up the following thread packet handlers:" alt="" coords="270,436,438,463"/>
+<area shape="rect" id="node20" href="$runmode-af-packet_8c.html#abf510dda35701437fc571d5b5f0f1f6e" title=" " alt="" coords="21,335,192,361"/>
+<area shape="rect" id="node22" href="$runmode-erf-dag_8c.html#a48e70c4e7988fa65ee295b869150cfa6" title=" " alt="" coords="23,385,191,412"/>
+<area shape="rect" id="node24" href="$runmode-pcap_8c.html#a16e1fcee3ffd97b1987150fdd11cbbd5" title=" " alt="" coords="19,436,194,463"/>
+</map>

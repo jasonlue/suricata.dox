@@ -1,0 +1,7 @@
+<map id="DetectAddressInit" name="DetectAddressInit">
+<area shape="rect" id="node1" title="Creates and returns a new instance of a DetectAddress." alt="" coords="457,56,584,83"/>
+<area shape="rect" id="node2" href="$detect-engine-address_8c.html#afefb6460ca35b0f95dee9e8cbf193af2" title="copy a DetectAddress" alt="" coords="250,5,390,32"/>
+<area shape="rect" id="node4" href="$detect-engine-address-ipv4_8c.html#a23634e923a6378c7e1706adcf465dffe" title="Cut groups and merge sigs." alt="" coords="241,56,399,83"/>
+<area shape="rect" id="node5" href="$detect-engine-address-ipv4_8c.html#a5f359bf0da2f846881e90b4e2bfc945f" title="Cuts and returns an address range, which is the complement of the address range that is supplied as t..." alt="" coords="231,107,409,133"/>
+<area shape="rect" id="node3" href="$detect-threshold_8c.html#a919b984b1d322370e4bd035818d2da42" title="Make a deep&#45;copy of an extant DetectTHresholdData object." alt="" coords="5,5,183,32"/>
+</map>

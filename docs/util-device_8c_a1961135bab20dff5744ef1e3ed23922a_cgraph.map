@@ -1,0 +1,6 @@
+<map id="LiveDeviceFinalize" name="LiveDeviceFinalize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$util-device_8c.html#ab638156e6321737c11ed2963db820e41" title="Add a pcap device for monitoring and create structure." alt="" coords="185,5,321,32"/>
+<area shape="rect" id="node3" href="$device-storage_8c.html#ac7cbb016b44a82735dd9ab12a985cfb2" title=" " alt="" coords="369,5,511,32"/>
+<area shape="rect" id="node4" href="$util-storage_8c.html#a7cc083db4db0385f32d65439b82827f9" title="get the size of the void array used to store the pointers" alt="" coords="559,5,673,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="StreamingBufferSegmentGetData" name="StreamingBufferSegmentGetData">
+<area shape="rect" id="node1" title=" " alt="" coords="275,93,492,120"/>
+<area shape="rect" id="node2" href="$group__httplayer.html#ga8a911f9749f0b072537051dc72a00ef6" title="Print the information and chunks of a Body." alt="" coords="66,5,166,32"/>
+<area shape="rect" id="node3" href="$util-streaming-buffer_8c.html#a17dae4abf8d2ead05220a79703bbafaf" title=" " alt="" coords="5,57,227,98"/>
+<area shape="rect" id="node4" href="$stream-tcp-inline_8c.html#af15728aeb8e96c2b446b53add4bd936d" title="Compare the shared data portion of two segments." alt="" coords="6,123,226,149"/>
+<area shape="rect" id="node5" href="$stream-tcp-inline_8c.html#ab9a6b48c8496a4e575d7a24f61d1a8ca" title="Replace (part of) the payload portion of a packet by the data in a TCP segment." alt="" coords="9,174,223,215"/>
+</map>

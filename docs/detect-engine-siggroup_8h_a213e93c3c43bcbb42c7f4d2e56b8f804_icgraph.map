@@ -1,0 +1,4 @@
+<map id="SigGroupHeadCopySigs" name="SigGroupHeadCopySigs">
+<area shape="rect" id="node1" title="Copies the bitarray holding the sids from the source SigGroupHead to the destination SigGroupHead." alt="" coords="172,5,336,32"/>
+<area shape="rect" id="node2" href="$detect-engine-port_8c.html#a05bf13895dd5fc46b43c7ac182cb4561" title="function for inserting a port group object. This also makes sure SigGroupContainer lists are handled ..." alt="" coords="5,5,124,32"/>
+</map>

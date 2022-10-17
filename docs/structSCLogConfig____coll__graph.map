@@ -1,0 +1,4 @@
+<map id="SCLogConfig_" name="SCLogConfig_">
+<area shape="rect" id="node1" title="Holds the config state used by the logging api." alt="" coords="21,95,128,121"/>
+<area shape="rect" id="node2" href="$structSCLogOPIfaceCtx__.html" title="The output interface context for the logging module." alt="" coords="5,5,144,32"/>
+</map>

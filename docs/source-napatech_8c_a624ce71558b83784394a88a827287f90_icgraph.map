@@ -1,0 +1,6 @@
+<map id="NapatechStreamThreadExitStats" name="NapatechStreamThreadExitStats">
+<area shape="rect" id="node1" title="Print some stats to the log at program exit." alt="" coords="613,5,796,47"/>
+<area shape="rect" id="node2" href="$source-napatech_8c.html#aeb949c5f1845fff47c31c10691181258" title="Register the Napatech receiver (reader) module." alt="" coords="335,13,565,39"/>
+<area shape="rect" id="node3" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,13,287,39"/>
+<area shape="rect" id="node4" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,13,104,39"/>
+</map>

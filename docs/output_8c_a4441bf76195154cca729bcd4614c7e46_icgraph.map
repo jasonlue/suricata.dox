@@ -1,0 +1,11 @@
+<map id="OutputRegisterPacketModule" name="OutputRegisterPacketModule">
+<area shape="rect" id="node1" title="Register a packet output module." alt="" coords="963,81,1156,108"/>
+<area shape="rect" id="node2" href="$alert-debuglog_8c.html#a828fce4c0f1878b46e93a31d3c17a977" title=" " alt="" coords="757,5,915,32"/>
+<area shape="rect" id="node7" href="$alert-fastlog_8c.html#a30a605b3d274475e1b37ac89d774c72b" title=" " alt="" coords="763,56,909,83"/>
+<area shape="rect" id="node8" href="$alert-syslog_8c.html#a458d1e6d76862bdf808307c6a6430362" title="Function to register the AlertSyslog module." alt="" coords="767,107,905,133"/>
+<area shape="rect" id="node9" href="$log-pcap_8c.html#a4e01d60499121acbb066e7e451a1341c" title=" " alt="" coords="775,157,897,184"/>
+<area shape="rect" id="node3" href="$output_8c.html#a78e884b3e87cdcf1209a58fa547056ba" title="Register all non&#45;root logging modules." alt="" coords="553,81,709,108"/>
+<area shape="rect" id="node4" href="$output_8c.html#ac80ba9af32156c5c394e5e5ceb601295" title=" " alt="" coords="335,81,505,108"/>
+<area shape="rect" id="node5" href="$suricata_8c.html#aa0371b3074789f2a4d26e7d49f182b13" title=" " alt="" coords="152,81,287,108"/>
+<area shape="rect" id="node6" href="$runmode-unittests_8c.html#a9af3110b9567dff662af88ee42b5cba7" title=" " alt="" coords="5,81,104,108"/>
+</map>

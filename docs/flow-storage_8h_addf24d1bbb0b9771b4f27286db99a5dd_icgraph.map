@@ -1,0 +1,14 @@
+<map id="FlowStorageSize" name="FlowStorageSize">
+<area shape="rect" id="node1" title=" " alt="" coords="552,184,673,211"/>
+<area shape="rect" id="node2" href="$flow-util_8c.html#a6c7b29f3d513187227f7b49c673cd9bb" title="allocate a flow" alt="" coords="404,56,483,83"/>
+<area shape="rect" id="node5" href="$flow-util_8c.html#ae5fdd38c5ca6851df9ce87aee016ba54" title="cleanup &amp; free the memory of a flow" alt="" coords="405,157,481,184"/>
+<area shape="rect" id="node9" href="$flow-storage_8c.html#aa43aab9054b3dd6ca65eb1b37acfcf13" title=" " alt="" coords="383,221,504,248"/>
+<area shape="rect" id="node11" href="$flow_8c.html#a2a649d2d3a9c0766202ee154aeee1d20" title="initialize the configuration" alt="" coords="390,284,497,311"/>
+<area shape="rect" id="node3" href="$flow-hash_8c.html#a1dc925fee33bb2626efa046efa3e76cf" title="Get or create a Flow using a FlowKey." alt="" coords="172,5,324,32"/>
+<area shape="rect" id="node4" href="$fuzz__applayerparserparse_8c.html#a91ce7c16e9840492202299da2b451e60" title=" " alt="" coords="161,56,335,83"/>
+<area shape="rect" id="node6" href="$flow_8c.html#adc1589cef09521a8894aed9e365b5f7a" title=" " alt="" coords="17,132,102,159"/>
+<area shape="rect" id="node7" href="$flow_8c.html#a8dae51c56800ed0e22279e49913cd15a" title="shutdown the flow engine" alt="" coords="5,233,113,260"/>
+<area shape="rect" id="node8" href="$util-unittest-helper_8c.html#af06fe2a36e13018d41be2a28357f3032" title=" " alt="" coords="163,157,333,184"/>
+<area shape="rect" id="node10" href="$flow_8c.html#a6e9eb43b74a70300e86da9c025705b1a" title="Function clear the flow memory before queueing it to spare flow queue." alt="" coords="184,259,312,285"/>
+<area shape="rect" id="node12" href="$suricata_8c.html#a24ef7c82defde542c35c3c27e3c41106" title=" " alt="" coords="206,309,290,336"/>
+</map>

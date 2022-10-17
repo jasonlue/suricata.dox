@@ -1,0 +1,10 @@
+<map id="SignatureInitData_" name="SignatureInitData_">
+<area shape="rect" id="node1" title=" " alt="" coords="195,367,326,393"/>
+<area shape="rect" id="node2" href="$structSigMatch__.html" title="a single match condition for a signature" alt="" coords="16,217,100,244"/>
+<area shape="rect" id="node3" href="$structSigMatchCtx__.html" title="Used to start a pointer to SigMatch context Should never be dereferenced without casting to something..." alt="" coords="5,111,111,137"/>
+<area shape="rect" id="node4" href="$structDetectEngineTransforms.html" title=" " alt="" coords="177,217,344,244"/>
+<area shape="rect" id="node5" href="$structTransformData__.html" title=" " alt="" coords="203,111,319,137"/>
+<area shape="rect" id="node6" href="$structDetectAddressHead__.html" title=" " alt="" coords="369,217,515,244"/>
+<area shape="rect" id="node7" href="$structDetectAddress__.html" title="address structure for use in the detection engine." alt="" coords="384,111,500,137"/>
+<area shape="rect" id="node8" href="$structAddress__.html" title=" " alt="" coords="403,5,481,32"/>
+</map>

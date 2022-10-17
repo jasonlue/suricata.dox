@@ -1,0 +1,4 @@
+<map id="ReceiveErfDagThreadExitStats" name="ReceiveErfDagThreadExitStats">
+<area shape="rect" id="node1" title="Print some stats to the log at program exit." alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node2" href="$counters_8c.html#ae4644bd08c832fcdb916e0b4bf2b5428" title="Get the value of the local copy of the counter that hold this id." alt="" coords="259,5,441,32"/>
+</map>

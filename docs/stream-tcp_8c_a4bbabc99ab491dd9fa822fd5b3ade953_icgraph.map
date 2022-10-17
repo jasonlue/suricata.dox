@@ -1,0 +1,5 @@
+<map id="StreamTcpSetOSPolicy" name="StreamTcpSetOSPolicy">
+<area shape="rect" id="node1" title="Function to set the OS policy for the given stream based on the destination of the received packet." alt="" coords="471,13,629,39"/>
+<area shape="rect" id="node2" href="$stream-tcp-reassemble_8c.html#a75ed0e6a51ad7ee4418623e1db12fc8f" title="Insert a packets TCP data into the stream reassembly engine." alt="" coords="224,5,423,47"/>
+<area shape="rect" id="node3" href="$stream-tcp-util_8c.html#aed28f8b80426b663c024011be4356924" title="wrapper for StreamTcpReassembleHandleSegmentHandleData" alt="" coords="5,13,176,39"/>
+</map>

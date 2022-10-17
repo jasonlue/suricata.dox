@@ -1,0 +1,4 @@
+<map id="SCStringPatternToTime" name="SCStringPatternToTime">
+<area shape="rect" id="node1" title="Parse a date string based on specified patterns." alt="" coords="5,29,165,56"/>
+<area shape="rect" id="node2" href="$util-strptime_8c.html#ac61ca60914adeb92f5db18c9dabf7b4f" title=" " alt="" coords="213,29,283,56"/>
+</map>

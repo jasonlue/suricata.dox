@@ -1,0 +1,13 @@
+<map id="DecodeGlobalConfig" name="DecodeGlobalConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,148,134"/>
+<area shape="rect" id="node2" href="$conf_8c.html#a0699665aae394f33c9fe33880891c1e7" title="Retrieve a configuration value as an integer." alt="" coords="424,32,511,58"/>
+<area shape="rect" id="node5" href="$decode-erspan_8c.html#ab6d87ca3faba6a218de55e6c22862599" title="Functions to decode ERSPAN Type I and II packets." alt="" coords="204,82,363,109"/>
+<area shape="rect" id="node8" href="$decode-geneve_8c.html#a2e8f7e442227b91fd951691ebab977f9" title=" " alt="" coords="208,133,359,160"/>
+<area shape="rect" id="node9" href="$decode-teredo_8c.html#a0c32fcd65ec356bb86c958f37cf4c2d8" title=" " alt="" coords="211,184,355,210"/>
+<area shape="rect" id="node10" href="$decode-vxlan_8c.html#a971a7ab4b6671ed5aa2fb2f6818764bb" title=" " alt="" coords="209,234,358,261"/>
+<area shape="rect" id="node11" href="$group__decode.html#gafcf2f3a7ed9a7ae412346561ed55b93a" title=" " alt="" coords="196,32,371,58"/>
+<area shape="rect" id="node3" href="$conf_8c.html#ab7638a53fd00da93228a4769b1efd635" title="Retrieve the value of a configuration node." alt="" coords="581,57,652,84"/>
+<area shape="rect" id="node4" href="$conf_8c.html#a2a8a51bd7c5873dd3fc70685bc769185" title="Get a ConfNode by name." alt="" coords="717,57,820,84"/>
+<area shape="rect" id="node6" href="$conf_8c.html#ad05ff3c317a042691169abc26475bb19" title="Retrieve a configuration value as an boolen." alt="" coords="419,133,516,160"/>
+<area shape="rect" id="node7" href="$conf_8c.html#aade6334a8339003368930c54f9da6a0f" title="Check if a value is true." alt="" coords="564,133,669,160"/>
+</map>
